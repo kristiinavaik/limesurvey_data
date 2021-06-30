@@ -1,1441 +1,1441 @@
-tekst,dimensioon,vastaja 1,vastaja 2,vastaja 3,vastaja 4,vastaja 5,vastaja 6,vastaja 7,vastaja 8,vastaja 9,vastaja 10,võrdlused
-www_ekspress_ee.ela_177019.txt,abstraktsus,2,3,2,3,3,1,3,3,3,3,www_aialeht_ee.ela_457123.txt www_vorumaateataja_ee.ela_494965.txt
-,infotihedus,3,,,,,,,,,,www_aialeht_ee.ela_457123.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,1,3,1,2,2,1,2,,,,www_tootukassa_ee.ela_395777.txt www_vorumaateataja_ee.ela_494965.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,1,2,2,2,3,3,3,3,3,3,www_tootukassa_ee.ela_395777.txt www_vorumaateataja_ee.ela_494965.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,2,2,2,3,3,2,,,,,www_bioneer_ee.ela_243230.txt www_aialeht_ee.ela_457123.txt
-,subjektiivsus,2,2,2,3,3,2,3,2,3,3,www_bioneer_ee.ela_243230.txt www_aialeht_ee.ela_457123.txt
-,spontaansus,3,1,2,3,2,3,3,3,3,2,www_bioneer_ee.ela_243230.txt www_tootukassa_ee.ela_395777.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,3,2,2,3,3,2,3,,,,www_bioneer_ee.ela_243230.txt www_tootukassa_ee.ela_395777.txt
-www_vorumaateataja_ee.ela_494965.txt,abstraktsus,1,,,,,,,,,,www_tarbijakaitse_ee.ela_199918.txt
-,infotihedus,2,2,2,2,2,1,1,,,,www_ekspress_ee.ela_177019.txt www_tarbijakaitse_ee.ela_199918.txt
-,aja olulisus,2,2,2,,,,,,,,www_ekspress_ee.ela_177019.txt www_tarbijakaitse_ee.ela_199918.txt
-,afektiivsus,2,3,2,1,1,2,2,,,,www_ekspress_ee.ela_177019.txt www_horisont_ee.ela_455809.txt
-,formaalsus,2,2,1,,,,,,,,www_ekspress_ee.ela_177019.txt
-,interaktiivsus,1,2,,,,,,,,,www_horisont_ee.ela_455809.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,1,,,,,,,,,,www_nami-nami_ee.ela_456341.txt
-,subjektiivsus,3,3,1,2,2,1,3,2,,,www_nami-nami_ee.ela_456341.txt www_tarbijakaitse_ee.ela_199918.txt
-,spontaansus,2,1,2,,,,,,,,www_nami-nami_ee.ela_456341.txt www_horisont_ee.ela_455809.txt
-,impersonaalsus,2,1,1,2,,,,,,,www_nami-nami_ee.ela_456341.txt
-,argumentatiivsus,2,2,2,2,1,2,1,2,,,www_nami-nami_ee.ela_456341.txt www_horisont_ee.ela_455809.txt
-arhiiv_koolielu_ee.ela_481254.txt,abstraktsus,2,1,2,2,1,1,2,2,,,et_wikipedia_org.ela_191506.txt www_hambaarst_ee.ela_475731.txt
-,infotihedus,2,3,,,,,,,,,www_hambaarst_ee.ela_475731.txt
-,aja olulisus,1,,,,,,,,,,www_hambaarst_ee.ela_475731.txt
-,afektiivsus,1,1,2,,,,,,,,et_wikipedia_org.ela_191506.txt
-,formaalsus,1,2,1,1,,,,,,,et_wikipedia_org.ela_191506.txt ylle_mrt_ee.ela_101705.txt
-,interaktiivsus,1,1,1,1,,,,,,,et_wikipedia_org.ela_191506.txt ylle_mrt_ee.ela_101705.txt
-,instrueerivus,1,1,1,2,,,,,,,www_hambaarst_ee.ela_475731.txt
-,keerukus,2,,,,,,,,,,www_vm_ee.ela_81604.txt
-,subjektiivsus,1,1,2,1,1,2,2,2,1,,www_vm_ee.ela_81604.txt www_hambaarst_ee.ela_475731.txt
-,spontaansus,1,,,,,,,,,,www_vm_ee.ela_81604.txt
-,impersonaalsus,3,3,2,2,3,2,,,,,www_vm_ee.ela_81604.txt ylle_mrt_ee.ela_101705.txt
-,argumentatiivsus,2,2,2,2,2,2,2,,,,www_vm_ee.ela_81604.txt ylle_mrt_ee.ela_101705.txt
-et_wikipedia_org.ela_191506.txt,abstraktsus,2,2,,,,,,,,,www_vm_ee.ela_81604.txt
-,infotihedus,3,3,3,3,3,2,2,3,2,,www_vm_ee.ela_81604.txt arhiiv_koolielu_ee.ela_481254.txt
-,aja olulisus,3,3,3,3,3,3,2,2,3,3,www_vm_ee.ela_81604.txt arhiiv_koolielu_ee.ela_481254.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,2,3,2,2,2,1,2,,,www_soudeliit_ee.ela_547578.txt arhiiv_koolielu_ee.ela_481254.txt
-,interaktiivsus,1,,,,,,,,,,www_soudeliit_ee.ela_547578.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,1,3,1,2,1,1,1,2,,,www_vm_ee.ela_81604.txt www_politsei_ee.ela_163441.txt
-,subjektiivsus,1,,,,,,,,,,www_politsei_ee.ela_163441.txt
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,3,2,2,,,,,,,,www_soudeliit_ee.ela_547578.txt www_politsei_ee.ela_163441.txt
-,argumentatiivsus,2,1,1,1,,,,,,,www_soudeliit_ee.ela_547578.txt www_politsei_ee.ela_163441.txt
-et_wikipedia_org.ela_219301.txt,abstraktsus,3,2,2,2,3,1,3,2,2,1,www_politsei_ee.ela_163441.txt www_politsei_ee.ela_40109.txt
-,infotihedus,1,,,,,,,,,,www_politsei_ee.ela_40109.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,,,,,,,,,,,
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,2,2,,,,,,,,,www_vnl_ee.ela_670256.txt
-,keerukus,1,1,1,1,,,,,,,www_politsei_ee.ela_40109.txt www_vnl_ee.ela_670256.txt
-,subjektiivsus,1,,,,,,,,,,www_politsei_ee.ela_40109.txt
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,3,3,2,2,3,2,,,,www_vnl_ee.ela_670256.txt www_epl_ee.ela_679018.txt
-,argumentatiivsus,1,2,3,1,,,,,,,www_vnl_ee.ela_670256.txt www_epl_ee.ela_679018.txt
-www_politsei_ee.ela_163441.txt,abstraktsus,,,,,,,,,,,
-,infotihedus,3,3,3,3,3,2,2,1,3,2,et_wikipedia_org.ela_219301.txt arvamusaed_ee.ela_6007.txt
-,aja olulisus,3,2,3,2,3,2,3,1,,,et_wikipedia_org.ela_219301.txt arvamusaed_ee.ela_6007.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,3,3,3,1,3,2,1,1,,et_wikipedia_org.ela_219301.txt www_kv_ee.ela_199481.txt
-,interaktiivsus,2,,,,,,,,,,www_kv_ee.ela_199481.txt
-,instrueerivus,3,,,,,,,,,,et_wikipedia_org.ela_191506.txt
-,keerukus,1,1,,,,,,,,,et_wikipedia_org.ela_191506.txt arvamusaed_ee.ela_6007.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,1,2,,,,,,,,,et_wikipedia_org.ela_191506.txt
-,impersonaalsus,3,3,3,1,2,,,,,,et_wikipedia_org.ela_191506.txt www_kv_ee.ela_199481.txt
-,argumentatiivsus,2,1,,,,,,,,,www_kv_ee.ela_199481.txt
-reisiajakiri_gomaailm_ee.ela_530539.txt,abstraktsus,,,,,,,,,,,
-,infotihedus,2,1,1,2,3,2,,,,,www_vsport_ee.ela_120496.txt toompark_pri_ee.ela_458650.txt
-,aja olulisus,1,3,2,2,,,,,,,toompark_pri_ee.ela_458650.txt
-,afektiivsus,2,2,1,1,1,2,1,,,,www_vsport_ee.ela_120496.txt www_maaleht_ee.ela_246360.txt
-,formaalsus,2,,,,,,,,,,www_vsport_ee.ela_120496.txt
-,interaktiivsus,1,1,1,1,,,,,,,www_vsport_ee.ela_120496.txt www_maaleht_ee.ela_246360.txt
-,instrueerivus,1,2,2,,,,,,,,arvamus_postimees_ee.ela_5946.txt toompark_pri_ee.ela_458650.txt
-,keerukus,,,,,,,,,,,
-,subjektiivsus,2,3,,,,,,,,,arvamus_postimees_ee.ela_5946.txt
-,spontaansus,3,2,2,2,1,,,,,,arvamus_postimees_ee.ela_5946.txt www_maaleht_ee.ela_246360.txt
-,impersonaalsus,2,,,,,,,,,,arvamus_postimees_ee.ela_5946.txt
-,argumentatiivsus,1,1,1,,,,,,,,arvamus_postimees_ee.ela_5946.txt www_maaleht_ee.ela_246360.txt
-www_vsport_ee.ela_120496.txt,abstraktsus,,,,,,,,,,,
-,infotihedus,3,3,3,2,3,3,3,,,,valitsus_ee.ela_132104.txt reisiajakiri_gomaailm_ee.ela_530539.txt
-,aja olulisus,3,3,3,3,2,2,3,2,2,3,valitsus_ee.ela_132104.txt reisiajakiri_gomaailm_ee.ela_530539.txt
-,afektiivsus,1,3,1,1,1,,,,,,www_mod_gov_ee.ela_178680.txt reisiajakiri_gomaailm_ee.ela_530539.txt
-,formaalsus,2,1,1,,,,,,,,reisiajakiri_gomaailm_ee.ela_530539.txt
-,interaktiivsus,1,3,2,,,,,,,,www_mod_gov_ee.ela_178680.txt reisiajakiri_gomaailm_ee.ela_530539.txt
-,instrueerivus,3,3,2,,,,,,,,bhr_balanss_ee.ela_565106.txt valitsus_ee.ela_132104.txt
-,keerukus,2,2,1,2,1,,,,,,bhr_balanss_ee.ela_565106.txt valitsus_ee.ela_132104.txt
-,subjektiivsus,1,2,,,,,,,,,bhr_balanss_ee.ela_565106.txt valitsus_ee.ela_132104.txt
-,spontaansus,2,,,,,,,,,,bhr_balanss_ee.ela_565106.txt
-,impersonaalsus,2,3,2,,,,,,,,bhr_balanss_ee.ela_565106.txt www_mod_gov_ee.ela_178680.txt
-,argumentatiivsus,,,,,,,,,,,
-www_advent_ee.ela_658698.txt,abstraktsus,2,2,1,2,2,1,3,2,3,,www_pealinn_ee.ela_132426.txt eok_ee.ela_435890.txt
-,infotihedus,,,,,,,,,,,
-,aja olulisus,2,2,1,2,3,,,,,,www_pealinn_ee.ela_132426.txt eok_ee.ela_435890.txt
-,afektiivsus,3,3,2,3,2,2,1,2,2,3,www_riigikogu_ee.ela_224866.txt eok_ee.ela_435890.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,1,3,1,3,,,,,,,www_riigikogu_ee.ela_224866.txt eok_ee.ela_435890.txt
-,instrueerivus,1,2,1,3,1,,,,,,www_pealinn_ee.ela_132426.txt www_post_ee.ela_149870.txt
-,keerukus,1,,,,,,,,,,www_post_ee.ela_149870.txt
-,subjektiivsus,2,3,2,3,1,2,2,2,,,www_pealinn_ee.ela_132426.txt www_post_ee.ela_149870.txt
-,spontaansus,2,1,1,1,,,,,,,www_riigikogu_ee.ela_224866.txt www_post_ee.ela_149870.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,3,3,1,1,1,1,,,,,www_riigikogu_ee.ela_224866.txt www_post_ee.ela_149870.txt
-eok_ee.ela_435890.txt,abstraktsus,,,,,,,,,,,
-,infotihedus,3,2,3,2,3,2,2,2,2,,kalah_zzz_ee.ela_52237.txt www_advent_ee.ela_658698.txt
-,aja olulisus,3,3,2,2,1,3,1,3,,,kalah_zzz_ee.ela_52237.txt www_advent_ee.ela_658698.txt
-,afektiivsus,1,,,,,,,,,,www_eestisport_ee.ela_196071.txt
-,formaalsus,2,1,2,1,1,2,2,,,,www_advent_ee.ela_658698.txt www_eestisport_ee.ela_196071.txt
-,interaktiivsus,1,1,,,,,,,,,www_advent_ee.ela_658698.txt www_eestisport_ee.ela_196071.txt
-,instrueerivus,2,,,,,,,,,,kalah_zzz_ee.ela_52237.txt
-,keerukus,2,3,2,1,,,,,,,kalah_zzz_ee.ela_52237.txt toompark_pri_ee.ela_458650.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,1,,,,,,,,,,www_eestisport_ee.ela_196071.txt
-,impersonaalsus,2,3,,,,,,,,,toompark_pri_ee.ela_458650.txt www_eestisport_ee.ela_196071.txt
-,argumentatiivsus,2,,,,,,,,,,www_eestisport_ee.ela_196071.txt
-www_tarbijakaitse_ee.ela_199918.txt,abstraktsus,,,,,,,,,,,
-,infotihedus,2,2,2,1,1,,,,,,www_tallegg_ee.ela_33687.txt www_vorumaateataja_ee.ela_494965.txt
-,aja olulisus,1,1,1,2,1,1,1,,,,www_tallegg_ee.ela_33687.txt www_vorumaateataja_ee.ela_494965.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,2,2,,,,,,,,www_tallegg_ee.ela_33687.txt
-,interaktiivsus,1,2,1,,,,,,,,www_tallegg_ee.ela_33687.txt www_employers_ee.ela_617415.txt
-,instrueerivus,1,1,,,,,,,,,rahvahaal_delfi_ee.ela_388979.txt
-,keerukus,1,1,1,1,1,,,,,,rahvahaal_delfi_ee.ela_388979.txt www_vorumaateataja_ee.ela_494965.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,3,3,2,2,,,,,,www_employers_ee.ela_617415.txt rahvahaal_delfi_ee.ela_388979.txt
-,argumentatiivsus,2,2,,,,,,,,,www_employers_ee.ela_617415.txt
-www_lemmik_ee.ela_519214.txt,abstraktsus,1,,,,,,,,,,no_spam_ee.ela_2227.txt
-,infotihedus,1,1,1,,,,,,,,www_soudeliit_ee.ela_547578.txt
-,aja olulisus,2,,,,,,,,,,no_spam_ee.ela_2227.txt
-,afektiivsus,1,1,1,2,1,,,,,,www_soudeliit_ee.ela_547578.txt
-,formaalsus,2,,,,,,,,,,static_inimene_ee.ela_194968.txt
-,interaktiivsus,1,3,1,1,1,1,1,,,,www_soudeliit_ee.ela_547578.txt static_inimene_ee.ela_194968.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,,,,,,,,,,,
-,subjektiivsus,2,1,,,,,,,,,www_hambaarst_ee.ela_423040.txt
-,spontaansus,1,1,,,,,,,,,static_inimene_ee.ela_194968.txt www_hambaarst_ee.ela_423040.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,1,1,,,,,,,,,www_hambaarst_ee.ela_423040.txt
-www_soudeliit_ee.ela_547578.txt,abstraktsus,,,,,,,,,,,
-,infotihedus,2,2,1,1,2,,,,,,bhr_balanss_ee.ela_565106.txt www_lemmik_ee.ela_519214.txt
-,aja olulisus,3,3,1,2,2,2,1,2,2,,bhr_balanss_ee.ela_565106.txt www_lemmik_ee.ela_519214.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,1,2,1,,,,,,,www_lemmik_ee.ela_519214.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,1,,,,,,,,,,bhr_balanss_ee.ela_565106.txt
-,keerukus,,,,,,,,,,,
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,1,,,,,,,,,,et_wikipedia_org.ela_191506.txt
-,impersonaalsus,2,2,3,2,2,1,3,,,,et_wikipedia_org.ela_191506.txt www_ekspress_ee.ela_495829.txt
-,argumentatiivsus,,,,,,,,,,,
-www_bioneer_ee.ela_243230.txt,abstraktsus,2,2,3,,,,,,,,www_xn--eestimngula-q8a_ee.ela_40079.txt static_inimene_ee.ela_194968.txt
-,infotihedus,3,2,2,3,,,,,,,www_xn--eestimngula-q8a_ee.ela_40079.txt static_inimene_ee.ela_194968.txt
-,aja olulisus,2,1,1,2,1,2,1,1,,,www_xn--eestimngula-q8a_ee.ela_40079.txt static_inimene_ee.ela_194968.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,3,3,3,2,3,3,2,3,3,2,nami-nami_ee.ela_372868.txt www_xn--eestimngula-q8a_ee.ela_40079.txt
-,interaktiivsus,1,1,1,,,,,,,,nami-nami_ee.ela_372868.txt www_xn--eestimngula-q8a_ee.ela_40079.txt
-,instrueerivus,2,2,2,2,,,,,,,www_ekspress_ee.ela_177019.txt static_inimene_ee.ela_194968.txt
-,keerukus,2,2,2,2,2,2,1,,,,www_ekspress_ee.ela_177019.txt static_inimene_ee.ela_194968.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,2,1,,,,,,,,,nami-nami_ee.ela_372868.txt
-,impersonaalsus,3,3,3,3,2,2,2,,,,nami-nami_ee.ela_372868.txt www_ekspress_ee.ela_177019.txt
-,argumentatiivsus,2,2,2,,,,,,,,nami-nami_ee.ela_372868.txt
-arvamusaed_ee.ela_6007.txt,abstraktsus,1,1,1,2,,,,,,,www_politsei_ee.ela_163441.txt rahvahaal_delfi_ee.ela_388979.txt
-,infotihedus,2,,,,,,,,,,rahvahaal_delfi_ee.ela_388979.txt
-,aja olulisus,1,2,1,2,,,,,,,www_politsei_ee.ela_163441.txt rahvahaal_delfi_ee.ela_388979.txt
-,afektiivsus,2,1,2,2,1,,,,,,et_wikipedia_org.ela_467359.txt
-,formaalsus,1,2,1,,,,,,,,rahvahaal_delfi_ee.ela_388979.txt
-,interaktiivsus,1,2,,,,,,,,,et_wikipedia_org.ela_467359.txt
-,instrueerivus,1,2,,,,,,,,,www_politsei_ee.ela_163441.txt www_eestigiid_ee.ela_530847.txt
-,keerukus,,,,,,,,,,,
-,subjektiivsus,3,2,3,2,2,3,1,2,2,2,www_politsei_ee.ela_163441.txt www_eestigiid_ee.ela_530847.txt
-,spontaansus,1,1,,,,,,,,,et_wikipedia_org.ela_467359.txt www_eestigiid_ee.ela_530847.txt
-,impersonaalsus,2,3,2,,,,,,,,et_wikipedia_org.ela_467359.txt
-,argumentatiivsus,1,3,2,2,2,2,2,2,2,,et_wikipedia_org.ela_467359.txt www_eestigiid_ee.ela_530847.txt
-rahvahaal_delfi_ee.ela_388979.txt,abstraktsus,2,2,1,2,,,,,,,kalah_zzz_ee.ela_73709.txt arvamusaed_ee.ela_6007.txt
-,infotihedus,2,3,2,2,2,,,,,,kalah_zzz_ee.ela_73709.txt arvamusaed_ee.ela_6007.txt
-,aja olulisus,1,2,2,2,,,,,,,kalah_zzz_ee.ela_73709.txt arvamusaed_ee.ela_6007.txt
-,afektiivsus,2,3,2,3,3,3,2,3,2,3,arvamusaed_ee.ela_6007.txt www_epl_ee.ela_495381.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,2,3,2,2,1,,,,,,arvamusaed_ee.ela_6007.txt www_epl_ee.ela_495381.txt
-,instrueerivus,1,2,1,1,,,,,,,kalah_zzz_ee.ela_73709.txt www_tarbijakaitse_ee.ela_199918.txt
-,keerukus,1,,,,,,,,,,kalah_zzz_ee.ela_73709.txt
-,subjektiivsus,3,3,2,3,3,3,,,,,kalah_zzz_ee.ela_73709.txt www_tarbijakaitse_ee.ela_199918.txt
-,spontaansus,2,1,1,1,1,2,1,,,,www_tarbijakaitse_ee.ela_199918.txt www_epl_ee.ela_495381.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,2,3,3,3,3,3,2,1,,,www_tarbijakaitse_ee.ela_199918.txt www_epl_ee.ela_495381.txt
-www_tootukassa_ee.ela_395777.txt,abstraktsus,1,1,2,2,3,,,,,,blablabla_ee.ela_504829.txt www_mod_gov_ee.ela_178680.txt
-,infotihedus,3,2,3,3,3,2,2,2,3,,blablabla_ee.ela_504829.txt www_mod_gov_ee.ela_178680.txt
-,aja olulisus,1,2,2,,,,,,,,blablabla_ee.ela_504829.txt www_mod_gov_ee.ela_178680.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,3,3,3,3,3,3,3,3,3,3,blablabla_ee.ela_504829.txt www_ekspress_ee.ela_177019.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,1,2,2,2,2,1,3,3,3,,www_le_ee.ela_240831.txt www_mod_gov_ee.ela_178680.txt
-,keerukus,2,1,3,1,1,2,,,,,www_le_ee.ela_240831.txt www_mod_gov_ee.ela_178680.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,3,3,3,3,3,3,3,3,2,,www_ekspress_ee.ela_177019.txt www_le_ee.ela_240831.txt
-,argumentatiivsus,2,1,3,2,,,,,,,www_ekspress_ee.ela_177019.txt www_le_ee.ela_240831.txt
-blablabla_ee.ela_504829.txt,abstraktsus,1,1,,,,,,,,,www_tootukassa_ee.ela_395777.txt www_director_ee.ela_529643.txt
-,infotihedus,,,,,,,,,,,
-,aja olulisus,1,2,2,1,2,1,,,,,www_tootukassa_ee.ela_395777.txt www_director_ee.ela_529643.txt
-,afektiivsus,3,2,1,3,3,1,1,2,3,2,www_tootukassa_ee.ela_395777.txt www_jeesusekristusekirik_ee.ela_65555.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,2,3,2,3,1,2,,,,,www_tootukassa_ee.ela_395777.txt www_jeesusekristusekirik_ee.ela_65555.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,2,1,2,,,,,,,,www_seduction_ee.ela_642092.txt www_director_ee.ela_529643.txt
-,subjektiivsus,2,2,2,2,2,3,,,,,www_seduction_ee.ela_642092.txt www_director_ee.ela_529643.txt
-,spontaansus,1,2,2,1,,,,,,,www_seduction_ee.ela_642092.txt www_jeesusekristusekirik_ee.ela_65555.txt
-,impersonaalsus,2,,,,,,,,,,www_seduction_ee.ela_642092.txt
-,argumentatiivsus,3,,,,,,,,,,www_jeesusekristusekirik_ee.ela_65555.txt
-forte_delfi_ee.ela_88079.txt,abstraktsus,1,,,,,,,,,,www_eestisport_ee.ela_196071.txt
-,infotihedus,2,2,2,2,3,2,2,,,,rahvahaal_delfi_ee.ela_258274.txt www_eestisport_ee.ela_196071.txt
-,aja olulisus,1,2,,,,,,,,,www_eestisport_ee.ela_196071.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,1,,,,,,,,,rahvahaal_delfi_ee.ela_258274.txt
-,interaktiivsus,1,1,,,,,,,,,rahvahaal_delfi_ee.ela_258274.txt
-,instrueerivus,3,3,3,2,3,3,2,1,2,,www_emta_ee.ela_522725.txt www_eestisport_ee.ela_196071.txt
-,keerukus,2,,,,,,,,,,www_eestisport_ee.ela_196071.txt
-,subjektiivsus,1,1,2,1,1,2,2,1,,,www_emta_ee.ela_522725.txt www_eestisport_ee.ela_196071.txt
-,spontaansus,1,1,2,1,,,,,,,www_naisteleht_ee.ela_355886.txt www_emta_ee.ela_522725.txt
-,impersonaalsus,2,1,2,2,2,2,2,,,,www_naisteleht_ee.ela_355886.txt www_emta_ee.ela_522725.txt
-,argumentatiivsus,2,2,2,2,2,1,1,3,,,www_naisteleht_ee.ela_355886.txt www_emta_ee.ela_522725.txt
-rahvahaal_delfi_ee.ela_258274.txt,abstraktsus,1,2,1,,,,,,,,www_lounaleht_ee.ela_576969.txt
-,infotihedus,2,1,2,,,,,,,,www_lounaleht_ee.ela_576969.txt
-,aja olulisus,1,1,1,2,1,1,,,,,forte_delfi_ee.ela_88079.txt www_lounaleht_ee.ela_576969.txt
-,afektiivsus,3,2,2,3,3,2,2,3,3,3,www_eramets_ee.ela_479405.txt forte_delfi_ee.ela_88079.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,1,1,,,,,,,,,www_eramets_ee.ela_479405.txt forte_delfi_ee.ela_88079.txt
-,instrueerivus,1,2,1,1,,,,,,,www_lounaleht_ee.ela_576969.txt www_dragon_ee.ela_303548.txt
-,keerukus,1,,,,,,,,,,www_dragon_ee.ela_303548.txt
-,subjektiivsus,2,3,3,3,3,3,2,,,,www_lounaleht_ee.ela_576969.txt www_dragon_ee.ela_303548.txt
-,spontaansus,1,2,1,1,1,,,,,,www_eramets_ee.ela_479405.txt
-,impersonaalsus,3,2,,,,,,,,,www_dragon_ee.ela_303548.txt
-,argumentatiivsus,2,1,2,2,3,3,2,,,,www_eramets_ee.ela_479405.txt www_dragon_ee.ela_303548.txt
-www_porterracing_ee.ela_609577.txt,abstraktsus,1,,,,,,,,,,mesindus_ee.ela_210638.txt
-,infotihedus,2,2,1,2,1,2,1,2,,,www_naisteleht_ee.ela_355886.txt mesindus_ee.ela_210638.txt
-,aja olulisus,3,2,2,2,3,2,,,,,www_naisteleht_ee.ela_355886.txt mesindus_ee.ela_210638.txt
-,afektiivsus,3,3,3,2,2,1,2,1,,,mesindus_ee.ela_210638.txt www_eestigiid_ee.ela_530847.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,1,1,,,,,,,,,www_horisont_ee.ela_455809.txt
-,keerukus,1,1,,,,,,,,,www_naisteleht_ee.ela_355886.txt
-,subjektiivsus,3,2,3,2,2,1,2,3,1,,www_naisteleht_ee.ela_355886.txt www_horisont_ee.ela_455809.txt
-,spontaansus,2,2,1,2,2,1,,,,,www_horisont_ee.ela_455809.txt www_eestigiid_ee.ela_530847.txt
-,impersonaalsus,2,2,,,,,,,,,www_horisont_ee.ela_455809.txt
-,argumentatiivsus,1,1,,,,,,,,,www_eestigiid_ee.ela_530847.txt
-www_horisont_ee.ela_455809.txt,abstraktsus,2,1,3,2,2,1,1,,,,et_wikipedia_org.ela_467359.txt www_pealinn_ee.ela_132426.txt
-,infotihedus,3,2,3,1,3,2,,,,,et_wikipedia_org.ela_467359.txt www_pealinn_ee.ela_132426.txt
-,aja olulisus,2,2,2,2,3,,,,,,et_wikipedia_org.ela_467359.txt www_pealinn_ee.ela_132426.txt
-,afektiivsus,1,1,,,,,,,,,www_pealinn_ee.ela_132426.txt www_vorumaateataja_ee.ela_494965.txt
-,formaalsus,1,1,2,1,,,,,,,www_pealinn_ee.ela_132426.txt www_vorumaateataja_ee.ela_494965.txt
-,interaktiivsus,1,1,,,,,,,,,www_pealinn_ee.ela_132426.txt www_vorumaateataja_ee.ela_494965.txt
-,instrueerivus,2,2,1,,,,,,,,www_porterracing_ee.ela_609577.txt et_wikipedia_org.ela_467359.txt
-,keerukus,2,1,2,1,2,2,1,,,,www_porterracing_ee.ela_609577.txt et_wikipedia_org.ela_467359.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,1,2,2,2,3,3,2,2,,,www_porterracing_ee.ela_609577.txt www_vorumaateataja_ee.ela_494965.txt
-,argumentatiivsus,2,2,1,2,1,1,1,,,,www_porterracing_ee.ela_609577.txt www_vorumaateataja_ee.ela_494965.txt
-www_pealinn_ee.ela_132426.txt,abstraktsus,,,,,,,,,,,
-,infotihedus,3,2,3,2,2,2,2,3,,,www_horisont_ee.ela_455809.txt www_advent_ee.ela_658698.txt
-,aja olulisus,1,1,2,2,,,,,,,www_horisont_ee.ela_455809.txt www_advent_ee.ela_658698.txt
-,afektiivsus,1,2,2,2,3,2,2,1,1,,www_europarl_ee.ela_36110.txt www_horisont_ee.ela_455809.txt
-,formaalsus,1,2,1,,,,,,,,www_horisont_ee.ela_455809.txt
-,interaktiivsus,1,2,1,,,,,,,,www_europarl_ee.ela_36110.txt www_horisont_ee.ela_455809.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,2,3,2,2,1,3,2,2,1,,valitsus_ee.ela_132104.txt www_advent_ee.ela_658698.txt
-,subjektiivsus,3,1,1,3,1,2,1,,,,valitsus_ee.ela_132104.txt www_advent_ee.ela_658698.txt
-,spontaansus,2,1,1,1,1,,,,,,www_europarl_ee.ela_36110.txt valitsus_ee.ela_132104.txt
-,impersonaalsus,2,2,2,2,3,,,,,,www_europarl_ee.ela_36110.txt valitsus_ee.ela_132104.txt
-,argumentatiivsus,2,2,1,2,3,3,3,,,,www_europarl_ee.ela_36110.txt valitsus_ee.ela_132104.txt
-www_3dnews_ee.ela_435253.txt,abstraktsus,2,2,1,2,3,,,,,,www_nami-nami_ee.ela_456341.txt www_delfi_ee.ela_361703.txt
-,infotihedus,1,3,3,3,2,2,2,3,3,,www_nami-nami_ee.ela_456341.txt www_delfi_ee.ela_361703.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,2,1,2,1,2,2,3,2,,www_nami-nami_ee.ela_456341.txt untitled.txt
-,interaktiivsus,1,,,,,,,,,,www_nami-nami_ee.ela_456341.txt
-,instrueerivus,2,1,2,3,1,2,,,,,www_delfi_ee.ela_361703.txt www_maaleht_ee.ela_246360.txt
-,keerukus,1,1,1,3,2,2,2,2,2,1,www_delfi_ee.ela_361703.txt www_maaleht_ee.ela_246360.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,3,3,3,2,2,3,3,3,1,3,untitled.txt www_maaleht_ee.ela_246360.txt
-,argumentatiivsus,3,2,,,,,,,,,untitled.txt
-www_kohus_ee.ela_34731.txt,abstraktsus,1,,,,,,,,,,www_post_ee.ela_149870.txt
-,infotihedus,2,3,2,3,2,2,3,2,2,,www_lapsemure_ee.ela_140896.txt www_post_ee.ela_149870.txt
-,aja olulisus,3,2,2,2,3,2,3,2,,,www_lapsemure_ee.ela_140896.txt www_post_ee.ela_149870.txt
-,afektiivsus,3,1,,,,,,,,,www_post_ee.ela_149870.txt
-,formaalsus,3,2,3,3,2,1,2,,,,www_post_ee.ela_149870.txt toompark_pri_ee.ela_458650.txt
-,interaktiivsus,3,3,2,,,,,,,,www_post_ee.ela_149870.txt toompark_pri_ee.ela_458650.txt
-,instrueerivus,2,2,3,,,,,,,,www_lapsemure_ee.ela_140896.txt arvamusaed_ee.ela_274676.txt
-,keerukus,1,1,2,1,1,2,2,,,,www_lapsemure_ee.ela_140896.txt arvamusaed_ee.ela_274676.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,2,3,2,2,,,,,,arvamusaed_ee.ela_274676.txt toompark_pri_ee.ela_458650.txt
-,argumentatiivsus,3,2,3,2,,,,,,,toompark_pri_ee.ela_458650.txt
-www_seduction_ee.ela_642092.txt,abstraktsus,1,2,1,3,2,2,3,,,,stiimul_ee.ela_330566.txt
-,infotihedus,1,,,,,,,,,,stiimul_ee.ela_330566.txt
-,aja olulisus,1,1,2,,,,,,,,stiimul_ee.ela_330566.txt
-,afektiivsus,3,3,2,3,3,3,2,3,3,3,www_reklaamitrikk_ee.ela_315713.txt stiimul_ee.ela_330566.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,1,2,1,3,1,,,,,,www_reklaamitrikk_ee.ela_315713.txt stiimul_ee.ela_330566.txt
-,instrueerivus,3,1,,,,,,,,,blablabla_ee.ela_504829.txt
-,keerukus,1,2,1,1,,,,,,,blablabla_ee.ela_504829.txt stiimul_ee.ela_330566.txt
-,subjektiivsus,3,3,3,3,3,3,3,2,3,,blablabla_ee.ela_504829.txt stiimul_ee.ela_330566.txt
-,spontaansus,2,3,1,3,3,2,3,,,,www_reklaamitrikk_ee.ela_315713.txt blablabla_ee.ela_504829.txt
-,impersonaalsus,2,1,,,,,,,,,www_reklaamitrikk_ee.ela_315713.txt blablabla_ee.ela_504829.txt
-,argumentatiivsus,2,1,3,2,1,2,1,,,,www_reklaamitrikk_ee.ela_315713.txt blablabla_ee.ela_504829.txt
-stiimul_ee.ela_330566.txt,abstraktsus,1,1,,,,,,,,,www_seduction_ee.ela_642092.txt
-,infotihedus,1,3,2,2,1,2,1,1,2,,www_seduction_ee.ela_642092.txt
-,aja olulisus,1,,,,,,,,,,www_seduction_ee.ela_642092.txt
-,afektiivsus,1,,,,,,,,,,et_wikipedia_org.ela_624820.txt
-,formaalsus,1,2,2,2,2,,,,,,www_seduction_ee.ela_642092.txt et_wikipedia_org.ela_624820.txt
-,interaktiivsus,1,3,1,3,2,1,1,,,,www_seduction_ee.ela_642092.txt et_wikipedia_org.ela_624820.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,1,1,1,1,,,,,,,www_seduction_ee.ela_642092.txt www_lounaleht_ee.ela_576969.txt
-,subjektiivsus,1,1,,,,,,,,,www_lounaleht_ee.ela_576969.txt
-,spontaansus,1,1,,,,,,,,,et_wikipedia_org.ela_624820.txt www_lounaleht_ee.ela_576969.txt
-,impersonaalsus,2,,,,,,,,,,et_wikipedia_org.ela_624820.txt
-,argumentatiivsus,2,1,1,,,,,,,,et_wikipedia_org.ela_624820.txt www_lounaleht_ee.ela_576969.txt
-www_linnateater_ee.ela_612249.txt,abstraktsus,2,3,2,3,3,2,2,2,,,www_delfi_ee.ela_361703.txt www_admiralmarkets_ee.ela_456804.txt
-,infotihedus,1,1,,,,,,,,,www_delfi_ee.ela_361703.txt
-,aja olulisus,1,1,,,,,,,,,www_delfi_ee.ela_361703.txt www_admiralmarkets_ee.ela_456804.txt
-,afektiivsus,3,3,2,2,,,,,,,www_eestikirik_ee.ela_530609.txt www_delfi_ee.ela_361703.txt
-,formaalsus,1,,,,,,,,,,www_delfi_ee.ela_361703.txt
-,interaktiivsus,3,3,3,3,3,2,3,,,,www_eestikirik_ee.ela_530609.txt www_delfi_ee.ela_361703.txt
-,instrueerivus,1,,,,,,,,,,www_admiralmarkets_ee.ela_456804.txt
-,keerukus,2,1,1,2,,,,,,,www_admiralmarkets_ee.ela_456804.txt www_tooelu_ee.ela_624263.txt
-,subjektiivsus,3,2,3,3,3,3,3,2,3,3,www_admiralmarkets_ee.ela_456804.txt www_tooelu_ee.ela_624263.txt
-,spontaansus,2,2,1,3,3,2,2,2,1,,www_eestikirik_ee.ela_530609.txt www_tooelu_ee.ela_624263.txt
-,impersonaalsus,1,,,,,,,,,,www_eestikirik_ee.ela_530609.txt
-,argumentatiivsus,2,2,2,2,3,,,,,,www_eestikirik_ee.ela_530609.txt www_tooelu_ee.ela_624263.txt
-www_eramets_ee.ela_479405.txt,abstraktsus,1,3,1,,,,,,,,www_unesco_ee.ela_630384.txt www_eestisport_ee.ela_196071.txt
-,infotihedus,2,2,2,2,1,3,,,,,www_unesco_ee.ela_630384.txt www_eestisport_ee.ela_196071.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,,,,,,,,,,,
-,formaalsus,3,3,3,2,3,3,3,3,3,3,rahvahaal_delfi_ee.ela_258274.txt www_eestisport_ee.ela_196071.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,1,1,1,1,2,2,2,,,,www_ilm_err_ee.ela_196894.txt www_unesco_ee.ela_630384.txt
-,keerukus,2,1,2,1,2,1,2,1,,,www_ilm_err_ee.ela_196894.txt www_unesco_ee.ela_630384.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,3,3,3,3,3,3,3,3,2,3,www_ilm_err_ee.ela_196894.txt rahvahaal_delfi_ee.ela_258274.txt
-,argumentatiivsus,3,,,,,,,,,,rahvahaal_delfi_ee.ela_258274.txt
-www_eestisport_ee.ela_196071.txt,abstraktsus,2,1,,,,,,,,,forte_delfi_ee.ela_88079.txt
-,infotihedus,2,2,3,3,2,2,3,,,,www_eramets_ee.ela_479405.txt forte_delfi_ee.ela_88079.txt
-,aja olulisus,3,2,3,3,3,3,1,,,,www_eramets_ee.ela_479405.txt forte_delfi_ee.ela_88079.txt
-,afektiivsus,1,,,,,,,,,,www_eramets_ee.ela_479405.txt
-,formaalsus,1,2,,,,,,,,,eok_ee.ela_435890.txt
-,interaktiivsus,1,,,,,,,,,,www_eramets_ee.ela_479405.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,1,1,1,1,1,,,,,,forte_delfi_ee.ela_88079.txt forte_delfi_ee.ela_222312.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,3,2,3,2,3,2,3,2,2,,forte_delfi_ee.ela_222312.txt eok_ee.ela_435890.txt
-,argumentatiivsus,1,,,,,,,,,,eok_ee.ela_435890.txt
-unitedkiters_ee.ela_78733.txt,abstraktsus,3,2,2,,,,,,,,www_epl_ee.ela_685672.txt herba_folklore_ee.ela_93408.txt
-,infotihedus,3,,,,,,,,,,herba_folklore_ee.ela_93408.txt
-,aja olulisus,1,1,2,1,1,1,1,,,,www_epl_ee.ela_685672.txt herba_folklore_ee.ela_93408.txt
-,afektiivsus,3,3,1,2,2,3,2,2,3,3,valitsus_ee.ela_132104.txt herba_folklore_ee.ela_93408.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,1,1,,,,,,,,,valitsus_ee.ela_132104.txt herba_folklore_ee.ela_93408.txt
-,instrueerivus,1,,,,,,,,,,www_epl_ee.ela_685672.txt
-,keerukus,1,1,3,2,3,,,,,,www_aialeht_ee.ela_457123.txt www_epl_ee.ela_685672.txt
-,subjektiivsus,2,2,2,1,3,3,,,,,www_aialeht_ee.ela_457123.txt www_epl_ee.ela_685672.txt
-,spontaansus,3,2,2,1,3,3,,,,,valitsus_ee.ela_132104.txt www_aialeht_ee.ela_457123.txt
-,impersonaalsus,1,2,,,,,,,,,www_aialeht_ee.ela_457123.txt
-,argumentatiivsus,1,1,,,,,,,,,www_aialeht_ee.ela_457123.txt
-herba_folklore_ee.ela_93408.txt,abstraktsus,2,,,,,,,,,,unitedkiters_ee.ela_78733.txt
-,infotihedus,1,3,3,2,2,2,3,3,,,www_employers_ee.ela_617415.txt unitedkiters_ee.ela_78733.txt
-,aja olulisus,1,,,,,,,,,,unitedkiters_ee.ela_78733.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,2,2,3,3,1,3,3,,,unitedkiters_ee.ela_78733.txt www_tuuleenergia_ee.ela_40373.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,1,1,,,,,,,,,www_employers_ee.ela_617415.txt reform_ee.ela_24983.txt
-,keerukus,2,2,,,,,,,,,www_employers_ee.ela_617415.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,3,1,3,2,3,3,3,3,3,,www_tuuleenergia_ee.ela_40373.txt reform_ee.ela_24983.txt
-,argumentatiivsus,,,,,,,,,,,
-rahvahaal_delfi_ee.ela_499379.txt,abstraktsus,1,1,1,1,,,,,,,ylle_mrt_ee.ela_101705.txt www_linnaleht_ee.ela_420357.txt
-,infotihedus,1,2,2,2,1,1,1,,,,ylle_mrt_ee.ela_101705.txt www_linnaleht_ee.ela_420357.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,2,3,2,,,,,,,,www_tallegg_ee.ela_33687.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,1,3,2,2,2,,,,,,www_tallegg_ee.ela_33687.txt www_linnaleht_ee.ela_420357.txt
-,instrueerivus,3,2,3,3,2,3,1,2,3,2,ylle_mrt_ee.ela_101705.txt blog_maaleht_ee.ela_73268.txt
-,keerukus,1,,,,,,,,,,ylle_mrt_ee.ela_101705.txt
-,subjektiivsus,2,3,,,,,,,,,blog_maaleht_ee.ela_73268.txt
-,spontaansus,2,2,2,3,,,,,,,blog_maaleht_ee.ela_73268.txt
-,impersonaalsus,1,1,3,1,2,,,,,,www_tallegg_ee.ela_33687.txt blog_maaleht_ee.ela_73268.txt
-,argumentatiivsus,2,1,1,1,2,,,,,,www_tallegg_ee.ela_33687.txt blog_maaleht_ee.ela_73268.txt
-www_linnaleht_ee.ela_420357.txt,abstraktsus,1,1,1,,,,,,,,www_nami-nami_ee.ela_173054.txt rahvahaal_delfi_ee.ela_499379.txt
-,infotihedus,2,,,,,,,,,,www_nami-nami_ee.ela_173054.txt
-,aja olulisus,1,1,1,1,,,,,,,rahvahaal_delfi_ee.ela_499379.txt
-,afektiivsus,3,2,1,2,2,1,2,3,2,3,ekspress_online_2020.txt rahvahaal_delfi_ee.ela_499379.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,2,3,2,3,1,1,,,,,ekspress_online_2020.txt rahvahaal_delfi_ee.ela_499379.txt
-,instrueerivus,2,,,,,,,,,,static_inimene_ee.ela_194968.txt
-,keerukus,1,1,1,,,,,,,,www_nami-nami_ee.ela_173054.txt static_inimene_ee.ela_194968.txt
-,subjektiivsus,2,3,2,2,3,2,1,2,3,3,www_nami-nami_ee.ela_173054.txt static_inimene_ee.ela_194968.txt
-,spontaansus,2,1,1,2,2,2,1,1,,,ekspress_online_2020.txt static_inimene_ee.ela_194968.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,2,2,1,2,1,1,,,,,ekspress_online_2020.txt static_inimene_ee.ela_194968.txt
-www_bsd_ee.ela_638246.txt,abstraktsus,2,3,2,3,,,,,,,www_le_ee.ela_240831.txt www_aialeht_ee.ela_457123.txt
-,infotihedus,3,2,3,2,3,3,2,2,,,www_le_ee.ela_240831.txt www_aialeht_ee.ela_457123.txt
-,aja olulisus,2,2,2,,,,,,,,www_aialeht_ee.ela_457123.txt
-,afektiivsus,1,1,2,,,,,,,,www_aialeht_ee.ela_457123.txt www_hambaarst_ee.ela_423040.txt
-,formaalsus,1,3,1,2,1,,,,,,www_aialeht_ee.ela_457123.txt
-,interaktiivsus,1,1,1,,,,,,,,www_hambaarst_ee.ela_423040.txt
-,instrueerivus,2,2,2,,,,,,,,ylle_mrt_ee.ela_101705.txt www_le_ee.ela_240831.txt
-,keerukus,3,3,2,3,1,3,3,1,2,2,ylle_mrt_ee.ela_101705.txt www_le_ee.ela_240831.txt
-,subjektiivsus,1,1,,,,,,,,,www_le_ee.ela_240831.txt
-,spontaansus,1,1,,,,,,,,,www_hambaarst_ee.ela_423040.txt
-,impersonaalsus,2,3,3,3,2,2,,,,,ylle_mrt_ee.ela_101705.txt www_hambaarst_ee.ela_423040.txt
-,argumentatiivsus,,,,,,,,,,,
-www_aialeht_ee.ela_457123.txt,abstraktsus,1,,,,,,,,,,www_bsd_ee.ela_638246.txt
-,infotihedus,1,2,,,,,,,,,www_ekspress_ee.ela_177019.txt
-,aja olulisus,1,1,2,1,2,,,,,,www_bsd_ee.ela_638246.txt www_ekspress_ee.ela_177019.txt
-,afektiivsus,1,1,1,2,1,1,1,1,,,www_alphagis_ee.ela_403490.txt www_bsd_ee.ela_638246.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,2,3,3,3,2,3,3,3,2,3,www_alphagis_ee.ela_403490.txt www_bsd_ee.ela_638246.txt
-,instrueerivus,3,3,2,2,3,3,2,2,2,2,www_ekspress_ee.ela_177019.txt unitedkiters_ee.ela_78733.txt
-,keerukus,2,,,,,,,,,,unitedkiters_ee.ela_78733.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,3,2,2,2,3,3,3,3,3,,www_alphagis_ee.ela_403490.txt unitedkiters_ee.ela_78733.txt
-,impersonaalsus,2,,,,,,,,,,www_alphagis_ee.ela_403490.txt
-,argumentatiivsus,1,1,1,3,2,,,,,,www_alphagis_ee.ela_403490.txt unitedkiters_ee.ela_78733.txt
-www_horsemarket_ee.ela_436247.txt,abstraktsus,1,1,,,,,,,,,www_mesindus_ee.ela_33384.txt et_wikipedia_org.ela_467359.txt
-,infotihedus,2,2,3,2,3,2,2,2,3,,www_mesindus_ee.ela_33384.txt et_wikipedia_org.ela_467359.txt
-,aja olulisus,3,3,3,2,3,2,3,2,,,www_mesindus_ee.ela_33384.txt et_wikipedia_org.ela_467359.txt
-,afektiivsus,2,2,2,1,,,,,,,et_wikipedia_org.ela_467359.txt
-,formaalsus,1,1,2,,,,,,,,et_wikipedia_org.ela_467359.txt www_epl_ee.ela_685672.txt
-,interaktiivsus,1,1,1,,,,,,,,et_wikipedia_org.ela_467359.txt www_epl_ee.ela_685672.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,1,2,1,,,,,,,,www_mesindus_ee.ela_33384.txt
-,subjektiivsus,1,1,2,2,1,,,,,,et_wikipedia_org.ela_624820.txt
-,spontaansus,2,,,,,,,,,,et_wikipedia_org.ela_624820.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,2,2,,,,,,,,,et_wikipedia_org.ela_624820.txt www_epl_ee.ela_685672.txt
-www_director_ee.ela_529643.txt,abstraktsus,2,1,2,1,1,,,,,,blablabla_ee.ela_504829.txt www_auto24_ee.ela_469677.txt
-,infotihedus,2,2,2,1,2,1,,,,,blablabla_ee.ela_504829.txt www_auto24_ee.ela_469677.txt
-,aja olulisus,1,1,2,1,2,,,,,,blablabla_ee.ela_504829.txt www_auto24_ee.ela_469677.txt
-,afektiivsus,1,,,,,,,,,,video_usk_ee.ela_152445.txt
-,formaalsus,1,,,,,,,,,,www_auto24_ee.ela_469677.txt
-,interaktiivsus,1,3,2,2,2,,,,,,video_usk_ee.ela_152445.txt www_auto24_ee.ela_469677.txt
-,instrueerivus,1,2,1,2,2,1,,,,,blablabla_ee.ela_504829.txt www_autoleht_ee.ela_469280.txt
-,keerukus,1,2,1,2,,,,,,,blablabla_ee.ela_504829.txt www_autoleht_ee.ela_469280.txt
-,subjektiivsus,2,1,1,2,2,,,,,,www_autoleht_ee.ela_469280.txt
-,spontaansus,1,1,2,1,1,,,,,,video_usk_ee.ela_152445.txt www_autoleht_ee.ela_469280.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,2,,,,,,,,,,video_usk_ee.ela_152445.txt
-www_auto24_ee.ela_469677.txt,abstraktsus,1,2,1,1,,,,,,,www_tuuleenergia_ee.ela_40373.txt www_director_ee.ela_529643.txt
-,infotihedus,2,1,3,,,,,,,,www_tuuleenergia_ee.ela_40373.txt www_director_ee.ela_529643.txt
-,aja olulisus,2,2,,,,,,,,,www_tuuleenergia_ee.ela_40373.txt
-,afektiivsus,2,1,2,3,3,2,2,2,3,3,www_director_ee.ela_529643.txt valitsus_ee.ela_604239.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,2,2,1,3,,,,,,,www_director_ee.ela_529643.txt valitsus_ee.ela_604239.txt
-,instrueerivus,2,,,,,,,,,,www_tuuleenergia_ee.ela_40373.txt
-,keerukus,1,2,2,1,1,,,,,,www_tuuleenergia_ee.ela_40373.txt www_lillelapsed_ee.ela_607751.txt
-,subjektiivsus,3,3,3,3,3,3,3,2,3,3,www_tuuleenergia_ee.ela_40373.txt www_lillelapsed_ee.ela_607751.txt
-,spontaansus,1,2,2,2,2,3,2,3,3,3,www_lillelapsed_ee.ela_607751.txt valitsus_ee.ela_604239.txt
-,impersonaalsus,1,,,,,,,,,,www_lillelapsed_ee.ela_607751.txt
-,argumentatiivsus,2,2,1,3,3,,,,,,www_lillelapsed_ee.ela_607751.txt valitsus_ee.ela_604239.txt
-www_lapsemure_ee.ela_140896.txt,abstraktsus,2,2,1,3,,,,,,,www_unesco_ee.ela_630384.txt www_kohus_ee.ela_34731.txt
-,infotihedus,2,2,,,,,,,,,www_unesco_ee.ela_630384.txt
-,aja olulisus,2,3,2,2,3,2,,,,,www_unesco_ee.ela_630384.txt www_kohus_ee.ela_34731.txt
-,afektiivsus,2,3,2,3,2,3,2,3,3,2,www_unesco_ee.ela_630384.txt uuseesti_ee.ela_112397.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,1,3,3,3,3,1,,,,,www_unesco_ee.ela_630384.txt uuseesti_ee.ela_112397.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,2,2,,,,,,,,,www_kohus_ee.ela_34731.txt
-,subjektiivsus,3,3,3,3,2,3,3,3,,,www_kohus_ee.ela_34731.txt www_tuuleenergia_ee.ela_40373.txt
-,spontaansus,3,3,3,3,3,2,3,3,3,3,uuseesti_ee.ela_112397.txt www_tuuleenergia_ee.ela_40373.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,1,1,1,2,,,,,,,uuseesti_ee.ela_112397.txt
-www_unesco_ee.ela_630384.txt,abstraktsus,2,2,2,1,,,,,,,www_eramets_ee.ela_479405.txt www_lapsemure_ee.ela_140896.txt
-,infotihedus,2,3,2,,,,,,,,www_lapsemure_ee.ela_140896.txt
-,aja olulisus,1,1,2,1,,,,,,,www_eramets_ee.ela_479405.txt www_lapsemure_ee.ela_140896.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,2,3,3,2,2,2,2,1,,www_lapsemure_ee.ela_140896.txt www_meiekirik_ee.ela_286284.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,,,,,,,,,,,
-,keerukus,1,,,,,,,,,,www_epl_ee.ela_685672.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,1,,,,,,,,,,www_meiekirik_ee.ela_286284.txt
-,impersonaalsus,2,3,3,2,3,2,3,3,2,,www_meiekirik_ee.ela_286284.txt www_epl_ee.ela_685672.txt
-,argumentatiivsus,,,,,,,,,,,
-www_riigikogu_ee.ela_224866.txt,abstraktsus,2,1,1,1,2,1,,,,,www_ilm_err_ee.ela_196894.txt www_snap_ee.ela_623342.txt
-,infotihedus,,,,,,,,,,,
-,aja olulisus,1,2,2,,,,,,,,www_snap_ee.ela_623342.txt
-,afektiivsus,2,1,1,1,,,,,,,www_ilm_err_ee.ela_196894.txt
-,formaalsus,3,2,2,1,,,,,,,www_ilm_err_ee.ela_196894.txt www_advent_ee.ela_658698.txt
-,interaktiivsus,2,3,3,3,2,3,3,3,2,,www_ilm_err_ee.ela_196894.txt www_advent_ee.ela_658698.txt
-,instrueerivus,1,1,1,2,1,2,1,,,,www_tallegg_ee.ela_33687.txt www_snap_ee.ela_623342.txt
-,keerukus,1,2,1,1,,,,,,,www_tallegg_ee.ela_33687.txt www_snap_ee.ela_623342.txt
-,subjektiivsus,1,1,2,2,2,2,2,3,,,www_tallegg_ee.ela_33687.txt www_snap_ee.ela_623342.txt
-,spontaansus,1,1,1,3,3,1,2,,,,www_tallegg_ee.ela_33687.txt www_advent_ee.ela_658698.txt
-,impersonaalsus,2,2,2,1,,,,,,,www_tallegg_ee.ela_33687.txt www_advent_ee.ela_658698.txt
-,argumentatiivsus,1,2,2,2,3,2,2,3,,,www_tallegg_ee.ela_33687.txt www_advent_ee.ela_658698.txt
-www_ilm_err_ee.ela_196894.txt,abstraktsus,,,,,,,,,,,
-,infotihedus,2,2,3,2,2,2,3,2,,,www_riigikogu_ee.ela_224866.txt www_med24_ee.ela_557549.txt
-,aja olulisus,2,2,3,2,2,2,3,2,3,2,www_riigikogu_ee.ela_224866.txt www_med24_ee.ela_557549.txt
-,afektiivsus,1,,,,,,,,,,www_riigikogu_ee.ela_224866.txt
-,formaalsus,2,1,2,2,3,3,,,,,www_riigikogu_ee.ela_224866.txt www_politsei_ee.ela_40109.txt
-,interaktiivsus,1,,,,,,,,,,www_politsei_ee.ela_40109.txt
-,instrueerivus,2,1,,,,,,,,,www_med24_ee.ela_557549.txt
-,keerukus,2,1,3,1,,,,,,,www_eramets_ee.ela_479405.txt www_med24_ee.ela_557549.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,1,3,,,,,,,,,www_politsei_ee.ela_40109.txt
-,argumentatiivsus,2,3,1,3,1,1,,,,,www_eramets_ee.ela_479405.txt www_politsei_ee.ela_40109.txt
-valitsus_ee.ela_604239.txt,abstraktsus,3,3,1,2,1,2,3,,,,sport_autonet_ee.ela_515760.txt www_politsei_ee.ela_40109.txt
-,infotihedus,2,3,3,2,3,,,,,,sport_autonet_ee.ela_515760.txt www_politsei_ee.ela_40109.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,3,3,3,2,2,3,,,,www_politsei_ee.ela_40109.txt www_auto24_ee.ela_469677.txt
-,interaktiivsus,1,,,,,,,,,,www_politsei_ee.ela_40109.txt
-,instrueerivus,1,2,3,1,2,2,,,,,sport_autonet_ee.ela_515760.txt www_reklaamitrikk_ee.ela_315713.txt
-,keerukus,2,2,2,2,2,2,2,,,,sport_autonet_ee.ela_515760.txt www_reklaamitrikk_ee.ela_315713.txt
-,subjektiivsus,2,,,,,,,,,,www_reklaamitrikk_ee.ela_315713.txt
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,3,3,3,2,2,3,1,3,2,2,www_reklaamitrikk_ee.ela_315713.txt www_auto24_ee.ela_469677.txt
-,argumentatiivsus,2,2,2,,,,,,,,www_reklaamitrikk_ee.ela_315713.txt www_auto24_ee.ela_469677.txt
-www_politsei_ee.ela_40109.txt,abstraktsus,,,,,,,,,,,
-,infotihedus,2,2,2,2,1,3,,,,,et_wikipedia_org.ela_219301.txt valitsus_ee.ela_604239.txt
-,aja olulisus,1,1,1,2,1,1,2,3,,,et_wikipedia_org.ela_219301.txt valitsus_ee.ela_604239.txt
-,afektiivsus,1,,,,,,,,,,valitsus_ee.ela_604239.txt
-,formaalsus,2,3,3,2,2,2,,,,,www_ilm_err_ee.ela_196894.txt valitsus_ee.ela_604239.txt
-,interaktiivsus,1,2,,,,,,,,,valitsus_ee.ela_604239.txt
-,instrueerivus,2,3,2,3,3,,,,,,et_wikipedia_org.ela_219301.txt www_jeesusekristusekirik_ee.ela_65555.txt
-,keerukus,1,1,,,,,,,,,et_wikipedia_org.ela_219301.txt www_jeesusekristusekirik_ee.ela_65555.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,3,2,3,2,2,,,,,www_ilm_err_ee.ela_196894.txt www_jeesusekristusekirik_ee.ela_65555.txt
-,argumentatiivsus,,,,,,,,,,,
-www_hambaarst_ee.ela_475731.txt,abstraktsus,3,3,2,,,,,,,,arhiiv_koolielu_ee.ela_481254.txt www_vnl_ee.ela_670256.txt
-,infotihedus,3,2,3,2,2,,,,,,arhiiv_koolielu_ee.ela_481254.txt www_vnl_ee.ela_670256.txt
-,aja olulisus,2,,,,,,,,,,arhiiv_koolielu_ee.ela_481254.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,1,2,2,1,2,1,3,,,,www_mesindus_ee.ela_33384.txt www_vnl_ee.ela_670256.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,1,1,2,,,,,,,,arhiiv_koolielu_ee.ela_481254.txt www_mod_gov_ee.ela_178680.txt
-,keerukus,2,2,3,2,2,1,1,2,2,,arhiiv_koolielu_ee.ela_481254.txt www_mod_gov_ee.ela_178680.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,1,1,1,,,,,,,,www_mesindus_ee.ela_33384.txt www_mod_gov_ee.ela_178680.txt
-,impersonaalsus,3,1,3,3,2,3,3,,,,www_mesindus_ee.ela_33384.txt www_mod_gov_ee.ela_178680.txt
-,argumentatiivsus,,,,,,,,,,,
-www_vnl_ee.ela_670256.txt,abstraktsus,1,2,,,,,,,,,www_nami-nami_ee.ela_456341.txt
-,infotihedus,2,2,2,1,2,,,,,,www_nami-nami_ee.ela_456341.txt www_hambaarst_ee.ela_475731.txt
-,aja olulisus,1,1,1,1,2,1,2,2,,,www_nami-nami_ee.ela_456341.txt www_hambaarst_ee.ela_475731.txt
-,afektiivsus,1,2,2,,,,,,,,www_hambaarst_ee.ela_475731.txt
-,formaalsus,2,2,2,2,1,,,,,,www_nami-nami_ee.ela_456341.txt www_hambaarst_ee.ela_475731.txt
-,interaktiivsus,2,2,1,2,2,2,1,,,,www_nami-nami_ee.ela_456341.txt www_hambaarst_ee.ela_475731.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,1,1,1,2,,,,,,,www_nami-nami_ee.ela_456341.txt
-,subjektiivsus,1,1,2,,,,,,,,et_wikipedia_org.ela_219301.txt
-,spontaansus,1,1,,,,,,,,,et_wikipedia_org.ela_219301.txt
-,impersonaalsus,2,2,3,2,,,,,,,www_nami-nami_ee.ela_456341.txt et_wikipedia_org.ela_219301.txt
-,argumentatiivsus,2,2,1,2,1,1,,,,,www_nami-nami_ee.ela_456341.txt et_wikipedia_org.ela_219301.txt
-kalah_zzz_ee.ela_52237.txt,abstraktsus,3,2,3,3,3,3,3,3,3,,video_usk_ee.ela_152445.txt eok_ee.ela_435890.txt
-,infotihedus,2,2,2,3,,,,,,,video_usk_ee.ela_152445.txt eok_ee.ela_435890.txt
-,aja olulisus,2,,,,,,,,,,video_usk_ee.ela_152445.txt
-,afektiivsus,1,,,,,,,,,,video_usk_ee.ela_152445.txt
-,formaalsus,1,1,2,,,,,,,,rahvahaal_delfi_ee.ela_135048.txt video_usk_ee.ela_152445.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,1,3,,,,,,,,,www_meiekirik_ee.ela_286284.txt eok_ee.ela_435890.txt
-,keerukus,2,2,2,2,1,,,,,,www_meiekirik_ee.ela_286284.txt eok_ee.ela_435890.txt
-,subjektiivsus,2,2,3,3,1,,,,,,www_meiekirik_ee.ela_286284.txt eok_ee.ela_435890.txt
-,spontaansus,1,2,,,,,,,,,www_meiekirik_ee.ela_286284.txt
-,impersonaalsus,3,3,3,2,3,3,2,1,2,,rahvahaal_delfi_ee.ela_135048.txt www_meiekirik_ee.ela_286284.txt
-,argumentatiivsus,3,2,2,2,3,3,2,3,,,rahvahaal_delfi_ee.ela_135048.txt www_meiekirik_ee.ela_286284.txt
-video_usk_ee.ela_152445.txt,abstraktsus,3,2,1,2,,,,,,,kalah_zzz_ee.ela_52237.txt blog_maaleht_ee.ela_73268.txt
-,infotihedus,2,,,,,,,,,,kalah_zzz_ee.ela_52237.txt
-,aja olulisus,1,,,,,,,,,,kalah_zzz_ee.ela_52237.txt
-,afektiivsus,2,1,1,1,1,1,1,,,,kalah_zzz_ee.ela_52237.txt www_director_ee.ela_529643.txt
-,formaalsus,1,,,,,,,,,,kalah_zzz_ee.ela_52237.txt
-,interaktiivsus,1,1,,,,,,,,,kalah_zzz_ee.ela_52237.txt
-,instrueerivus,1,,,,,,,,,,www_kv_ee.ela_199481.txt
-,keerukus,2,,,,,,,,,,www_kv_ee.ela_199481.txt
-,subjektiivsus,3,2,3,2,3,2,2,2,2,2,blog_maaleht_ee.ela_73268.txt www_kv_ee.ela_199481.txt
-,spontaansus,1,1,,,,,,,,,www_director_ee.ela_529643.txt
-,impersonaalsus,2,2,2,2,,,,,,,www_director_ee.ela_529643.txt
-,argumentatiivsus,3,2,2,2,3,3,1,2,3,,www_kv_ee.ela_199481.txt www_director_ee.ela_529643.txt
-ylle_mrt_ee.ela_101705.txt,abstraktsus,2,1,2,2,2,1,,,,,sport_autonet_ee.ela_515760.txt rahvahaal_delfi_ee.ela_499379.txt
-,infotihedus,1,1,2,,,,,,,,rahvahaal_delfi_ee.ela_499379.txt
-,aja olulisus,2,1,1,2,3,,,,,,sport_autonet_ee.ela_515760.txt rahvahaal_delfi_ee.ela_499379.txt
-,afektiivsus,2,3,2,2,3,3,2,3,3,3,arhiiv_koolielu_ee.ela_481254.txt sport_autonet_ee.ela_515760.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,2,1,2,,,,,,,,arhiiv_koolielu_ee.ela_481254.txt sport_autonet_ee.ela_515760.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,1,1,,,,,,,,,rahvahaal_delfi_ee.ela_499379.txt
-,subjektiivsus,3,3,3,3,3,3,3,2,3,3,www_bsd_ee.ela_638246.txt rahvahaal_delfi_ee.ela_499379.txt
-,spontaansus,3,3,2,1,3,1,3,1,2,,arhiiv_koolielu_ee.ela_481254.txt www_bsd_ee.ela_638246.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,2,1,3,3,2,1,2,2,,,arhiiv_koolielu_ee.ela_481254.txt www_bsd_ee.ela_638246.txt
-sport_autonet_ee.ela_515760.txt,abstraktsus,2,1,,,,,,,,,ylle_mrt_ee.ela_101705.txt valitsus_ee.ela_604239.txt
-,infotihedus,2,3,3,1,3,2,3,3,,,ylle_mrt_ee.ela_101705.txt valitsus_ee.ela_604239.txt
-,aja olulisus,3,3,3,2,2,3,3,3,,,ylle_mrt_ee.ela_101705.txt valitsus_ee.ela_604239.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,2,2,1,2,2,,,,,ylle_mrt_ee.ela_101705.txt arvamusaed_ee.ela_274676.txt
-,interaktiivsus,3,2,,,,,,,,,ylle_mrt_ee.ela_101705.txt arvamusaed_ee.ela_274676.txt
-,instrueerivus,3,,,,,,,,,,valitsus_ee.ela_604239.txt
-,keerukus,1,2,2,1,1,1,,,,,valitsus_ee.ela_604239.txt et_wikipedia_org.ela_519819.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,2,,,,,,,,,,et_wikipedia_org.ela_519819.txt
-,impersonaalsus,3,2,3,1,,,,,,,arvamusaed_ee.ela_274676.txt et_wikipedia_org.ela_519819.txt
-,argumentatiivsus,,,,,,,,,,,
-www_eestikirik_ee.ela_530609.txt,abstraktsus,3,3,3,3,2,3,2,3,3,,www_jeesusekristusekirik_ee.ela_65555.txt www_puuinfo_ee.ela_279876.txt
-,infotihedus,1,,,,,,,,,,www_jeesusekristusekirik_ee.ela_65555.txt
-,aja olulisus,1,,,,,,,,,,www_puuinfo_ee.ela_279876.txt
-,afektiivsus,2,2,1,3,1,1,,,,,www_linnateater_ee.ela_612249.txt www_puuinfo_ee.ela_279876.txt
-,formaalsus,1,1,,,,,,,,,www_linnateater_ee.ela_612249.txt
-,interaktiivsus,2,3,,,,,,,,,www_puuinfo_ee.ela_279876.txt
-,instrueerivus,2,3,2,2,2,2,,,,,www_mulje_ee.ela_177932.txt www_jeesusekristusekirik_ee.ela_65555.txt
-,keerukus,2,2,2,1,,,,,,,www_mulje_ee.ela_177932.txt www_jeesusekristusekirik_ee.ela_65555.txt
-,subjektiivsus,2,1,2,2,2,1,,,,,www_mulje_ee.ela_177932.txt www_jeesusekristusekirik_ee.ela_65555.txt
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,2,2,,,,,,,,www_mulje_ee.ela_177932.txt www_linnateater_ee.ela_612249.txt
-,argumentatiivsus,1,3,3,1,1,3,,,,,www_mulje_ee.ela_177932.txt www_linnateater_ee.ela_612249.txt
-www_puuinfo_ee.ela_279876.txt,abstraktsus,3,2,2,,,,,,,,www_eestikirik_ee.ela_530609.txt www_kv_ee.ela_199481.txt
-,infotihedus,2,2,3,2,3,3,1,,,,www_eestikirik_ee.ela_530609.txt www_kv_ee.ela_199481.txt
-,aja olulisus,1,1,1,,,,,,,,www_eestikirik_ee.ela_530609.txt www_kv_ee.ela_199481.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,2,2,2,1,2,1,1,,,www_eestikirik_ee.ela_530609.txt kaja_ekstreem_ee.ela_71641.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,1,1,3,1,2,1,,,,,www_ajakiri_ut_ee.ela_429007.txt www_kv_ee.ela_199481.txt
-,keerukus,2,2,3,2,1,1,1,,,,www_ajakiri_ut_ee.ela_429007.txt www_kv_ee.ela_199481.txt
-,subjektiivsus,1,1,,,,,,,,,www_ajakiri_ut_ee.ela_429007.txt
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,3,3,3,2,2,2,,,,www_ajakiri_ut_ee.ela_429007.txt kaja_ekstreem_ee.ela_71641.txt
-,argumentatiivsus,2,3,2,2,2,3,2,1,1,,www_ajakiri_ut_ee.ela_429007.txt kaja_ekstreem_ee.ela_71641.txt
-www_emta_ee.ela_522725.txt,abstraktsus,3,2,2,2,3,,,,,,mesindus_ee.ela_210638.txt www_epl_ee.ela_679018.txt
-,infotihedus,2,3,3,2,2,2,2,2,3,,mesindus_ee.ela_210638.txt www_epl_ee.ela_679018.txt
-,aja olulisus,2,1,,,,,,,,,mesindus_ee.ela_210638.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,2,3,3,3,3,3,3,3,3,bhr_balanss_ee.ela_565106.txt www_epl_ee.ela_679018.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,1,3,3,2,3,3,,,,,mesindus_ee.ela_210638.txt forte_delfi_ee.ela_88079.txt
-,keerukus,2,2,2,3,3,3,3,2,3,1,mesindus_ee.ela_210638.txt forte_delfi_ee.ela_88079.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,3,,,,,,,,,,forte_delfi_ee.ela_88079.txt
-,impersonaalsus,3,2,3,2,3,3,3,3,,,bhr_balanss_ee.ela_565106.txt forte_delfi_ee.ela_88079.txt
-,argumentatiivsus,3,,,,,,,,,,bhr_balanss_ee.ela_565106.txt
-www_epl_ee.ela_679018.txt,abstraktsus,1,2,,,,,,,,,www_epl_ee.ela_495381.txt
-,infotihedus,1,,,,,,,,,,www_emta_ee.ela_522725.txt
-,aja olulisus,1,2,1,2,1,,,,,,www_emta_ee.ela_522725.txt
-,afektiivsus,1,,,,,,,,,,www_emta_ee.ela_522725.txt
-,formaalsus,2,3,2,2,1,,,,,,et_wikipedia_org.ela_219301.txt
-,interaktiivsus,2,1,1,1,,,,,,,www_emta_ee.ela_522725.txt et_wikipedia_org.ela_219301.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,1,2,2,1,1,1,1,2,2,,www_nami-nami_ee.ela_173054.txt www_epl_ee.ela_495381.txt
-,subjektiivsus,1,,,,,,,,,,www_nami-nami_ee.ela_173054.txt
-,spontaansus,2,,,,,,,,,,et_wikipedia_org.ela_219301.txt
-,impersonaalsus,3,3,1,,,,,,,,www_nami-nami_ee.ela_173054.txt
-,argumentatiivsus,1,1,2,1,1,1,,,,,www_nami-nami_ee.ela_173054.txt et_wikipedia_org.ela_219301.txt
-bhr_balanss_ee.ela_565106.txt,abstraktsus,2,1,1,2,1,1,1,2,,,www_soudeliit_ee.ela_547578.txt blog_maaleht_ee.ela_73268.txt
-,infotihedus,1,3,2,1,,,,,,,www_soudeliit_ee.ela_547578.txt blog_maaleht_ee.ela_73268.txt
-,aja olulisus,1,,,,,,,,,,blog_maaleht_ee.ela_73268.txt
-,afektiivsus,1,1,2,1,1,,,,,,blog_maaleht_ee.ela_73268.txt www_emta_ee.ela_522725.txt
-,formaalsus,2,,,,,,,,,,blog_maaleht_ee.ela_73268.txt
-,interaktiivsus,2,,,,,,,,,,www_emta_ee.ela_522725.txt
-,instrueerivus,1,1,,,,,,,,,www_soudeliit_ee.ela_547578.txt www_vsport_ee.ela_120496.txt
-,keerukus,1,2,2,,,,,,,,www_soudeliit_ee.ela_547578.txt www_vsport_ee.ela_120496.txt
-,subjektiivsus,2,1,1,3,2,,,,,,www_soudeliit_ee.ela_547578.txt www_vsport_ee.ela_120496.txt
-,spontaansus,1,1,1,2,,,,,,,www_emta_ee.ela_522725.txt
-,impersonaalsus,2,,,,,,,,,,www_vsport_ee.ela_120496.txt
-,argumentatiivsus,2,1,3,1,2,2,2,,,,www_emta_ee.ela_522725.txt www_vsport_ee.ela_120496.txt
-blog_maaleht_ee.ela_73268.txt,abstraktsus,2,1,,,,,,,,,bhr_balanss_ee.ela_565106.txt video_usk_ee.ela_152445.txt
-,infotihedus,2,2,2,1,3,2,,,,,bhr_balanss_ee.ela_565106.txt video_usk_ee.ela_152445.txt
-,aja olulisus,1,2,2,2,2,3,3,,,,bhr_balanss_ee.ela_565106.txt video_usk_ee.ela_152445.txt
-,afektiivsus,2,2,2,2,,,,,,,bhr_balanss_ee.ela_565106.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,1,1,,,,,,,,,bhr_balanss_ee.ela_565106.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,1,1,1,1,,,,,,,video_usk_ee.ela_152445.txt rahvahaal_delfi_ee.ela_499379.txt
-,subjektiivsus,2,2,3,,,,,,,,rahvahaal_delfi_ee.ela_499379.txt
-,spontaansus,1,1,1,1,,,,,,,www_kasutatudraamat_ee.ela_68759.txt rahvahaal_delfi_ee.ela_499379.txt
-,impersonaalsus,2,,,,,,,,,,rahvahaal_delfi_ee.ela_499379.txt
-,argumentatiivsus,1,1,1,1,,,,,,,www_kasutatudraamat_ee.ela_68759.txt
-www_kasutatudraamat_ee.ela_68759.txt,abstraktsus,1,1,2,,,,,,,,www_employers_ee.ela_617415.txt
-,infotihedus,1,2,,,,,,,,,valitsus_ee.ela_480708.txt
-,aja olulisus,2,2,2,1,2,,,,,,www_employers_ee.ela_617415.txt valitsus_ee.ela_480708.txt
-,afektiivsus,3,2,2,2,3,2,2,2,3,3,www_employers_ee.ela_617415.txt blog_maaleht_ee.ela_73268.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,2,3,3,2,3,2,3,2,2,,www_employers_ee.ela_617415.txt blog_maaleht_ee.ela_73268.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,2,2,1,1,1,,,,,,valitsus_ee.ela_480708.txt kaja_ekstreem_ee.ela_71641.txt
-,subjektiivsus,2,3,,,,,,,,,kaja_ekstreem_ee.ela_71641.txt
-,spontaansus,3,,,,,,,,,,blog_maaleht_ee.ela_73268.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,1,,,,,,,,,,kaja_ekstreem_ee.ela_71641.txt
-www_employers_ee.ela_617415.txt,abstraktsus,2,2,,,,,,,,,herba_folklore_ee.ela_93408.txt www_kasutatudraamat_ee.ela_68759.txt
-,infotihedus,2,3,3,2,2,2,,,,,herba_folklore_ee.ela_93408.txt www_kasutatudraamat_ee.ela_68759.txt
-,aja olulisus,1,1,1,1,2,2,1,3,,,herba_folklore_ee.ela_93408.txt www_kasutatudraamat_ee.ela_68759.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,2,2,2,2,1,2,2,,,www_tarbijakaitse_ee.ela_199918.txt www_kasutatudraamat_ee.ela_68759.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,2,2,,,,,,,,,ekspress_online_2020.txt
-,keerukus,2,1,2,1,1,,,,,,ekspress_online_2020.txt herba_folklore_ee.ela_93408.txt
-,subjektiivsus,1,,,,,,,,,,herba_folklore_ee.ela_93408.txt
-,spontaansus,1,,,,,,,,,,www_tarbijakaitse_ee.ela_199918.txt
-,impersonaalsus,3,2,2,2,3,1,1,2,,,www_tarbijakaitse_ee.ela_199918.txt ekspress_online_2020.txt
-,argumentatiivsus,2,1,3,2,1,1,1,,,,www_tarbijakaitse_ee.ela_199918.txt ekspress_online_2020.txt
-reform_ee.ela_24983.txt,abstraktsus,3,1,1,1,2,2,3,,,,nami-nami_ee.ela_372868.txt www_admiralmarkets_ee.ela_333517.txt
-,infotihedus,,,,,,,,,,,
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,1,1,1,1,1,2,1,,,,nami-nami_ee.ela_372868.txt www_tooelu_ee.ela_624263.txt
-,formaalsus,2,3,,,,,,,,,nami-nami_ee.ela_372868.txt
-,interaktiivsus,1,2,,,,,,,,,www_tooelu_ee.ela_624263.txt
-,instrueerivus,1,3,2,2,3,2,2,3,2,,www_admiralmarkets_ee.ela_333517.txt herba_folklore_ee.ela_93408.txt
-,keerukus,2,2,,,,,,,,,herba_folklore_ee.ela_93408.txt
-,subjektiivsus,2,3,1,1,2,1,1,1,,,www_admiralmarkets_ee.ela_333517.txt herba_folklore_ee.ela_93408.txt
-,spontaansus,1,,,,,,,,,,herba_folklore_ee.ela_93408.txt
-,impersonaalsus,3,2,2,,,,,,,,herba_folklore_ee.ela_93408.txt www_tooelu_ee.ela_624263.txt
-,argumentatiivsus,2,2,3,3,1,2,2,,,,herba_folklore_ee.ela_93408.txt www_tooelu_ee.ela_624263.txt
-nami-nami_ee.ela_372868.txt,abstraktsus,,,,,,,,,,,
-,infotihedus,2,2,3,3,2,2,2,3,,,www_europarl_ee.ela_36110.txt reform_ee.ela_24983.txt
-,aja olulisus,3,3,3,3,3,2,3,,,,www_europarl_ee.ela_36110.txt reform_ee.ela_24983.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,1,2,2,1,,,,,,,www_bioneer_ee.ela_243230.txt reform_ee.ela_24983.txt
-,instrueerivus,3,3,3,3,3,3,3,2,3,3,www_europarl_ee.ela_36110.txt www_alphagis_ee.ela_403490.txt
-,keerukus,,,,,,,,,,,
-,subjektiivsus,2,1,,,,,,,,,www_alphagis_ee.ela_403490.txt
-,spontaansus,1,1,1,,,,,,,,www_alphagis_ee.ela_403490.txt www_bioneer_ee.ela_243230.txt
-,impersonaalsus,2,3,3,3,,,,,,,www_alphagis_ee.ela_403490.txt www_bioneer_ee.ela_243230.txt
-,argumentatiivsus,,,,,,,,,,,
-www_nami-nami_ee.ela_173054.txt,abstraktsus,,,,,,,,,,,
-,infotihedus,2,1,3,3,2,3,3,,,,www_mesindus_ee.ela_33384.txt www_linnaleht_ee.ela_420357.txt
-,aja olulisus,3,3,3,3,2,3,2,,,,www_mesindus_ee.ela_33384.txt www_linnaleht_ee.ela_420357.txt
-,afektiivsus,2,,,,,,,,,,www_mesindus_ee.ela_33384.txt
-,formaalsus,1,,,,,,,,,,www_mesindus_ee.ela_33384.txt
-,interaktiivsus,1,2,2,1,,,,,,,www_mesindus_ee.ela_33384.txt www_autoleht_ee.ela_469280.txt
-,instrueerivus,3,3,3,3,3,3,3,2,3,3,www_linnaleht_ee.ela_420357.txt www_epl_ee.ela_679018.txt
-,keerukus,,,,,,,,,,,
-,subjektiivsus,2,,,,,,,,,,www_epl_ee.ela_679018.txt
-,spontaansus,1,1,1,1,,,,,,,www_autoleht_ee.ela_469280.txt www_epl_ee.ela_679018.txt
-,impersonaalsus,3,3,2,,,,,,,,www_autoleht_ee.ela_469280.txt www_epl_ee.ela_679018.txt
-,argumentatiivsus,2,2,,,,,,,,,www_autoleht_ee.ela_469280.txt www_epl_ee.ela_679018.txt
-www_mesindus_ee.ela_33384.txt,abstraktsus,1,,,,,,,,,,www_nami-nami_ee.ela_173054.txt
-,infotihedus,2,3,,,,,,,,,www_nami-nami_ee.ela_173054.txt www_horsemarket_ee.ela_436247.txt
-,aja olulisus,1,3,3,,,,,,,,www_nami-nami_ee.ela_173054.txt www_horsemarket_ee.ela_436247.txt
-,afektiivsus,1,1,1,1,,,,,,,www_nami-nami_ee.ela_173054.txt www_hambaarst_ee.ela_475731.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,1,,,,,,,,,,www_nami-nami_ee.ela_173054.txt
-,instrueerivus,2,3,3,3,3,2,3,2,2,2,www_syndikaat_ee.ela_469373.txt www_horsemarket_ee.ela_436247.txt
-,keerukus,1,2,1,1,1,1,,,,,www_syndikaat_ee.ela_469373.txt www_horsemarket_ee.ela_436247.txt
-,subjektiivsus,2,1,1,1,1,,,,,,www_horsemarket_ee.ela_436247.txt
-,spontaansus,1,1,1,,,,,,,,www_syndikaat_ee.ela_469373.txt www_hambaarst_ee.ela_475731.txt
-,impersonaalsus,2,2,,,,,,,,,www_syndikaat_ee.ela_469373.txt www_hambaarst_ee.ela_475731.txt
-,argumentatiivsus,2,3,2,1,1,2,,,,,www_syndikaat_ee.ela_469373.txt www_hambaarst_ee.ela_475731.txt
-www_lounaleht_ee.ela_576969.txt,abstraktsus,1,1,1,,,,,,,,www_vm_ee.ela_81604.txt
-,infotihedus,2,,,,,,,,,,rahvahaal_delfi_ee.ela_258274.txt
-,aja olulisus,1,1,2,1,2,,,,,,www_vm_ee.ela_81604.txt rahvahaal_delfi_ee.ela_258274.txt
-,afektiivsus,1,1,1,,,,,,,,www_vm_ee.ela_81604.txt
-,formaalsus,1,2,1,,,,,,,,www_vm_ee.ela_81604.txt et_wikipedia_org.ela_519819.txt
-,interaktiivsus,2,1,2,1,1,,,,,,www_vm_ee.ela_81604.txt et_wikipedia_org.ela_519819.txt
-,instrueerivus,1,1,,,,,,,,,stiimul_ee.ela_330566.txt
-,keerukus,1,1,,,,,,,,,rahvahaal_delfi_ee.ela_258274.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,1,,,,,,,,,,et_wikipedia_org.ela_519819.txt
-,impersonaalsus,2,2,3,2,2,,,,,,stiimul_ee.ela_330566.txt et_wikipedia_org.ela_519819.txt
-,argumentatiivsus,2,,,,,,,,,,stiimul_ee.ela_330566.txt
-www_vm_ee.ela_81604.txt,abstraktsus,1,,,,,,,,,,et_wikipedia_org.ela_191506.txt
-,infotihedus,3,3,3,2,1,2,,,,,et_wikipedia_org.ela_191506.txt www_lounaleht_ee.ela_576969.txt
-,aja olulisus,1,2,,,,,,,,,www_lounaleht_ee.ela_576969.txt
-,afektiivsus,3,1,1,,,,,,,,www_admiralmarkets_ee.ela_333517.txt www_lounaleht_ee.ela_576969.txt
-,formaalsus,1,2,2,3,3,2,,,,,www_admiralmarkets_ee.ela_333517.txt www_lounaleht_ee.ela_576969.txt
-,interaktiivsus,1,3,0,,,,,,,,www_admiralmarkets_ee.ela_333517.txt www_lounaleht_ee.ela_576969.txt
-,instrueerivus,3,3,3,3,3,3,2,2,3,3,et_wikipedia_org.ela_191506.txt arhiiv_koolielu_ee.ela_481254.txt
-,keerukus,1,,,,,,,,,,arhiiv_koolielu_ee.ela_481254.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,1,1,,,,,,,,,arhiiv_koolielu_ee.ela_481254.txt www_admiralmarkets_ee.ela_333517.txt
-,impersonaalsus,1,3,3,3,3,3,,,,,arhiiv_koolielu_ee.ela_481254.txt www_admiralmarkets_ee.ela_333517.txt
-,argumentatiivsus,3,2,3,2,3,,,,,,www_admiralmarkets_ee.ela_333517.txt
-www_mulje_ee.ela_177932.txt,abstraktsus,3,2,2,1,2,,,,,,rahvahaal_delfi_ee.ela_135048.txt et_wikipedia_org.ela_519819.txt
-,infotihedus,2,2,2,,,,,,,,rahvahaal_delfi_ee.ela_135048.txt et_wikipedia_org.ela_519819.txt
-,aja olulisus,1,2,2,3,2,2,2,,,,rahvahaal_delfi_ee.ela_135048.txt et_wikipedia_org.ela_519819.txt
-,afektiivsus,3,3,2,3,3,3,3,3,3,3,www_xn--eestimngula-q8a_ee.ela_40079.txt et_wikipedia_org.ela_519819.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,3,2,2,3,3,3,3,3,3,3,www_xn--eestimngula-q8a_ee.ela_40079.txt et_wikipedia_org.ela_519819.txt
-,instrueerivus,3,,,,,,,,,,www_eestikirik_ee.ela_530609.txt
-,keerukus,3,3,1,2,2,1,,,,,rahvahaal_delfi_ee.ela_135048.txt www_eestikirik_ee.ela_530609.txt
-,subjektiivsus,2,3,3,3,3,,,,,,rahvahaal_delfi_ee.ela_135048.txt www_eestikirik_ee.ela_530609.txt
-,spontaansus,3,3,3,3,3,3,3,3,3,3,www_eestikirik_ee.ela_530609.txt www_xn--eestimngula-q8a_ee.ela_40079.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,2,1,2,,,,,,,,www_xn--eestimngula-q8a_ee.ela_40079.txt
-et_wikipedia_org.ela_519819.txt,abstraktsus,2,1,3,1,,,,,,,et_wikipedia_org.ela_624820.txt www_mulje_ee.ela_177932.txt
-,infotihedus,2,3,2,1,,,,,,,www_mulje_ee.ela_177932.txt
-,aja olulisus,1,1,,,,,,,,,et_wikipedia_org.ela_624820.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,1,2,2,2,2,2,2,,,,www_mulje_ee.ela_177932.txt www_lounaleht_ee.ela_576969.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,1,2,2,1,3,2,,,,,sport_autonet_ee.ela_515760.txt et_wikipedia_org.ela_624820.txt
-,keerukus,1,2,2,,,,,,,,sport_autonet_ee.ela_515760.txt et_wikipedia_org.ela_624820.txt
-,subjektiivsus,2,,,,,,,,,,sport_autonet_ee.ela_515760.txt
-,spontaansus,1,,,,,,,,,,www_lounaleht_ee.ela_576969.txt
-,impersonaalsus,2,2,2,1,2,3,,,,,sport_autonet_ee.ela_515760.txt www_lounaleht_ee.ela_576969.txt
-,argumentatiivsus,2,2,2,2,2,1,1,,,,sport_autonet_ee.ela_515760.txt www_lounaleht_ee.ela_576969.txt
-www_jeesusekristusekirik_ee.ela_65555.txt,abstraktsus,2,1,1,,,,,,,,www_kv_ee.ela_199481.txt
-,infotihedus,1,1,2,1,,,,,,,www_eestikirik_ee.ela_530609.txt
-,aja olulisus,1,2,1,2,2,,,,,,www_eestikirik_ee.ela_530609.txt www_kv_ee.ela_199481.txt
-,afektiivsus,1,1,1,1,,,,,,,www_kv_ee.ela_199481.txt
-,formaalsus,1,1,1,1,,,,,,,blablabla_ee.ela_504829.txt www_kv_ee.ela_199481.txt
-,interaktiivsus,2,1,,,,,,,,,blablabla_ee.ela_504829.txt www_kv_ee.ela_199481.txt
-,instrueerivus,2,,,,,,,,,,www_eestikirik_ee.ela_530609.txt
-,keerukus,3,1,1,,,,,,,,www_eestikirik_ee.ela_530609.txt www_politsei_ee.ela_40109.txt
-,subjektiivsus,1,1,,,,,,,,,www_politsei_ee.ela_40109.txt
-,spontaansus,2,2,,,,,,,,,blablabla_ee.ela_504829.txt
-,impersonaalsus,3,1,1,,,,,,,,blablabla_ee.ela_504829.txt
-,argumentatiivsus,,,,,,,,,,,
-www_kv_ee.ela_199481.txt,abstraktsus,1,,,,,,,,,,www_jeesusekristusekirik_ee.ela_65555.txt
-,infotihedus,3,3,3,3,3,2,3,3,,,www_jeesusekristusekirik_ee.ela_65555.txt www_puuinfo_ee.ela_279876.txt
-,aja olulisus,2,2,1,2,1,,,,,,www_jeesusekristusekirik_ee.ela_65555.txt www_puuinfo_ee.ela_279876.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,2,1,3,,,,,,,www_politsei_ee.ela_163441.txt www_jeesusekristusekirik_ee.ela_65555.txt
-,interaktiivsus,2,2,,,,,,,,,www_politsei_ee.ela_163441.txt www_jeesusekristusekirik_ee.ela_65555.txt
-,instrueerivus,1,2,,,,,,,,,video_usk_ee.ela_152445.txt
-,keerukus,1,2,1,,,,,,,,www_puuinfo_ee.ela_279876.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,2,1,1,2,2,,,,,,www_politsei_ee.ela_163441.txt video_usk_ee.ela_152445.txt
-,impersonaalsus,3,3,3,2,3,3,3,3,3,,www_politsei_ee.ela_163441.txt video_usk_ee.ela_152445.txt
-,argumentatiivsus,,,,,,,,,,,
-www_admiralmarkets_ee.ela_456804.txt,abstraktsus,2,1,1,1,1,2,3,,,,ekspress_online_2020.txt www_linnateater_ee.ela_612249.txt
-,infotihedus,3,2,3,2,1,2,2,1,2,3,ekspress_online_2020.txt www_linnateater_ee.ela_612249.txt
-,aja olulisus,2,1,2,1,1,1,,,,,ekspress_online_2020.txt www_linnateater_ee.ela_612249.txt
-,afektiivsus,2,3,1,,,,,,,,ekspress_online_2020.txt
-,formaalsus,1,1,1,2,2,1,,,,,ekspress_online_2020.txt www_dragon_ee.ela_303548.txt
-,interaktiivsus,1,,,,,,,,,,ekspress_online_2020.txt
-,instrueerivus,1,2,,,,,,,,,uuseesti_ee.ela_112397.txt www_linnateater_ee.ela_612249.txt
-,keerukus,1,3,2,3,1,1,1,,,,uuseesti_ee.ela_112397.txt www_linnateater_ee.ela_612249.txt
-,subjektiivsus,2,1,1,3,,,,,,,uuseesti_ee.ela_112397.txt
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,1,3,3,1,2,,,,,uuseesti_ee.ela_112397.txt www_dragon_ee.ela_303548.txt
-,argumentatiivsus,2,2,1,1,3,1,3,,,,uuseesti_ee.ela_112397.txt www_dragon_ee.ela_303548.txt
-ekspress_online_2020.txt,abstraktsus,,,,,,,,,,,
-,infotihedus,1,,,,,,,,,,www_ajakiri_ut_ee.ela_429007.txt
-,aja olulisus,1,2,1,1,2,1,,,,,www_ajakiri_ut_ee.ela_429007.txt www_admiralmarkets_ee.ela_456804.txt
-,afektiivsus,1,1,,,,,,,,,www_admiralmarkets_ee.ela_456804.txt
-,formaalsus,2,,,,,,,,,,www_linnaleht_ee.ela_420357.txt
-,interaktiivsus,2,,,,,,,,,,www_admiralmarkets_ee.ela_456804.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,,,,,,,,,,,
-,subjektiivsus,1,1,1,1,2,,,,,,www_employers_ee.ela_617415.txt www_ajakiri_ut_ee.ela_429007.txt
-,spontaansus,1,,,,,,,,,,www_employers_ee.ela_617415.txt
-,impersonaalsus,1,1,1,1,,,,,,,www_employers_ee.ela_617415.txt www_linnaleht_ee.ela_420357.txt
-,argumentatiivsus,,,,,,,,,,,
-www_meiekirik_ee.ela_286284.txt,abstraktsus,2,1,1,2,1,2,1,2,,,www_alphagis_ee.ela_403490.txt www_helen_ee.ela_520035.txt
-,infotihedus,,,,,,,,,,,
-,aja olulisus,2,,,,,,,,,,www_alphagis_ee.ela_403490.txt
-,afektiivsus,1,2,1,1,1,,,,,,www_unesco_ee.ela_630384.txt www_helen_ee.ela_520035.txt
-,formaalsus,2,1,,,,,,,,,www_helen_ee.ela_520035.txt
-,interaktiivsus,1,2,1,2,2,1,1,1,,,www_unesco_ee.ela_630384.txt www_helen_ee.ela_520035.txt
-,instrueerivus,1,1,3,,,,,,,,www_alphagis_ee.ela_403490.txt kalah_zzz_ee.ela_52237.txt
-,keerukus,2,,,,,,,,,,kalah_zzz_ee.ela_52237.txt
-,subjektiivsus,1,3,,,,,,,,,www_alphagis_ee.ela_403490.txt kalah_zzz_ee.ela_52237.txt
-,spontaansus,1,,,,,,,,,,www_unesco_ee.ela_630384.txt
-,impersonaalsus,2,,,,,,,,,,kalah_zzz_ee.ela_52237.txt
-,argumentatiivsus,1,1,2,2,2,1,,,,,www_unesco_ee.ela_630384.txt kalah_zzz_ee.ela_52237.txt
-www_helen_ee.ela_520035.txt,abstraktsus,2,,,,,,,,,,www_sirp_ee.ela_651305.txt
-,infotihedus,1,3,3,3,2,2,2,1,,,www_sirp_ee.ela_651305.txt www_meiekirik_ee.ela_286284.txt
-,aja olulisus,1,,,,,,,,,,www_meiekirik_ee.ela_286284.txt
-,afektiivsus,2,3,,,,,,,,,www_delfi_ee.ela_361703.txt www_meiekirik_ee.ela_286284.txt
-,formaalsus,1,1,,,,,,,,,www_delfi_ee.ela_361703.txt www_meiekirik_ee.ela_286284.txt
-,interaktiivsus,2,3,,,,,,,,,www_delfi_ee.ela_361703.txt www_meiekirik_ee.ela_286284.txt
-,instrueerivus,3,3,3,3,3,3,2,1,1,3,www_sirp_ee.ela_651305.txt uudised_err_ee.ela_541051.txt
-,keerukus,,,,,,,,,,,
-,subjektiivsus,1,1,2,1,1,2,,,,,www_sirp_ee.ela_651305.txt uudised_err_ee.ela_541051.txt
-,spontaansus,1,1,2,,,,,,,,uudised_err_ee.ela_541051.txt
-,impersonaalsus,2,3,2,1,2,3,3,,,,uudised_err_ee.ela_541051.txt www_delfi_ee.ela_361703.txt
-,argumentatiivsus,2,1,,,,,,,,,www_delfi_ee.ela_361703.txt
-arvamusaed_ee.ela_274676.txt,abstraktsus,2,1,1,2,2,2,2,,,,uudised_err_ee.ela_541051.txt www_ekspress_ee.ela_495829.txt
-,infotihedus,1,,,,,,,,,,uudised_err_ee.ela_541051.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,2,2,1,2,3,2,3,,,,uudised_err_ee.ela_541051.txt sport_autonet_ee.ela_515760.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,2,2,1,2,1,,,,,,uudised_err_ee.ela_541051.txt sport_autonet_ee.ela_515760.txt
-,instrueerivus,1,1,2,,,,,,,,www_ekspress_ee.ela_495829.txt www_kohus_ee.ela_34731.txt
-,keerukus,,,,,,,,,,,
-,subjektiivsus,3,3,2,2,2,2,2,2,,,www_ekspress_ee.ela_495829.txt www_kohus_ee.ela_34731.txt
-,spontaansus,1,1,1,1,2,1,,,,,www_kohus_ee.ela_34731.txt sport_autonet_ee.ela_515760.txt
-,impersonaalsus,2,,,,,,,,,,sport_autonet_ee.ela_515760.txt
-,argumentatiivsus,2,2,1,2,1,2,2,2,1,,www_kohus_ee.ela_34731.txt sport_autonet_ee.ela_515760.txt
-uudised_err_ee.ela_541051.txt,abstraktsus,1,1,2,,,,,,,,arvamusaed_ee.ela_274676.txt www_hambaarst_ee.ela_423040.txt
-,infotihedus,1,2,2,2,,,,,,,arvamusaed_ee.ela_274676.txt
-,aja olulisus,1,,,,,,,,,,arvamusaed_ee.ela_274676.txt
-,afektiivsus,1,2,3,,,,,,,,arvamusaed_ee.ela_274676.txt
-,formaalsus,2,2,1,1,,,,,,,arvamusaed_ee.ela_274676.txt www_med24_ee.ela_557549.txt
-,interaktiivsus,1,1,1,,,,,,,,arvamusaed_ee.ela_274676.txt www_med24_ee.ela_557549.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,3,,,,,,,,,,www_helen_ee.ela_520035.txt
-,subjektiivsus,2,1,2,1,3,,,,,,www_hambaarst_ee.ela_423040.txt www_helen_ee.ela_520035.txt
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,2,3,,,,,,,,www_helen_ee.ela_520035.txt www_med24_ee.ela_557549.txt
-,argumentatiivsus,2,1,2,2,1,2,2,3,,,www_helen_ee.ela_520035.txt www_med24_ee.ela_557549.txt
-kalah_zzz_ee.ela_73709.txt,abstraktsus,1,2,1,2,3,2,2,,,,rahvahaal_delfi_ee.ela_388979.txt www_mod_gov_ee.ela_178680.txt
-,infotihedus,2,2,1,2,,,,,,,rahvahaal_delfi_ee.ela_388979.txt www_mod_gov_ee.ela_178680.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,2,3,2,3,3,3,3,,,,www_ekspress_ee.ela_495829.txt www_mod_gov_ee.ela_178680.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,1,2,,,,,,,,,www_mod_gov_ee.ela_178680.txt
-,instrueerivus,1,1,1,2,,,,,,,www_vorumaateataja_ee.ela_241120.txt rahvahaal_delfi_ee.ela_388979.txt
-,keerukus,1,1,3,2,3,2,,,,,www_vorumaateataja_ee.ela_241120.txt rahvahaal_delfi_ee.ela_388979.txt
-,subjektiivsus,3,3,3,3,3,3,2,3,3,,www_vorumaateataja_ee.ela_241120.txt rahvahaal_delfi_ee.ela_388979.txt
-,spontaansus,2,3,1,3,3,,,,,,www_vorumaateataja_ee.ela_241120.txt
-,impersonaalsus,3,2,2,1,,,,,,,www_ekspress_ee.ela_495829.txt www_vorumaateataja_ee.ela_241120.txt
-,argumentatiivsus,2,1,2,2,2,2,1,2,3,,www_ekspress_ee.ela_495829.txt www_vorumaateataja_ee.ela_241120.txt
-www_mod_gov_ee.ela_178680.txt,abstraktsus,,,,,,,,,,,
-,infotihedus,2,3,2,2,,,,,,,kalah_zzz_ee.ela_73709.txt www_tootukassa_ee.ela_395777.txt
-,aja olulisus,1,2,1,1,1,2,2,,,,kalah_zzz_ee.ela_73709.txt www_tootukassa_ee.ela_395777.txt
-,afektiivsus,1,,,,,,,,,,www_vsport_ee.ela_120496.txt
-,formaalsus,1,2,2,3,3,3,1,3,3,,kalah_zzz_ee.ela_73709.txt www_vsport_ee.ela_120496.txt
-,interaktiivsus,2,,,,,,,,,,www_vsport_ee.ela_120496.txt
-,instrueerivus,1,3,,,,,,,,,www_hambaarst_ee.ela_475731.txt
-,keerukus,2,1,1,2,,,,,,,www_hambaarst_ee.ela_475731.txt www_tootukassa_ee.ela_395777.txt
-,subjektiivsus,2,1,,,,,,,,,www_hambaarst_ee.ela_475731.txt
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,1,3,2,2,3,,,,,,www_hambaarst_ee.ela_475731.txt www_vsport_ee.ela_120496.txt
-,argumentatiivsus,2,3,3,3,2,3,3,1,3,3,www_hambaarst_ee.ela_475731.txt www_vsport_ee.ela_120496.txt
-no_spam_ee.ela_2227.txt,abstraktsus,2,1,2,,,,,,,,www_ajakiri_ut_ee.ela_429007.txt www_lemmik_ee.ela_519214.txt
-,infotihedus,3,3,3,2,3,2,2,1,2,3,www_ajakiri_ut_ee.ela_429007.txt www_lemmik_ee.ela_519214.txt
-,aja olulisus,1,1,2,1,,,,,,,www_ajakiri_ut_ee.ela_429007.txt www_lemmik_ee.ela_519214.txt
-,afektiivsus,1,,,,,,,,,,www_ajakiri_ut_ee.ela_429007.txt
-,formaalsus,2,3,3,3,3,3,3,3,3,3,www_sirp_ee.ela_651305.txt www_ajakiri_ut_ee.ela_429007.txt
-,interaktiivsus,1,1,2,2,1,,,,,,www_sirp_ee.ela_651305.txt www_ajakiri_ut_ee.ela_429007.txt
-,instrueerivus,1,2,3,2,1,1,1,3,,,www_europarl_ee.ela_36110.txt www_lemmik_ee.ela_519214.txt
-,keerukus,2,3,2,1,2,2,1,2,2,,www_europarl_ee.ela_36110.txt www_lemmik_ee.ela_519214.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,1,3,2,2,2,2,,,,,www_sirp_ee.ela_651305.txt www_europarl_ee.ela_36110.txt
-,argumentatiivsus,2,2,3,3,3,3,3,2,2,,www_sirp_ee.ela_651305.txt www_europarl_ee.ela_36110.txt
-www_lillelapsed_ee.ela_607751.txt,abstraktsus,1,1,2,,,,,,,,valitsus_ee.ela_132104.txt kaja_ekstreem_ee.ela_71641.txt
-,infotihedus,2,,,,,,,,,,valitsus_ee.ela_132104.txt
-,aja olulisus,1,2,2,2,1,,,,,,valitsus_ee.ela_132104.txt
-,afektiivsus,1,1,3,1,,,,,,,valitsus_ee.ela_132104.txt www_easl_ee.ela_201171.txt
-,formaalsus,1,,,,,,,,,,www_easl_ee.ela_201171.txt
-,interaktiivsus,1,3,3,3,3,1,,,,,valitsus_ee.ela_132104.txt www_easl_ee.ela_201171.txt
-,instrueerivus,3,3,3,3,3,3,3,1,3,2,www_auto24_ee.ela_469677.txt kaja_ekstreem_ee.ela_71641.txt
-,keerukus,,,,,,,,,,,
-,subjektiivsus,2,,,,,,,,,,kaja_ekstreem_ee.ela_71641.txt
-,spontaansus,1,1,1,1,,,,,,,www_easl_ee.ela_201171.txt
-,impersonaalsus,3,2,3,,,,,,,,www_auto24_ee.ela_469677.txt www_easl_ee.ela_201171.txt
-,argumentatiivsus,2,2,1,2,2,3,,,,,www_auto24_ee.ela_469677.txt www_easl_ee.ela_201171.txt
-valitsus_ee.ela_132104.txt,abstraktsus,2,2,2,,,,,,,,www_vsport_ee.ela_120496.txt www_lillelapsed_ee.ela_607751.txt
-,infotihedus,3,3,3,3,2,,,,,,www_vsport_ee.ela_120496.txt www_lillelapsed_ee.ela_607751.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,2,3,3,2,2,3,2,3,2,unitedkiters_ee.ela_78733.txt www_lillelapsed_ee.ela_607751.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,1,2,1,2,2,,,,,,www_pealinn_ee.ela_132426.txt www_vsport_ee.ela_120496.txt
-,keerukus,2,2,2,2,,,,,,,www_pealinn_ee.ela_132426.txt www_vsport_ee.ela_120496.txt
-,subjektiivsus,1,,,,,,,,,,www_vsport_ee.ela_120496.txt
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,3,3,2,2,3,3,2,3,,unitedkiters_ee.ela_78733.txt www_pealinn_ee.ela_132426.txt
-,argumentatiivsus,2,3,2,3,1,,,,,,unitedkiters_ee.ela_78733.txt www_pealinn_ee.ela_132426.txt
-www_naisteleht_ee.ela_355886.txt,abstraktsus,2,2,2,1,2,2,1,2,2,,www_sirp_ee.ela_651305.txt www_porterracing_ee.ela_609577.txt
-,infotihedus,,,,,,,,,,,
-,aja olulisus,1,2,,,,,,,,,www_porterracing_ee.ela_609577.txt
-,afektiivsus,3,3,2,3,3,2,1,3,3,2,www_sirp_ee.ela_651305.txt forte_delfi_ee.ela_88079.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,2,2,1,2,1,,,,,,www_sirp_ee.ela_651305.txt forte_delfi_ee.ela_88079.txt
-,instrueerivus,2,2,2,2,2,2,,,,,www_porterracing_ee.ela_609577.txt www_delfi_ee.ela_361703.txt
-,keerukus,2,,,,,,,,,,www_delfi_ee.ela_361703.txt
-,subjektiivsus,2,,,,,,,,,,www_porterracing_ee.ela_609577.txt
-,spontaansus,2,2,,,,,,,,,forte_delfi_ee.ela_88079.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,2,,,,,,,,,,forte_delfi_ee.ela_88079.txt
-www_sirp_ee.ela_651305.txt,abstraktsus,1,1,,,,,,,,,www_helen_ee.ela_520035.txt
-,infotihedus,1,2,3,2,2,2,3,,,,www_naisteleht_ee.ela_355886.txt www_helen_ee.ela_520035.txt
-,aja olulisus,1,2,1,2,2,2,,,,,www_naisteleht_ee.ela_355886.txt www_helen_ee.ela_520035.txt
-,afektiivsus,1,1,,,,,,,,,no_spam_ee.ela_2227.txt
-,formaalsus,1,1,1,,,,,,,,www_naisteleht_ee.ela_355886.txt
-,interaktiivsus,1,,,,,,,,,,no_spam_ee.ela_2227.txt
-,instrueerivus,2,,,,,,,,,,www_easl_ee.ela_201171.txt
-,keerukus,1,1,1,,,,,,,,www_helen_ee.ela_520035.txt www_easl_ee.ela_201171.txt
-,subjektiivsus,2,1,,,,,,,,,www_easl_ee.ela_201171.txt
-,spontaansus,1,,,,,,,,,,no_spam_ee.ela_2227.txt
-,impersonaalsus,2,2,2,2,1,1,,,,,no_spam_ee.ela_2227.txt www_easl_ee.ela_201171.txt
-,argumentatiivsus,3,,,,,,,,,,www_easl_ee.ela_201171.txt
-www_alphagis_ee.ela_403490.txt,abstraktsus,3,1,3,,,,,,,,www_meiekirik_ee.ela_286284.txt forte_delfi_ee.ela_222312.txt
-,infotihedus,3,3,3,3,2,3,2,3,3,,www_meiekirik_ee.ela_286284.txt forte_delfi_ee.ela_222312.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,3,3,1,1,2,2,2,,,www_aialeht_ee.ela_457123.txt forte_delfi_ee.ela_222312.txt
-,interaktiivsus,2,,,,,,,,,,forte_delfi_ee.ela_222312.txt
-,instrueerivus,1,2,3,,,,,,,,www_meiekirik_ee.ela_286284.txt
-,keerukus,3,3,3,3,3,3,3,2,2,2,nami-nami_ee.ela_372868.txt www_meiekirik_ee.ela_286284.txt
-,subjektiivsus,1,,,,,,,,,,www_meiekirik_ee.ela_286284.txt
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,3,3,3,3,3,3,1,,,,nami-nami_ee.ela_372868.txt www_aialeht_ee.ela_457123.txt
-,argumentatiivsus,2,2,3,1,1,1,3,,,,nami-nami_ee.ela_372868.txt www_aialeht_ee.ela_457123.txt
-forte_delfi_ee.ela_222312.txt,abstraktsus,,,,,,,,,,,
-,infotihedus,2,3,,,,,,,,,www_alphagis_ee.ela_403490.txt www_eestigiid_ee.ela_530847.txt
-,aja olulisus,3,1,2,1,1,2,2,2,3,,www_alphagis_ee.ela_403490.txt www_eestigiid_ee.ela_530847.txt
-,afektiivsus,1,1,1,2,1,1,,,,,www_alphagis_ee.ela_403490.txt arvamus_postimees_ee.ela_5946.txt
-,formaalsus,1,2,2,1,,,,,,,www_alphagis_ee.ela_403490.txt arvamus_postimees_ee.ela_5946.txt
-,interaktiivsus,2,1,1,,,,,,,,www_alphagis_ee.ela_403490.txt arvamus_postimees_ee.ela_5946.txt
-,instrueerivus,1,1,2,2,,,,,,,www_eestigiid_ee.ela_530847.txt www_eestisport_ee.ela_196071.txt
-,keerukus,2,2,,,,,,,,,www_eestisport_ee.ela_196071.txt
-,subjektiivsus,1,1,2,,,,,,,,www_eestigiid_ee.ela_530847.txt www_eestisport_ee.ela_196071.txt
-,spontaansus,1,,,,,,,,,,arvamus_postimees_ee.ela_5946.txt
-,impersonaalsus,2,2,1,3,,,,,,,arvamus_postimees_ee.ela_5946.txt
-,argumentatiivsus,2,3,2,2,3,1,2,2,2,3,arvamus_postimees_ee.ela_5946.txt www_eestisport_ee.ela_196071.txt
-uuseesti_ee.ela_112397.txt,abstraktsus,1,1,1,2,,,,,,,www_admiralmarkets_ee.ela_333517.txt www_maaleht_ee.ela_246360.txt
-,infotihedus,2,2,2,1,3,,,,,,www_admiralmarkets_ee.ela_333517.txt www_maaleht_ee.ela_246360.txt
-,aja olulisus,1,2,1,1,,,,,,,www_admiralmarkets_ee.ela_333517.txt www_maaleht_ee.ela_246360.txt
-,afektiivsus,1,,,,,,,,,,www_admiralmarkets_ee.ela_333517.txt
-,formaalsus,2,2,2,3,3,3,2,2,,,www_admiralmarkets_ee.ela_333517.txt www_lapsemure_ee.ela_140896.txt
-,interaktiivsus,1,1,1,,,,,,,,www_admiralmarkets_ee.ela_333517.txt www_lapsemure_ee.ela_140896.txt
-,instrueerivus,1,2,,,,,,,,,www_maaleht_ee.ela_246360.txt www_admiralmarkets_ee.ela_456804.txt
-,keerukus,2,1,2,2,1,2,,,,,www_maaleht_ee.ela_246360.txt www_admiralmarkets_ee.ela_456804.txt
-,subjektiivsus,1,,,,,,,,,,www_admiralmarkets_ee.ela_456804.txt
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,3,3,2,3,1,1,2,,,www_lapsemure_ee.ela_140896.txt www_admiralmarkets_ee.ela_456804.txt
-,argumentatiivsus,2,,,,,,,,,,www_lapsemure_ee.ela_140896.txt
-www_admiralmarkets_ee.ela_333517.txt,abstraktsus,3,1,2,,,,,,,,uuseesti_ee.ela_112397.txt reform_ee.ela_24983.txt
-,infotihedus,2,2,3,2,2,2,2,2,3,,uuseesti_ee.ela_112397.txt reform_ee.ela_24983.txt
-,aja olulisus,3,2,2,2,1,1,2,3,,,uuseesti_ee.ela_112397.txt reform_ee.ela_24983.txt
-,afektiivsus,1,,,,,,,,,,uuseesti_ee.ela_112397.txt
-,formaalsus,2,2,2,1,2,,,,,,www_vm_ee.ela_81604.txt uuseesti_ee.ela_112397.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,2,,,,,,,,,,www_epl_ee.ela_495381.txt
-,keerukus,1,2,1,2,,,,,,,reform_ee.ela_24983.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,3,3,3,3,2,3,,,,www_vm_ee.ela_81604.txt www_epl_ee.ela_495381.txt
-,argumentatiivsus,,,,,,,,,,,
-www_easl_ee.ela_201171.txt,abstraktsus,2,,,,,,,,,,www_tooelu_ee.ela_624263.txt
-,infotihedus,2,3,3,1,2,1,2,3,,,www_vorumaateataja_ee.ela_241120.txt www_tooelu_ee.ela_624263.txt
-,aja olulisus,2,1,1,,,,,,,,www_tooelu_ee.ela_624263.txt
-,afektiivsus,1,,,,,,,,,,www_lillelapsed_ee.ela_607751.txt
-,formaalsus,1,1,2,1,1,2,,,,,www_vorumaateataja_ee.ela_241120.txt www_lillelapsed_ee.ela_607751.txt
-,interaktiivsus,1,,,,,,,,,,www_lillelapsed_ee.ela_607751.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,1,1,1,,,,,,,,www_sirp_ee.ela_651305.txt www_tooelu_ee.ela_624263.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,1,,,,,,,,,,www_sirp_ee.ela_651305.txt
-,impersonaalsus,2,2,3,,,,,,,,www_sirp_ee.ela_651305.txt www_lillelapsed_ee.ela_607751.txt
-,argumentatiivsus,,,,,,,,,,,
-www_vorumaateataja_ee.ela_241120.txt,abstraktsus,1,1,1,,,,,,,,www_xn--eestimngula-q8a_ee.ela_40079.txt www_easl_ee.ela_201171.txt
-,infotihedus,1,2,,,,,,,,,www_xn--eestimngula-q8a_ee.ela_40079.txt www_easl_ee.ela_201171.txt
-,aja olulisus,1,3,2,3,2,2,3,1,2,2,www_xn--eestimngula-q8a_ee.ela_40079.txt www_easl_ee.ela_201171.txt
-,afektiivsus,2,2,2,3,2,,,,,,www_easl_ee.ela_201171.txt
-,formaalsus,1,,,,,,,,,,www_syndikaat_ee.ela_469373.txt
-,interaktiivsus,1,3,3,2,2,3,1,1,1,,www_syndikaat_ee.ela_469373.txt www_easl_ee.ela_201171.txt
-,instrueerivus,2,,,,,,,,,,kalah_zzz_ee.ela_73709.txt
-,keerukus,1,,,,,,,,,,www_xn--eestimngula-q8a_ee.ela_40079.txt
-,subjektiivsus,2,1,1,2,1,,,,,,www_xn--eestimngula-q8a_ee.ela_40079.txt
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,2,2,2,1,,,,,,www_syndikaat_ee.ela_469373.txt kalah_zzz_ee.ela_73709.txt
-,argumentatiivsus,1,1,1,1,,,,,,,www_syndikaat_ee.ela_469373.txt
-www_hambaarst_ee.ela_423040.txt,abstraktsus,2,1,2,2,2,,,,,,uudised_err_ee.ela_541051.txt www_eestigiid_ee.ela_530847.txt
-,infotihedus,3,3,3,3,3,2,,,,,uudised_err_ee.ela_541051.txt www_eestigiid_ee.ela_530847.txt
-,aja olulisus,3,1,2,2,1,2,2,3,1,,uudised_err_ee.ela_541051.txt www_eestigiid_ee.ela_530847.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,3,3,3,3,3,3,3,3,3,www_bsd_ee.ela_638246.txt www_eestigiid_ee.ela_530847.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,1,2,2,2,2,2,3,3,1,,uudised_err_ee.ela_541051.txt www_lemmik_ee.ela_519214.txt
-,keerukus,3,3,2,3,3,3,2,2,3,1,uudised_err_ee.ela_541051.txt www_lemmik_ee.ela_519214.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,3,3,3,3,3,3,3,2,3,,www_bsd_ee.ela_638246.txt www_lemmik_ee.ela_519214.txt
-,argumentatiivsus,2,2,3,1,2,,,,,,www_bsd_ee.ela_638246.txt www_lemmik_ee.ela_519214.txt
-www_eestigiid_ee.ela_530847.txt,abstraktsus,2,,,,,,,,,,forte_delfi_ee.ela_222312.txt
-,infotihedus,3,3,2,3,3,3,3,3,,,www_hambaarst_ee.ela_423040.txt forte_delfi_ee.ela_222312.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,2,1,2,2,,,,,,www_porterracing_ee.ela_609577.txt
-,interaktiivsus,1,,,,,,,,,,www_hambaarst_ee.ela_423040.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,1,2,1,3,1,1,2,1,,,arvamusaed_ee.ela_6007.txt forte_delfi_ee.ela_222312.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,3,3,3,2,3,3,3,2,3,www_porterracing_ee.ela_609577.txt arvamusaed_ee.ela_6007.txt
-,argumentatiivsus,,,,,,,,,,,
-www_ekspress_ee.ela_495829.txt,abstraktsus,2,1,1,2,,,,,,,www_syndikaat_ee.ela_469373.txt arvamusaed_ee.ela_274676.txt
-,infotihedus,2,2,3,1,2,2,,,,,www_syndikaat_ee.ela_469373.txt arvamusaed_ee.ela_274676.txt
-,aja olulisus,1,1,3,1,2,,,,,,www_syndikaat_ee.ela_469373.txt arvamusaed_ee.ela_274676.txt
-,afektiivsus,3,3,3,3,3,2,3,,,,www_syndikaat_ee.ela_469373.txt kalah_zzz_ee.ela_73709.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,2,3,3,2,3,3,3,3,3,,www_syndikaat_ee.ela_469373.txt kalah_zzz_ee.ela_73709.txt
-,instrueerivus,2,1,2,2,1,,,,,,www_soudeliit_ee.ela_547578.txt arvamusaed_ee.ela_274676.txt
-,keerukus,1,2,2,3,3,3,2,,,,www_soudeliit_ee.ela_547578.txt arvamusaed_ee.ela_274676.txt
-,subjektiivsus,3,3,3,2,3,3,3,,,,www_soudeliit_ee.ela_547578.txt arvamusaed_ee.ela_274676.txt
-,spontaansus,3,2,3,3,3,3,3,3,3,3,www_soudeliit_ee.ela_547578.txt kalah_zzz_ee.ela_73709.txt
-,impersonaalsus,3,,,,,,,,,,kalah_zzz_ee.ela_73709.txt
-,argumentatiivsus,2,2,1,1,2,2,,,,,www_soudeliit_ee.ela_547578.txt kalah_zzz_ee.ela_73709.txt
-www_syndikaat_ee.ela_469373.txt,abstraktsus,3,2,,,,,,,,,www_ekspress_ee.ela_495829.txt www_autoleht_ee.ela_469280.txt
-,infotihedus,1,2,,,,,,,,,www_ekspress_ee.ela_495829.txt
-,aja olulisus,1,2,2,2,1,3,2,2,2,,www_ekspress_ee.ela_495829.txt www_autoleht_ee.ela_469280.txt
-,afektiivsus,3,2,1,1,3,1,,,,,www_ekspress_ee.ela_495829.txt www_vorumaateataja_ee.ela_241120.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,3,,,,,,,,,,www_ekspress_ee.ela_495829.txt
-,instrueerivus,1,,,,,,,,,,www_autoleht_ee.ela_469280.txt
-,keerukus,,,,,,,,,,,
-,subjektiivsus,3,2,3,2,2,2,3,2,3,2,www_autoleht_ee.ela_469280.txt www_mesindus_ee.ela_33384.txt
-,spontaansus,3,2,1,2,2,1,,,,,www_mesindus_ee.ela_33384.txt www_vorumaateataja_ee.ela_241120.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,2,,,,,,,,,,www_mesindus_ee.ela_33384.txt
-static_inimene_ee.ela_194968.txt,abstraktsus,2,2,2,1,,,,,,,www_bioneer_ee.ela_243230.txt kaja_ekstreem_ee.ela_71641.txt
-,infotihedus,2,2,3,1,2,,,,,,www_bioneer_ee.ela_243230.txt kaja_ekstreem_ee.ela_71641.txt
-,aja olulisus,2,2,,,,,,,,,www_bioneer_ee.ela_243230.txt kaja_ekstreem_ee.ela_71641.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,1,2,2,2,2,3,,,,,www_lemmik_ee.ela_519214.txt kaja_ekstreem_ee.ela_71641.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,1,2,1,,,,,,,,www_linnaleht_ee.ela_420357.txt www_bioneer_ee.ela_243230.txt
-,keerukus,2,2,2,,,,,,,,www_linnaleht_ee.ela_420357.txt www_bioneer_ee.ela_243230.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,1,2,,,,,,,,,www_lemmik_ee.ela_519214.txt www_linnaleht_ee.ela_420357.txt
-,impersonaalsus,3,2,3,2,3,3,3,3,2,3,www_lemmik_ee.ela_519214.txt www_linnaleht_ee.ela_420357.txt
-,argumentatiivsus,2,3,2,2,2,1,2,,,,www_lemmik_ee.ela_519214.txt www_linnaleht_ee.ela_420357.txt
-kaja_ekstreem_ee.ela_71641.txt,abstraktsus,1,1,2,,,,,,,,www_lillelapsed_ee.ela_607751.txt static_inimene_ee.ela_194968.txt
-,infotihedus,2,2,2,2,3,2,,,,,www_lillelapsed_ee.ela_607751.txt static_inimene_ee.ela_194968.txt
-,aja olulisus,3,3,3,2,2,3,1,2,3,,www_lillelapsed_ee.ela_607751.txt static_inimene_ee.ela_194968.txt
-,afektiivsus,1,2,1,2,2,1,1,1,1,,static_inimene_ee.ela_194968.txt www_puuinfo_ee.ela_279876.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,1,1,1,1,1,,,,,,static_inimene_ee.ela_194968.txt www_puuinfo_ee.ela_279876.txt
-,instrueerivus,1,,,,,,,,,,www_kasutatudraamat_ee.ela_68759.txt
-,keerukus,2,2,1,1,1,,,,,,www_lillelapsed_ee.ela_607751.txt www_kasutatudraamat_ee.ela_68759.txt
-,subjektiivsus,2,1,1,1,1,2,2,,,,www_lillelapsed_ee.ela_607751.txt www_kasutatudraamat_ee.ela_68759.txt
-,spontaansus,1,1,1,,,,,,,,www_puuinfo_ee.ela_279876.txt
-,impersonaalsus,2,1,1,3,2,,,,,,www_kasutatudraamat_ee.ela_68759.txt www_puuinfo_ee.ela_279876.txt
-,argumentatiivsus,1,,,,,,,,,,www_kasutatudraamat_ee.ela_68759.txt
-www_europarl_ee.ela_36110.txt,abstraktsus,2,2,2,2,2,,,,,,nami-nami_ee.ela_372868.txt et_wikipedia_org.ela_624820.txt
-,infotihedus,3,,,,,,,,,,nami-nami_ee.ela_372868.txt
-,aja olulisus,1,1,1,2,1,2,,,,,nami-nami_ee.ela_372868.txt et_wikipedia_org.ela_624820.txt
-,afektiivsus,1,1,1,2,,,,,,,et_wikipedia_org.ela_624820.txt
-,formaalsus,2,2,1,3,3,2,3,2,,,et_wikipedia_org.ela_624820.txt www_pealinn_ee.ela_132426.txt
-,interaktiivsus,1,1,2,,,,,,,,et_wikipedia_org.ela_624820.txt www_pealinn_ee.ela_132426.txt
-,instrueerivus,1,,,,,,,,,,no_spam_ee.ela_2227.txt
-,keerukus,2,1,2,1,1,2,,,,,nami-nami_ee.ela_372868.txt no_spam_ee.ela_2227.txt
-,subjektiivsus,1,1,1,,,,,,,,nami-nami_ee.ela_372868.txt no_spam_ee.ela_2227.txt
-,spontaansus,1,,,,,,,,,,www_pealinn_ee.ela_132426.txt
-,impersonaalsus,2,3,,,,,,,,,www_pealinn_ee.ela_132426.txt no_spam_ee.ela_2227.txt
-,argumentatiivsus,2,2,,,,,,,,,www_pealinn_ee.ela_132426.txt no_spam_ee.ela_2227.txt
-et_wikipedia_org.ela_624820.txt,abstraktsus,1,2,1,2,,,,,,,www_europarl_ee.ela_36110.txt et_wikipedia_org.ela_519819.txt
-,infotihedus,2,1,3,2,2,2,2,1,3,,www_europarl_ee.ela_36110.txt et_wikipedia_org.ela_519819.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,,,,,,,,,,,
-,formaalsus,1,2,2,3,1,,,,,,www_europarl_ee.ela_36110.txt stiimul_ee.ela_330566.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,3,3,,,,,,,,,www_horsemarket_ee.ela_436247.txt
-,keerukus,1,1,2,1,2,1,1,2,,,www_horsemarket_ee.ela_436247.txt et_wikipedia_org.ela_519819.txt
-,subjektiivsus,1,,,,,,,,,,et_wikipedia_org.ela_519819.txt
-,spontaansus,3,,,,,,,,,,www_horsemarket_ee.ela_436247.txt
-,impersonaalsus,3,3,3,3,3,2,3,2,,,www_horsemarket_ee.ela_436247.txt stiimul_ee.ela_330566.txt
-,argumentatiivsus,2,3,1,1,2,,,,,,www_horsemarket_ee.ela_436247.txt stiimul_ee.ela_330566.txt
-arvamus_postimees_ee.ela_5946.txt,abstraktsus,2,2,1,,,,,,,,www_le_ee.ela_240831.txt
-,infotihedus,2,2,1,3,,,,,,,www_dragon_ee.ela_303548.txt
-,aja olulisus,1,,,,,,,,,,www_dragon_ee.ela_303548.txt
-,afektiivsus,2,1,1,1,2,1,1,2,,,www_le_ee.ela_240831.txt forte_delfi_ee.ela_222312.txt
-,formaalsus,2,,,,,,,,,,forte_delfi_ee.ela_222312.txt
-,interaktiivsus,1,3,2,1,,,,,,,www_le_ee.ela_240831.txt forte_delfi_ee.ela_222312.txt
-,instrueerivus,1,1,2,3,,,,,,,reisiajakiri_gomaailm_ee.ela_530539.txt www_dragon_ee.ela_303548.txt
-,keerukus,1,1,2,,,,,,,,reisiajakiri_gomaailm_ee.ela_530539.txt www_dragon_ee.ela_303548.txt
-,subjektiivsus,1,2,3,,,,,,,,reisiajakiri_gomaailm_ee.ela_530539.txt
-,spontaansus,1,,,,,,,,,,forte_delfi_ee.ela_222312.txt
-,impersonaalsus,2,2,,,,,,,,,reisiajakiri_gomaailm_ee.ela_530539.txt forte_delfi_ee.ela_222312.txt
-,argumentatiivsus,1,2,,,,,,,,,reisiajakiri_gomaailm_ee.ela_530539.txt
-www_le_ee.ela_240831.txt,abstraktsus,,,,,,,,,,,
-,infotihedus,2,2,3,2,2,2,3,,,,www_bsd_ee.ela_638246.txt arvamus_postimees_ee.ela_5946.txt
-,aja olulisus,3,3,3,3,3,3,2,2,2,3,www_bsd_ee.ela_638246.txt arvamus_postimees_ee.ela_5946.txt
-,afektiivsus,2,,,,,,,,,,arvamus_postimees_ee.ela_5946.txt
-,formaalsus,1,1,2,3,2,2,2,2,1,,valitsus_ee.ela_480708.txt arvamus_postimees_ee.ela_5946.txt
-,interaktiivsus,1,1,,,,,,,,,valitsus_ee.ela_480708.txt arvamus_postimees_ee.ela_5946.txt
-,instrueerivus,2,,,,,,,,,,www_bsd_ee.ela_638246.txt
-,keerukus,,,,,,,,,,,
-,subjektiivsus,2,1,,,,,,,,,www_tootukassa_ee.ela_395777.txt
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,3,2,2,,,,,,,valitsus_ee.ela_480708.txt
-,argumentatiivsus,1,2,1,,,,,,,,valitsus_ee.ela_480708.txt www_tootukassa_ee.ela_395777.txt
-valitsus_ee.ela_480708.txt,abstraktsus,3,2,1,1,2,1,1,3,,,www_kasutatudraamat_ee.ela_68759.txt www_dragon_ee.ela_303548.txt
-,infotihedus,2,1,2,2,,,,,,,www_kasutatudraamat_ee.ela_68759.txt www_dragon_ee.ela_303548.txt
-,aja olulisus,1,2,,,,,,,,,www_dragon_ee.ela_303548.txt
-,afektiivsus,3,2,3,1,2,3,1,3,,,www_le_ee.ela_240831.txt www_dragon_ee.ela_303548.txt
-,formaalsus,1,1,1,2,,,,,,,www_dragon_ee.ela_303548.txt
-,interaktiivsus,3,2,,,,,,,,,www_le_ee.ela_240831.txt www_dragon_ee.ela_303548.txt
-,instrueerivus,1,1,1,2,2,,,,,,www_kasutatudraamat_ee.ela_68759.txt www_med24_ee.ela_557549.txt
-,keerukus,2,1,,,,,,,,,www_kasutatudraamat_ee.ela_68759.txt
-,subjektiivsus,2,3,2,2,3,2,2,2,,,www_kasutatudraamat_ee.ela_68759.txt www_med24_ee.ela_557549.txt
-,spontaansus,1,1,,,,,,,,,www_le_ee.ela_240831.txt
-,impersonaalsus,1,1,2,,,,,,,,www_med24_ee.ela_557549.txt
-,argumentatiivsus,2,2,1,3,2,,,,,,www_le_ee.ela_240831.txt www_med24_ee.ela_557549.txt
-www_dragon_ee.ela_303548.txt,abstraktsus,3,2,2,2,,,,,,,valitsus_ee.ela_480708.txt arvamus_postimees_ee.ela_5946.txt
-,infotihedus,1,2,2,2,,,,,,,valitsus_ee.ela_480708.txt arvamus_postimees_ee.ela_5946.txt
-,aja olulisus,2,3,,,,,,,,,valitsus_ee.ela_480708.txt arvamus_postimees_ee.ela_5946.txt
-,afektiivsus,2,2,3,2,2,3,2,,,,valitsus_ee.ela_480708.txt www_admiralmarkets_ee.ela_456804.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,2,3,3,3,3,3,1,3,3,,valitsus_ee.ela_480708.txt www_admiralmarkets_ee.ela_456804.txt
-,instrueerivus,1,1,1,2,,,,,,,rahvahaal_delfi_ee.ela_258274.txt arvamus_postimees_ee.ela_5946.txt
-,keerukus,3,2,2,2,2,1,,,,,rahvahaal_delfi_ee.ela_258274.txt arvamus_postimees_ee.ela_5946.txt
-,subjektiivsus,3,3,3,3,3,3,2,3,,,rahvahaal_delfi_ee.ela_258274.txt arvamus_postimees_ee.ela_5946.txt
-,spontaansus,3,3,3,3,2,3,3,3,3,3,rahvahaal_delfi_ee.ela_258274.txt www_admiralmarkets_ee.ela_456804.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,1,1,2,2,,,,,,,rahvahaal_delfi_ee.ela_258274.txt www_admiralmarkets_ee.ela_456804.txt
-www_tuuleenergia_ee.ela_40373.txt,abstraktsus,1,1,2,2,,,,,,,www_auto24_ee.ela_469677.txt www_epl_ee.ela_685672.txt
-,infotihedus,2,2,2,1,2,1,,,,,www_auto24_ee.ela_469677.txt www_epl_ee.ela_685672.txt
-,aja olulisus,1,,,,,,,,,,www_auto24_ee.ela_469677.txt
-,afektiivsus,1,2,1,3,,,,,,,herba_folklore_ee.ela_93408.txt
-,formaalsus,1,2,,,,,,,,,www_epl_ee.ela_685672.txt
-,interaktiivsus,1,2,,,,,,,,,herba_folklore_ee.ela_93408.txt
-,instrueerivus,1,2,1,2,2,3,2,,,,www_lapsemure_ee.ela_140896.txt www_auto24_ee.ela_469677.txt
-,keerukus,1,2,1,1,,,,,,,www_lapsemure_ee.ela_140896.txt www_auto24_ee.ela_469677.txt
-,subjektiivsus,3,3,,,,,,,,,www_lapsemure_ee.ela_140896.txt
-,spontaansus,1,1,,,,,,,,,herba_folklore_ee.ela_93408.txt
-,impersonaalsus,1,3,3,,,,,,,,www_lapsemure_ee.ela_140896.txt
-,argumentatiivsus,2,3,2,2,2,3,2,2,2,3,www_lapsemure_ee.ela_140896.txt herba_folklore_ee.ela_93408.txt
-www_epl_ee.ela_685672.txt,abstraktsus,1,1,1,2,2,2,2,,,,unitedkiters_ee.ela_78733.txt www_tuuleenergia_ee.ela_40373.txt
-,infotihedus,2,2,2,2,3,2,,,,,unitedkiters_ee.ela_78733.txt www_tuuleenergia_ee.ela_40373.txt
-,aja olulisus,3,2,2,,,,,,,,unitedkiters_ee.ela_78733.txt www_tuuleenergia_ee.ela_40373.txt
-,afektiivsus,2,2,1,3,3,2,2,3,3,3,www_horsemarket_ee.ela_436247.txt www_tuuleenergia_ee.ela_40373.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,1,2,3,2,2,2,,,,,www_horsemarket_ee.ela_436247.txt www_tuuleenergia_ee.ela_40373.txt
-,instrueerivus,1,1,2,2,2,2,,,,,www_unesco_ee.ela_630384.txt unitedkiters_ee.ela_78733.txt
-,keerukus,1,2,2,1,,,,,,,www_unesco_ee.ela_630384.txt unitedkiters_ee.ela_78733.txt
-,subjektiivsus,3,3,2,3,3,3,3,3,2,,www_unesco_ee.ela_630384.txt unitedkiters_ee.ela_78733.txt
-,spontaansus,2,2,2,1,2,2,1,2,2,2,www_unesco_ee.ela_630384.txt www_horsemarket_ee.ela_436247.txt
-,impersonaalsus,2,2,1,,,,,,,,www_horsemarket_ee.ela_436247.txt
-,argumentatiivsus,2,1,2,2,3,3,3,2,3,,www_unesco_ee.ela_630384.txt www_horsemarket_ee.ela_436247.txt
-rahvahaal_delfi_ee.ela_135048.txt,abstraktsus,1,1,2,1,,,,,,,www_mulje_ee.ela_177932.txt www_epl_ee.ela_495381.txt
-,infotihedus,2,,,,,,,,,,www_mulje_ee.ela_177932.txt
-,aja olulisus,2,,,,,,,,,,www_mulje_ee.ela_177932.txt
-,afektiivsus,2,3,2,3,2,3,2,3,2,3,kalah_zzz_ee.ela_52237.txt www_epl_ee.ela_495381.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,2,3,3,3,1,3,3,3,3,3,kalah_zzz_ee.ela_52237.txt www_epl_ee.ela_495381.txt
-,instrueerivus,2,3,2,2,3,2,,,,,www_mulje_ee.ela_177932.txt www_xn--eestimngula-q8a_ee.ela_40079.txt
-,keerukus,1,2,,,,,,,,,www_xn--eestimngula-q8a_ee.ela_40079.txt
-,subjektiivsus,3,3,2,2,2,2,2,3,,,www_mulje_ee.ela_177932.txt www_xn--eestimngula-q8a_ee.ela_40079.txt
-,spontaansus,3,3,3,3,3,3,3,3,3,3,kalah_zzz_ee.ela_52237.txt www_xn--eestimngula-q8a_ee.ela_40079.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,3,1,2,1,2,,,,,,www_xn--eestimngula-q8a_ee.ela_40079.txt
-www_epl_ee.ela_495381.txt,abstraktsus,2,,,,,,,,,,www_epl_ee.ela_679018.txt
-,infotihedus,3,2,3,2,2,2,3,1,3,3,rahvahaal_delfi_ee.ela_135048.txt www_epl_ee.ela_679018.txt
-,aja olulisus,2,2,3,1,2,1,2,2,2,,rahvahaal_delfi_ee.ela_135048.txt www_epl_ee.ela_679018.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,1,2,2,1,2,1,,,,,rahvahaal_delfi_ee.ela_135048.txt rahvahaal_delfi_ee.ela_388979.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,2,3,,,,,,,,,www_admiralmarkets_ee.ela_333517.txt www_epl_ee.ela_679018.txt
-,keerukus,3,2,2,2,,,,,,,www_admiralmarkets_ee.ela_333517.txt
-,subjektiivsus,1,1,1,1,1,1,,,,,www_admiralmarkets_ee.ela_333517.txt www_epl_ee.ela_679018.txt
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,1,3,3,2,3,,,,,,rahvahaal_delfi_ee.ela_388979.txt
-,argumentatiivsus,2,3,2,1,3,1,3,,,,www_admiralmarkets_ee.ela_333517.txt rahvahaal_delfi_ee.ela_388979.txt
-www_maaleht_ee.ela_246360.txt,abstraktsus,2,1,,,,,,,,,www_autoleht_ee.ela_469280.txt uuseesti_ee.ela_112397.txt
-,infotihedus,,,,,,,,,,,
-,aja olulisus,2,2,2,2,2,2,1,2,,,www_autoleht_ee.ela_469280.txt uuseesti_ee.ela_112397.txt
-,afektiivsus,1,1,2,2,1,,,,,,www_autoleht_ee.ela_469280.txt
-,formaalsus,1,2,2,2,1,1,,,,,www_autoleht_ee.ela_469280.txt reisiajakiri_gomaailm_ee.ela_530539.txt
-,interaktiivsus,1,1,2,1,1,,,,,,www_autoleht_ee.ela_469280.txt reisiajakiri_gomaailm_ee.ela_530539.txt
-,instrueerivus,1,2,,,,,,,,,www_3dnews_ee.ela_435253.txt
-,keerukus,,,,,,,,,,,
-,subjektiivsus,1,2,1,,,,,,,,www_3dnews_ee.ela_435253.txt uuseesti_ee.ela_112397.txt
-,spontaansus,1,,,,,,,,,,www_3dnews_ee.ela_435253.txt
-,impersonaalsus,1,2,,,,,,,,,reisiajakiri_gomaailm_ee.ela_530539.txt
-,argumentatiivsus,1,1,2,1,1,1,,,,,www_3dnews_ee.ela_435253.txt reisiajakiri_gomaailm_ee.ela_530539.txt
-www_autoleht_ee.ela_469280.txt,abstraktsus,1,2,,,,,,,,,www_syndikaat_ee.ela_469373.txt
-,infotihedus,3,2,3,2,3,2,3,3,3,3,www_syndikaat_ee.ela_469373.txt www_maaleht_ee.ela_246360.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,1,,,,,,,,,,www_nami-nami_ee.ela_173054.txt
-,formaalsus,1,2,2,1,,,,,,,www_nami-nami_ee.ela_173054.txt www_maaleht_ee.ela_246360.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,1,,,,,,,,,,www_syndikaat_ee.ela_469373.txt
-,keerukus,1,2,1,2,2,2,1,2,1,,www_syndikaat_ee.ela_469373.txt www_director_ee.ela_529643.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,1,1,,,,,,,,,www_nami-nami_ee.ela_173054.txt
-,impersonaalsus,3,2,3,2,3,3,3,2,3,,www_nami-nami_ee.ela_173054.txt www_director_ee.ela_529643.txt
-,argumentatiivsus,2,,,,,,,,,,www_nami-nami_ee.ela_173054.txt
-toompark_pri_ee.ela_458650.txt,abstraktsus,2,3,2,2,2,1,,,,,www_reklaamitrikk_ee.ela_315713.txt reisiajakiri_gomaailm_ee.ela_530539.txt
-,infotihedus,1,,,,,,,,,,www_reklaamitrikk_ee.ela_315713.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,3,3,3,3,1,2,2,2,3,,www_kohus_ee.ela_34731.txt www_reklaamitrikk_ee.ela_315713.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,3,2,,,,,,,,,www_kohus_ee.ela_34731.txt www_reklaamitrikk_ee.ela_315713.txt
-,instrueerivus,1,1,1,1,3,3,,,,,eok_ee.ela_435890.txt reisiajakiri_gomaailm_ee.ela_530539.txt
-,keerukus,1,1,1,,,,,,,,eok_ee.ela_435890.txt reisiajakiri_gomaailm_ee.ela_530539.txt
-,subjektiivsus,3,3,3,3,3,3,3,2,3,3,eok_ee.ela_435890.txt reisiajakiri_gomaailm_ee.ela_530539.txt
-,spontaansus,3,2,2,1,3,0,0,2,1,1,www_kohus_ee.ela_34731.txt eok_ee.ela_435890.txt
-,impersonaalsus,2,,,,,,,,,,www_kohus_ee.ela_34731.txt
-,argumentatiivsus,2,2,1,1,1,1,,,,,www_kohus_ee.ela_34731.txt eok_ee.ela_435890.txt
-www_reklaamitrikk_ee.ela_315713.txt,abstraktsus,3,1,1,,,,,,,,www_post_ee.ela_149870.txt toompark_pri_ee.ela_458650.txt
-,infotihedus,3,1,3,2,2,2,,,,,www_post_ee.ela_149870.txt toompark_pri_ee.ela_458650.txt
-,aja olulisus,3,2,2,2,1,3,,,,,www_post_ee.ela_149870.txt toompark_pri_ee.ela_458650.txt
-,afektiivsus,3,,,,,,,,,,toompark_pri_ee.ela_458650.txt
-,formaalsus,1,,,,,,,,,,toompark_pri_ee.ela_458650.txt
-,interaktiivsus,1,,,,,,,,,,toompark_pri_ee.ela_458650.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,2,1,1,,,,,,,,www_post_ee.ela_149870.txt
-,subjektiivsus,3,3,3,2,3,2,3,2,2,,www_post_ee.ela_149870.txt valitsus_ee.ela_604239.txt
-,spontaansus,2,1,1,1,2,,,,,,www_seduction_ee.ela_642092.txt valitsus_ee.ela_604239.txt
-,impersonaalsus,3,2,1,,,,,,,,www_seduction_ee.ela_642092.txt
-,argumentatiivsus,2,1,2,3,2,3,,,,,www_seduction_ee.ela_642092.txt valitsus_ee.ela_604239.txt
-www_med24_ee.ela_557549.txt,abstraktsus,3,3,3,2,3,2,2,2,3,3,www_ilm_err_ee.ela_196894.txt www_tooelu_ee.ela_624263.txt
-,infotihedus,3,2,,,,,,,,,www_ilm_err_ee.ela_196894.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,2,3,2,3,3,3,2,2,3,2,uudised_err_ee.ela_541051.txt www_tooelu_ee.ela_624263.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,1,3,2,1,3,1,2,,,,uudised_err_ee.ela_541051.txt www_tooelu_ee.ela_624263.txt
-,instrueerivus,,,,,,,,,,,
-,keerukus,1,1,2,1,2,,,,,,www_ilm_err_ee.ela_196894.txt valitsus_ee.ela_480708.txt
-,subjektiivsus,3,2,3,2,1,2,2,,,,www_ilm_err_ee.ela_196894.txt valitsus_ee.ela_480708.txt
-,spontaansus,1,3,1,1,2,1,2,1,,,uudised_err_ee.ela_541051.txt valitsus_ee.ela_480708.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,1,3,1,,,,,,,,uudised_err_ee.ela_541051.txt valitsus_ee.ela_480708.txt
-www_tooelu_ee.ela_624263.txt,abstraktsus,1,,,,,,,,,,www_easl_ee.ela_201171.txt
-,infotihedus,2,2,3,2,1,3,,,,,www_easl_ee.ela_201171.txt www_med24_ee.ela_557549.txt
-,aja olulisus,2,2,,,,,,,,,www_easl_ee.ela_201171.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,1,2,2,2,1,2,,,,,reform_ee.ela_24983.txt www_med24_ee.ela_557549.txt
-,interaktiivsus,,,,,,,,,,,
-,instrueerivus,2,1,3,2,2,3,2,2,2,,www_linnateater_ee.ela_612249.txt www_easl_ee.ela_201171.txt
-,keerukus,1,,,,,,,,,,www_easl_ee.ela_201171.txt
-,subjektiivsus,1,,,,,,,,,,www_easl_ee.ela_201171.txt
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,3,2,3,3,3,3,3,,,reform_ee.ela_24983.txt www_linnateater_ee.ela_612249.txt
-,argumentatiivsus,2,2,2,3,3,,,,,,reform_ee.ela_24983.txt www_linnateater_ee.ela_612249.txt
-untitled.txt,abstraktsus,2,2,2,1,3,1,3,1,,,www_tallegg_ee.ela_33687.txt www_snap_ee.ela_623342.txt
-,infotihedus,1,,,,,,,,,,www_tallegg_ee.ela_33687.txt
-,aja olulisus,2,1,1,2,2,,,,,,www_tallegg_ee.ela_33687.txt www_snap_ee.ela_623342.txt
-,afektiivsus,1,2,2,3,2,1,1,1,2,1,www_3dnews_ee.ela_435253.txt www_snap_ee.ela_623342.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,2,1,,,,,,,,,www_3dnews_ee.ela_435253.txt www_snap_ee.ela_623342.txt
-,instrueerivus,2,1,2,,,,,,,,www_tallegg_ee.ela_33687.txt mesindus_ee.ela_210638.txt
-,keerukus,1,1,,,,,,,,,www_tallegg_ee.ela_33687.txt mesindus_ee.ela_210638.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,1,1,,,,,,,,,www_3dnews_ee.ela_435253.txt
-,impersonaalsus,1,1,1,2,,,,,,,mesindus_ee.ela_210638.txt
-,argumentatiivsus,2,,,,,,,,,,www_3dnews_ee.ela_435253.txt
-www_snap_ee.ela_623342.txt,abstraktsus,2,2,,,,,,,,,www_riigikogu_ee.ela_224866.txt
-,infotihedus,3,3,3,2,3,2,3,1,2,3,www_riigikogu_ee.ela_224866.txt untitled.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,2,1,,,,,,,,,www_ajakiri_ut_ee.ela_429007.txt
-,formaalsus,2,2,1,1,,,,,,,untitled.txt
-,interaktiivsus,1,,,,,,,,,,untitled.txt
-,instrueerivus,2,1,,,,,,,,,et_wikipedia_org.ela_467359.txt
-,keerukus,3,2,1,3,2,2,1,,,,www_riigikogu_ee.ela_224866.txt et_wikipedia_org.ela_467359.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,1,,,,,,,,,,www_ajakiri_ut_ee.ela_429007.txt
-,impersonaalsus,3,3,3,2,3,2,2,,,,www_ajakiri_ut_ee.ela_429007.txt et_wikipedia_org.ela_467359.txt
-,argumentatiivsus,2,2,2,1,,,,,,,www_ajakiri_ut_ee.ela_429007.txt et_wikipedia_org.ela_467359.txt
-www_tallegg_ee.ela_33687.txt,abstraktsus,1,2,2,,,,,,,,untitled.txt www_tarbijakaitse_ee.ela_199918.txt
-,infotihedus,3,2,2,3,,,,,,,untitled.txt www_tarbijakaitse_ee.ela_199918.txt
-,aja olulisus,1,1,,,,,,,,,untitled.txt
-,afektiivsus,2,1,1,3,3,1,2,,,,www_tarbijakaitse_ee.ela_199918.txt rahvahaal_delfi_ee.ela_499379.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,2,,,,,,,,,,www_tarbijakaitse_ee.ela_199918.txt
-,instrueerivus,3,2,3,2,2,2,,,,,www_riigikogu_ee.ela_224866.txt untitled.txt
-,keerukus,1,2,2,1,,,,,,,www_riigikogu_ee.ela_224866.txt untitled.txt
-,subjektiivsus,1,2,1,1,1,3,,,,,www_riigikogu_ee.ela_224866.txt untitled.txt
-,spontaansus,2,3,2,2,,,,,,,www_riigikogu_ee.ela_224866.txt rahvahaal_delfi_ee.ela_499379.txt
-,impersonaalsus,2,2,1,,,,,,,,www_riigikogu_ee.ela_224866.txt rahvahaal_delfi_ee.ela_499379.txt
-,argumentatiivsus,1,1,2,,,,,,,,www_riigikogu_ee.ela_224866.txt rahvahaal_delfi_ee.ela_499379.txt
-www_xn--eestimngula-q8a_ee.ela_40079.txt,abstraktsus,2,1,,,,,,,,,www_vorumaateataja_ee.ela_241120.txt
-,infotihedus,3,3,2,3,2,2,2,,,,www_vorumaateataja_ee.ela_241120.txt www_bioneer_ee.ela_243230.txt
-,aja olulisus,,,,,,,,,,,
-,afektiivsus,1,,,,,,,,,,www_bioneer_ee.ela_243230.txt
-,formaalsus,1,,,,,,,,,,www_mulje_ee.ela_177932.txt
-,interaktiivsus,1,1,,,,,,,,,www_bioneer_ee.ela_243230.txt
-,instrueerivus,3,3,3,3,3,2,3,3,3,,rahvahaal_delfi_ee.ela_135048.txt www_vorumaateataja_ee.ela_241120.txt
-,keerukus,1,1,,,,,,,,,www_vorumaateataja_ee.ela_241120.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,3,1,3,3,1,1,2,,,rahvahaal_delfi_ee.ela_135048.txt www_mulje_ee.ela_177932.txt
-,argumentatiivsus,2,,,,,,,,,,www_mulje_ee.ela_177932.txt
-mesindus_ee.ela_210638.txt,abstraktsus,2,,,,,,,,,,www_emta_ee.ela_522725.txt
-,infotihedus,2,,,,,,,,,,www_porterracing_ee.ela_609577.txt
-,aja olulisus,2,2,2,,,,,,,,www_porterracing_ee.ela_609577.txt www_emta_ee.ela_522725.txt
-,afektiivsus,2,2,2,1,2,2,2,,,,www_porterracing_ee.ela_609577.txt www_post_ee.ela_149870.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,1,2,2,1,1,1,,,,,www_porterracing_ee.ela_609577.txt www_post_ee.ela_149870.txt
-,instrueerivus,1,,,,,,,,,,untitled.txt
-,keerukus,,,,,,,,,,,
-,subjektiivsus,2,2,3,2,2,1,1,2,2,2,untitled.txt www_emta_ee.ela_522725.txt
-,spontaansus,2,2,2,2,2,1,1,3,2,2,untitled.txt www_post_ee.ela_149870.txt
-,impersonaalsus,,,,,,,,,,,
-,argumentatiivsus,1,2,1,1,,,,,,,untitled.txt www_post_ee.ela_149870.txt
-www_nami-nami_ee.ela_456341.txt,abstraktsus,,,,,,,,,,,
-,infotihedus,2,2,2,,,,,,,,www_3dnews_ee.ela_435253.txt www_vnl_ee.ela_670256.txt
-,aja olulisus,1,3,3,3,2,3,,,,,www_3dnews_ee.ela_435253.txt www_vnl_ee.ela_670256.txt
-,afektiivsus,1,1,1,1,1,1,1,1,,,www_3dnews_ee.ela_435253.txt www_vnl_ee.ela_670256.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,1,,,,,,,,,,www_3dnews_ee.ela_435253.txt
-,instrueerivus,2,3,3,3,2,3,3,1,3,3,www_vnl_ee.ela_670256.txt www_vorumaateataja_ee.ela_494965.txt
-,keerukus,1,,,,,,,,,,www_vnl_ee.ela_670256.txt
-,subjektiivsus,2,1,1,1,1,3,2,,,,www_vnl_ee.ela_670256.txt www_vorumaateataja_ee.ela_494965.txt
-,spontaansus,1,2,1,1,2,1,1,1,,,www_vnl_ee.ela_670256.txt www_vorumaateataja_ee.ela_494965.txt
-,impersonaalsus,2,1,,,,,,,,,www_vnl_ee.ela_670256.txt www_vorumaateataja_ee.ela_494965.txt
-,argumentatiivsus,,,,,,,,,,,
-www_post_ee.ela_149870.txt,abstraktsus,1,2,,,,,,,,,www_reklaamitrikk_ee.ela_315713.txt
-,infotihedus,1,3,3,3,,,,,,,www_kohus_ee.ela_34731.txt www_reklaamitrikk_ee.ela_315713.txt
-,aja olulisus,2,3,3,,,,,,,,www_reklaamitrikk_ee.ela_315713.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,2,3,2,3,3,3,2,2,,,www_kohus_ee.ela_34731.txt mesindus_ee.ela_210638.txt
-,interaktiivsus,2,,,,,,,,,,www_kohus_ee.ela_34731.txt
-,instrueerivus,2,2,2,2,1,2,2,1,,,www_reklaamitrikk_ee.ela_315713.txt www_advent_ee.ela_658698.txt
-,keerukus,1,1,,,,,,,,,www_reklaamitrikk_ee.ela_315713.txt www_advent_ee.ela_658698.txt
-,subjektiivsus,,,,,,,,,,,
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,2,3,3,3,3,1,2,,,mesindus_ee.ela_210638.txt www_advent_ee.ela_658698.txt
-,argumentatiivsus,1,,,,,,,,,,mesindus_ee.ela_210638.txt
-www_delfi_ee.ela_361703.txt,abstraktsus,1,1,,,,,,,,,www_3dnews_ee.ela_435253.txt
-,infotihedus,1,,,,,,,,,,www_linnateater_ee.ela_612249.txt
-,aja olulisus,1,2,2,2,2,3,,,,,www_3dnews_ee.ela_435253.txt www_linnateater_ee.ela_612249.txt
-,afektiivsus,3,3,3,3,3,3,3,3,,,www_helen_ee.ela_520035.txt www_linnateater_ee.ela_612249.txt
-,formaalsus,,,,,,,,,,,
-,interaktiivsus,3,2,3,3,3,3,3,,,,www_helen_ee.ela_520035.txt www_linnateater_ee.ela_612249.txt
-,instrueerivus,2,1,,,,,,,,,www_naisteleht_ee.ela_355886.txt
-,keerukus,,,,,,,,,,,
-,subjektiivsus,3,3,3,3,3,3,3,3,3,3,www_3dnews_ee.ela_435253.txt www_naisteleht_ee.ela_355886.txt
-,spontaansus,3,2,3,3,3,3,3,3,3,3,www_naisteleht_ee.ela_355886.txt www_helen_ee.ela_520035.txt
-,impersonaalsus,3,3,2,,,,,,,,www_naisteleht_ee.ela_355886.txt www_helen_ee.ela_520035.txt
-,argumentatiivsus,3,2,3,3,2,3,2,2,,,www_naisteleht_ee.ela_355886.txt www_helen_ee.ela_520035.txt
-www_ajakiri_ut_ee.ela_429007.txt,abstraktsus,2,1,,,,,,,,,no_spam_ee.ela_2227.txt ekspress_online_2020.txt
-,infotihedus,1,2,2,1,,,,,,,ekspress_online_2020.txt
-,aja olulisus,1,1,1,,,,,,,,no_spam_ee.ela_2227.txt
-,afektiivsus,1,,,,,,,,,,no_spam_ee.ela_2227.txt
-,formaalsus,2,1,2,2,2,,,,,,www_snap_ee.ela_623342.txt
-,interaktiivsus,3,3,1,,,,,,,,www_snap_ee.ela_623342.txt
-,instrueerivus,2,2,2,,,,,,,,ekspress_online_2020.txt www_puuinfo_ee.ela_279876.txt
-,keerukus,1,1,1,1,1,,,,,,ekspress_online_2020.txt
-,subjektiivsus,1,,,,,,,,,,www_puuinfo_ee.ela_279876.txt
-,spontaansus,,,,,,,,,,,
-,impersonaalsus,2,2,2,,,,,,,,www_snap_ee.ela_623342.txt www_puuinfo_ee.ela_279876.txt
-,argumentatiivsus,2,2,1,,,,,,,,www_snap_ee.ela_623342.txt
-et_wikipedia_org.ela_467359.txt,abstraktsus,1,,,,,,,,,,www_horisont_ee.ela_455809.txt
-,infotihedus,1,,,,,,,,,,www_horisont_ee.ela_455809.txt
-,aja olulisus,2,,,,,,,,,,www_horisont_ee.ela_455809.txt
-,afektiivsus,,,,,,,,,,,
-,formaalsus,1,2,1,,,,,,,,www_horsemarket_ee.ela_436247.txt arvamusaed_ee.ela_6007.txt
-,interaktiivsus,2,,,,,,,,,,www_horsemarket_ee.ela_436247.txt
-,instrueerivus,1,,,,,,,,,,www_snap_ee.ela_623342.txt
-,keerukus,2,1,,,,,,,,,www_snap_ee.ela_623342.txt www_horisont_ee.ela_455809.txt
-,subjektiivsus,1,1,1,,,,,,,,www_snap_ee.ela_623342.txt
-,spontaansus,1,1,1,2,,,,,,,www_snap_ee.ela_623342.txt arvamusaed_ee.ela_6007.txt
-,impersonaalsus,3,,,,,,,,,,www_snap_ee.ela_623342.txt
-,argumentatiivsus,2,,,,,,,,,,arvamusaed_ee.ela_6007.txt
+tekst,dimensioon,ID1,ID2,ID3,ID4,ID5,ID6,ID7,ID8,ID9,ID10
+www_tooelu_ee.ela_624263.txt,abs,1,1,1,0.5,1,0,1,0,0,0.5
+,info,2,2,3,2,1,0.5,0,3,0.5,1
+,aeg,0,0,0,0,0,0.5,2,0,0,2
+,afek,0,0,0.5,0,0,0.5,1,0.5,1,1
+,form,2,2,0,1,2,1,2,0,0,0
+,inter,0,0.5,0,0,0,0,1,0,0.5,0
+,spont,1,0.5,0.5,0.5,0,0,0,0,0,0
+,imp,3,3,3,3,3,2,1,2,0.5,3
+,arg,3,0.5,3,0.5,1,2,0.5,2,0.5,2
+,inst,2,1,3,2,2,2,3,0,2,2
+,keer,0,1,0,0,0,0,0,0,0.5,0
+,subj,0,0,0,1,0,1,1,0.5,1,1
+www_easl_ee.ela_201171.txt,abs,0,0,0,0,0,0,0,0,0,2
+,info,2,0,3,3,1,2,1,1,2,3
+,aeg,0,1,0.5,1,0.5,2,0.5,1,1,0.5
+,afek,0,0,0,1,0,0.5,0.5,0.5,1,0.5
+,form,1,2,0,0,0,1,1,2,1,0
+,inter,1,1,0,1,0,0,1,0,1,0.5
+,spont,0,0,1,0,0,0,0,0,0,0
+,imp,3,0,0.5,0,0,2,0,2,0.5,1
+,arg,1,0,0,0,0,0.5,0.5,0,0.5,0
+,inst,0.5,0,1,0.5,0.5,0,0,0,0.5,0
+,keer,0,0,1,0,1,0,1,0,0,0
+,subj,0,0,0,0,0,0,0,0.5,0,0
+www_autoleht_ee.ela_469280.txt,abs,0.5,0,0,0,0,1,0.5,0,0,2
+,info,3,2,3,2,3,2,3,3,3,3
+,aeg,0.5,0.5,0.5,0.5,0.5,0,1,0.5,0.5,0.5
+,afek,0,0,0,0,1,0,0,0.5,0.5,0
+,form,0,2,1,0,0,1,2,0,0.5,0
+,inter,0,0.5,0,0,0,0,0,0,0.5,0
+,spont,0.5,0,0,0,0,0,0,1,0,1
+,imp,3,3,3,2,3,3,2,2,1,3
+,arg,0,0,0,0,0,2,0.5,0,0,0
+,inst,0,0,0,0,1,0,0,0,0.5,0
+,keer,1,2,1,2,2,1,2,2,0.5,1
+,subj,1,0.5,1,0.5,0.5,0.5,0.5,0,0.5,0
+www_syndikaat_ee.ela_469373.txt,abs,0.5,0,0,0,3,0,2,0,0,0.5
+,info,1,0.5,0.5,2,1,0.5,1,1,1,1
+,aeg,1,2,2,2,0,1,3,2,2,2
+,afek,2,1,1,3,1,1,1,1,1,3
+,form,0,0,0,0,0,0,0,0,0,0
+,inter,0.5,1,0,0,0,0.5,1,1,3,0.5
+,spont,0,0,2,0,1,3,2,0,2,1
+,imp,0,0,0,0.5,0,0,0,0.5,0,0.5
+,arg,0,0,0,2,0.5,0,0,0,0,0
+,inst,0,0,1,0,0,0.5,0.5,0.5,0.5,1
+,keer,0,0.5,0,0.5,0.5,0,0,0,0,0
+,subj,3,2,3,2,2,2,2,2,3,3
+ylle_mrt_ee.ela_101705.txt,abs,2,0.5,1,2,2,0,2,0,0,1
+,info,0.5,1,1,0,1,1,0,2,1,0
+,aeg,1,1,1,2,0.5,1,1,0,2,3
+,afek,3,2,3,3,3,2,3,2,2,3
+,form,0,0,0,0,0,0.5,0.5,0.5,0,0
+,inter,0,1,2,0,0,0,2,0,1,0
+,spont,0,1,3,1,2,3,3,1,3,2
+,imp,1,1,1,0.5,0.5,0,1,0.5,0.5,1
+,arg,3,2,1,2,2,0.5,2,0.5,3,1
+,inst,1,0.5,1,1,0.5,0.5,0,0,0.5,0
+,keer,0,1,1,0,0,0.5,1,0,0.5,1
+,subj,3,3,3,3,3,3,3,2,3,3
+rahvahaal_delfi_ee.ela_499379.txt,abs,0,0,1,0,1,0,0.5,1,1,0
+,info,1,2,2,2,1,0,1,0.5,0,1
+,aeg,0,0,0,0,0,0,0,0,0.5,1
+,afek,0,0.5,2,3,2,1,0.5,0,0.5,0.5
+,form,0,0,0,0,0,0,0,0,0,0
+,inter,2,2,0,2,0,1,3,0,0.5,0
+,spont,2,2,0,2,3,0.5,1,0,0.5,0
+,imp,3,0,1,0.5,2,0,1,0,1,0.5
+,arg,0,0,1,1,2,0,0,2,1,0
+,inst,3,2,3,3,2,2,3,2,3,1
+,keer,0,0,0,0,1,0,0,0,0,0
+,subj,1,1,1,1,1,3,0.5,0.5,1,2
+www_admiralmarkets_ee.ela_456804.txt,abs,2,1,1,1,1,2,0.5,0.5,0.5,3
+,info,3,2,3,2,1,2,2,2,1,3
+,aeg,0,2,1,2,0.5,0,1,1,0,1
+,afek,1,0.5,0.5,1,0.5,0,0,2,3,1
+,form,0,2,2,0,1,1,1,0,0,1
+,inter,1,1,0,1,1,0,1,0,0.5,0
+,spont,0,0,0,0,0,1,1,1,0.5,1
+,imp,0,0,2,0,0.5,2,1,3,1,3
+,arg,0,1,3,1,3,2,2,0,0,1
+,inst,0,0,0,0,1,2,0,0,0.5,0
+,keer,1,3,2,3,0.5,1,0,1,0.5,1
+,subj,1,0.5,1,1,1,0,2,1,3,1
+www_linnateater_ee.ela_612249.txt,abs,2,3,2,3,3,0.5,2,2,2,1
+,info,1,0,1,0,0,0.5,0.5,0.5,0,1
+,aeg,0,0,0,1,0.5,1,0,0,0,0
+,afek,3,2,2,0,0,1,1,1,3,1
+,form,0,0,0,0,0,0,0,1,0,0
+,inter,3,3,3,2,3,3,1,0.5,1,3
+,spont,3,2,2,2,1,2,2,0,3,1
+,imp,1,1,1,1,1,0,0,1,0,0.5
+,arg,1,2,1,2,3,0,2,0,1,2
+,inst,0,1,0,0,0,0.5,1,0,0.5,0.5
+,keer,0,1,0.5,1,2,0,1,0,2,1
+,subj,3,2,3,3,3,3,3,2,3,3
+static_inimene_ee.ela_194968.txt,abs,2,0,0,0,2,2,0,1,0,1
+,info,2,2,3,0.5,0.5,0.5,1,0.5,2,1
+,aeg,1,2,1,1,0.5,0.5,0,0,0,2
+,afek,0,0,0,0,0,0,0.5,0,0.5,0
+,form,2,0.5,0,0,3,1,2,2,2,0
+,inter,0,0,0,0,0,0,0,0,0,0
+,spont,2,0,0.5,0,0,0,0,0,0,1
+,imp,3,3,3,2,3,3,2,2,3,3
+,arg,1,0.5,2,0,0,2,3,2,2,2
+,inst,1,0,0,0.5,2,1,0,0,0.5,0
+,keer,0.5,0.5,0.5,2,0.5,0,2,0,0,2
+,subj,0,0,0,0,0,1,0.5,0.5,1,0
+www_bioneer_ee.ela_243230.txt,abs,2,0,0,0,2,0.5,0,0,0,3
+,info,3,1,1,0.5,1,2,0,2,0.5,3
+,aeg,2,1,1,2,1,2,1,1,0,0.5
+,afek,0,0,0,0,0,0,0,0,0,0
+,form,3,2,3,3,2,3,3,3,2,3
+,inter,0,1,1,0,0,0,0,0,1,0
+,spont,1,1,1,1,0.5,2,0,0,0,1
+,imp,3,3,2,2,2,3,0.5,0,3,1
+,arg,0.5,1,1,0.5,1,2,2,0,2,0
+,inst,0,0,0,2,0.5,2,0,0,2,2
+,keer,2,2,2,0.5,2,1,2,0,2,0.5
+,subj,0,0,0,0,0,1,0.5,0.5,1,1
+www_tarbijakaitse_ee.ela_199918.txt,abs,0,0,0,0,0.5,0,0,0,0,0
+,info,2,1,2,2,0.5,0,0,1,0,1
+,aeg,1,1,1,2,1,1,0.5,0,0,1
+,afek,0,0,0,0,0,0.5,0,0,1,1
+,form,0,0.5,0,0,0.5,0,2,2,2,0
+,inter,0,0,0,1,0,1,0.5,0,2,0
+,spont,0,0,0.5,0,0,0,0,0,0,0
+,imp,3,0,3,2,2,1,0.5,0.5,2,0.5
+,arg,1,1,1,0.5,0,0.5,0,2,2,1
+,inst,0,0,0,0,0,1,0,0,1,0
+,keer,1,1,0,1,1,0,0,0,1,0
+,subj,1,1,0,0.5,0.5,1,1,1,1,0.5
+www_vorumaateataja_ee.ela_494965.txt,abs,0.5,1,0.5,1,1,0,0,0,0,1
+,info,2,2,2,2,2,1,1,0,0,0
+,aeg,0,0,2,2,0,0,2,0,0,0
+,afek,1,1,2,0,2,0,1,2,3,2
+,form,0,0.5,0,0,0,0,2,2,1,0
+,inter,1,2,0,0,0,0,0.5,0.5,0.5,1
+,spont,0,0,2,0,0,2,0,0,0,1
+,imp,2,1,0,1,2,0,0.5,0.5,1,0.5
+,arg,2,1,2,1,2,0.5,2,0.5,2,2
+,inst,0,0,0,0,0,1,1,0,1,1
+,keer,0,0,0,0,0,0,0,0,1,0
+,subj,3,3,1,2,2,0.5,1,2,1,3
+www_delfi_ee.ela_361703.txt,abs,0.5,1,0.5,1,1,0.5,1,1,0,1
+,info,0,1,0,0,0,0.5,0.5,1,0.5,1
+,aeg,0,0,1,0,2,2,2,2,0,3
+,afek,3,3,3,1,3,3,3,3,1,3
+,form,0,0,0,0,0,0,0,0,0,0
+,inter,3,3,3,1,3,1,3,2,3,1
+,spont,3,3,3,3,3,3,2,3,3,3
+,imp,0,0,0,0,2,3,0.5,0.5,3,1
+,arg,3,2,3,2,2,0.5,3,0,3,2
+,inst,0,0.5,0,0.5,1,0.5,2,0,1,0
+,keer,0,0,0,1,0.5,0,0,0,0.5,0
+,subj,3,3,3,3,3,3,3,3,3,3
+www_3dnews_ee.ela_435253.txt,abs,2,2,0,1,0,2,0,0,0,3
+,info,1,3,3,0.5,3,2,2,3,2,3
+,aeg,0,0,1,1,1,0.5,0.5,0.5,0,1
+,afek,0,0,0,0.5,0,0,0,0,0,0
+,form,2,2,3,0,2,2,2,1,2,1
+,inter,0,0,0,0,0,0,1,0,0,0
+,spont,0,0,0,0,0,0,0,0,0,0
+,imp,3,3,3,1,3,3,3,2,2,3
+,arg,0,0,0,0,0,3,0.5,0,2,0
+,inst,0,2,1,2,3,2,0,0,0.5,1
+,keer,1,1,1,3,2,1,2,2,2,2
+,subj,1,1,1,1,1,0,0.5,0,0,0
+www_ajakiri_ut_ee.ela_429007.txt,abs,0.5,0,0,2,0,0,0,0,0,1
+,info,1,1,1,0.5,1,1,2,1,2,0
+,aeg,0,1,1,0,1,0,0,0.5,0,0
+,afek,0,0,0,0.5,0,0,0,1,0,0
+,form,2,1,2,2,2,0.5,1,1,1,1
+,inter,3,3,1,0,0,0,0,0,0,0
+,spont,0,0,0,0,0,0,0,0,0,0
+,imp,1,2,0.5,0.5,0.5,1,2,2,1,1
+,arg,0.5,1,0.5,0,0,2,0.5,0,1,2
+,inst,0,0,0,2,0,2,0.5,0,2,0
+,keer,1,1,1,1,1,0,1,0,0,0.5
+,subj,0,0,0,0,0,1,0,0,0,0
+ekspress_online_2020.txt,abs,0.5,0,0,0,0,0,0,0,0,0
+,info,1,0.5,1,0.5,0,0,0.5,0,0.5,1
+,aeg,1,0.5,0,0.5,2,1,1,2,0,1
+,afek,0,0.5,1,0.5,1,1,1,0.5,1,0
+,form,0,2,0,0,0,0,0,0,0,0
+,inter,1,0.5,1,0,0,0,0,0,2,0
+,spont,0,0,1,0,0,0.5,0,0.5,0.5,0
+,imp,1,0,0,1,0.5,1,1,1,0,0
+,arg,0.5,0,0,0,0,0.5,0.5,0,0,0
+,inst,0,0,0,0.5,0,0.5,0,0,0.5,0
+,keer,0,0,0,0,0,0,0.5,0,0,0
+,subj,0,1,0,1,1,2,0,0,1,0
+www_hambaarst_ee.ela_423040.txt,abs,2,0,1,0,2,2,0,0,0.5,2
+,info,1,3,1,0.5,1,3,3,3,3,2
+,aeg,3,0,1,2,2,1,2,3,2,1
+,afek,0,0,0,0.5,0,0,0,0,0,0
+,form,3,3,3,3,3,2,3,3,3,3
+,inter,0,0,0,0,0,0,0,0,0,0
+,spont,0,0,0,0,0,0,0,0,0,0
+,imp,3,3,3,2,3,3,0.5,3,3,3
+,arg,0,1,2,0,0,2,2,0,3,0
+,inst,1,0,2,2,2,1,2,3,3,2
+,keer,3,3,2,3,3,1,3,2,3,2
+,subj,0,0.5,0,0,0.5,0,0.5,0,0,0
+uudised_err_ee.ela_541051.txt,abs,0.5,0,0,0.5,1,0.5,1,0,2,0.5
+,info,1,2,2,2,0,1,1,1,1,0.5
+,aeg,0,0,0,1,0,0,0.5,1,0.5,0
+,afek,1,0.5,0.5,1,0.5,1,2,0.5,3,0.5
+,form,0,2,0,1,1,0,0,2,0,0
+,inter,1,1,0,0.5,0,1,0.5,0,0.5,1
+,spont,0,0,0,0,0.5,0,1,0,0.5,0
+,imp,3,0,0.5,1,1,0,0,0,2,2
+,arg,2,1,2,2,3,2,1,2,0,0
+,inst,0,0,0.5,0.5,0.5,1,1,0,0,0.5
+,keer,1,1,0.5,1,1,0,0,0,3,0
+,subj,0,2,1,0,2,3,1,0,0.5,0
+www_eramets_ee.ela_479405.txt,abs,1,3,0,0,0,1,0,0.5,0,0
+,info,0.5,0.5,1,1,2,2,2,1,2,3
+,aeg,1,0.5,1,1,1,0,0.5,0,0,0
+,afek,0.5,0.5,1,1,1,0,0,0,0,0
+,form,3,3,3,3,3,3,3,3,2,3
+,inter,0,0,0,0,0,0,0,0,0,0
+,spont,0,0,0,0,0,0,0.5,0,0,0
+,imp,3,3,3,2,3,3,3,3,3,3
+,arg,0,0,0,0,0,0.5,0,0.5,3,0.5
+,inst,1,1,1,1,2,2,0,0,2,0
+,keer,2,1,2,1,2,1,1,1,0,2
+,subj,0,0,0,0,0,0,0,0,0,0
+www_unesco_ee.ela_630384.txt,abs,0.5,2,0,2,0.5,0,0,2,0,1
+,info,2,0.5,3,0.5,2,0.5,0.5,0,0.5,1
+,aeg,1,0.5,1,0.5,0.5,1,2,0,0,1
+,afek,0,0,0,0,0,0.5,1,0.5,1,0.5
+,form,2,2,2,2,1,2,2,3,3,0
+,inter,0.5,0.5,0,0,0,0,1,0,1,0
+,spont,0.5,0,0.5,0.5,0.5,0,0,0,0,1
+,imp,3,2,3,3,2,2,3,0,2,3
+,arg,1,1,1,0.5,1,0,0,0.5,0.5,0
+,inst,0,0,0,0,0.5,0.5,0.5,0,0.5,0
+,keer,0.5,0,0.5,0,0.5,0,1,0,0,0.5
+,subj,0,0,0,0,0,0.5,1,1,1,1
+www_epl_ee.ela_495381.txt,abs,0,0,0,0,0.5,0,2,0,0,0.5
+,info,3,2,3,2,2,2,3,3,1,3
+,aeg,2,0,2,3,1,2,1,2,2,2
+,afek,1,0.5,1,0.5,1,0.5,1,0.5,1,0.5
+,form,1,2,0,0,1,1,2,0,2,0
+,inter,0.5,0.5,0,0,0,0.5,1,1,1,0
+,spont,0,0,0,0,0,0.5,0,0,0,0
+,imp,1,1,1,0.5,1,1,3,2,3,3
+,arg,2,1,3,1,3,0.5,1,1,3,2
+,inst,0,0,0,2,0,0.5,0,0,3,0
+,keer,0,0.5,0.5,0,0,0,3,2,2,2
+,subj,1,1,0,1,0,1,0,0,1,1
+www_epl_ee.ela_679018.txt,abs,1,0.5,0,0,0.5,1,0.5,0,0,2
+,info,0.5,1,1,0.5,1,0.5,1,1,0,1
+,aeg,1,2,1,2,1,0.5,0,0.5,0.5,0.5
+,afek,0,0,0,0,0,1,0,0,0,0
+,form,2,3,2,2,1,0.5,0.5,1,1,1
+,inter,1,1,0,1,0,0,0,0,2,0
+,spont,0,0,0,0,0,0,0,0,0,2
+,imp,3,1,3,1,0.5,0.5,1,0.5,0.5,1
+,arg,0.5,1,0,1,1,1,1,0,0.5,2
+,inst,0,0,0,0.5,0,1,1,0.5,1,1
+,keer,1,2,2,1,1,0,1,2,2,1
+,subj,0,0,0,0,0,1,0,0,0.5,0
+valitsus_ee.ela_604239.txt,abs,3,3,1,2,0,0,0,2,1,3
+,info,2,0.5,3,0.5,3,0.5,1,2,1,3
+,aeg,0,0,0,0.5,0,0.5,1,1,0,1
+,afek,0.5,0.5,0.5,1,1,0,0,0,0,0
+,form,3,3,2,2,3,0.5,1,2,1,3
+,inter,0.5,0,0,1,0,0,0.5,0,1,0
+,spont,0,0,0,0,0.5,0,0.5,0.5,0.5,0.5
+,imp,3,1,3,2,2,3,3,2,2,3
+,arg,2,0.5,1,0.5,1,2,2,0.5,0.5,0
+,inst,1,2,0,3,1,2,0,1,2,0
+,keer,2,0,2,0.5,0.5,2,2,2,2,2
+,subj,0,0,0,0,0,2,0.5,0.5,0.5,1
+sport_autonet_ee.ela_515760.txt,abs,0.5,2,0,0.5,0.5,1,0,0.5,0,1
+,info,2,3,3,1,3,2,3,0.5,3,1
+,aeg,3,3,3,0.5,2,2,3,3,0,3
+,afek,0,0.5,1,0.5,1,0.5,1,0.5,0.5,1
+,form,2,2,0,0,0,2,2,2,0,1
+,inter,0,0.5,2,0,0,0,0.5,0,3,0
+,spont,0,0,0,0,2,0,0,0,0,0
+,imp,3,1,0,0.5,1,3,0,2,0.5,0
+,arg,0,0,0,0,0,0.5,0.5,0,0.5,0
+,inst,0,0.5,0,1,3,0.5,0,0,1,0
+,keer,0.5,1,0.5,2,2,1,0.5,1,0.5,1
+,subj,0,0,0,0,0,0.5,0,0,0,0
+www_politsei_ee.ela_163441.txt,abs,1,0.5,0.5,0.5,1,0,0,0.5,0,0
+,info,3,3,3,3,3,2,2,3,1,2
+,aeg,3,2,3,2,3,2,3,0,1,0.5
+,afek,0,0,0,0,0,0,0,0,0,0
+,form,3,1,2,1,1,2,3,3,3,1
+,inter,2,0.5,0,0,0,0,0,0,0,0
+,spont,0,0,0,1,2,0,0,0,0,0.5
+,imp,3,3,1,0.5,2,1,1,0.5,3,1
+,arg,0,0,0,0,0,2,1,0,0,0
+,inst,0,0,0,0,0,0,0,0,3,0
+,keer,0,0,0,0,1,0,0,0,0.5,1
+,subj,1,0.5,1,0.5,0.5,0,0,0,0,0
+arvamusaed_ee.ela_6007.txt,abs,1,0.5,0,0.5,0,1,1,2,0,0
+,info,0.5,1,0.5,2,0,0.5,0.5,1,0,0.5
+,aeg,0,0,1,2,0.5,0.5,1,1,0,2
+,afek,2,1,2,2,1,0.5,1,0.5,1,1
+,form,0,0.5,0,0,0,0,1,2,1,0
+,inter,1,2,0,0,0,0,0.5,0,1,0
+,spont,0,0,1,0,0,1,0,0,0,0
+,imp,1,1,1,0.5,1,0,2,3,2,0
+,arg,2,2,2,2,2,1,3,2,2,0.5
+,inst,0,0,1,0,0,2,0,0,0,0
+,keer,0,0,0,0,0,0,0,0,0,0.5
+,subj,3,2,3,2,2,2,3,2,2,1
+stiimul_ee.ela_330566.txt,abs,0,0.5,0,0,1,1,0.5,1,0.5,1
+,info,1,0,3,2,2,1,2,1,1,2
+,aeg,0,0,0,1,0,0,0,0,0,0.5
+,afek,0,0,1,0,0,1,1,0.5,1,1
+,form,0.5,1,0,0,2,1,2,2,2,0
+,inter,3,2,1,1,0,1,0,0,3,1
+,spont,0,0,0,1,0,0,0,0,0,1
+,imp,1,0,0,0.5,0.5,1,1,2,1,1
+,arg,0.5,0,1,1,0,0.5,1,0,2,0
+,inst,0,0,0,0,0,0,0,0,0,0
+,keer,1,0,1,0.5,0,0,1,0,1,0
+,subj,1,1,1,1,1,1,0,0,1,0
+www_seduction_ee.ela_642092.txt,abs,1,2,1,0,3,0,2,3,2,0
+,info,0,1,1,0.5,0.5,0,0.5,0,0,0.5
+,aeg,0,0,0,0,0,1,1,0,0,2
+,afek,3,2,3,3,3,3,3,2,3,3
+,form,0,0,0,0,0,0,0.5,0.5,0.5,0
+,inter,2,1,3,1,0,0,1,0,1,0
+,spont,0.5,0,3,2,3,2,3,1,3,0.5
+,imp,0,0,0,0.5,1,0,1,2,0,0.5
+,arg,3,2,1,2,1,0.5,2,0,1,0
+,inst,0,0,0,0,0,1,0,0,3,0
+,keer,0,1,0,2,1,0,0,0,0.5,1
+,subj,3,3,3,3,3,1,3,2,3,3
+www_kohus_ee.ela_34731.txt,abs,1,0,0,0,0,0,0,0,0,1
+,info,2,0,3,2,3,2,2,2,3,2
+,aeg,3,2,2,2,3,2,1,3,0.5,2
+,afek,0,0.5,0.5,0.5,1,3,0,1,0,0
+,form,3,3,2,1,2,0.5,1,0.5,3,2
+,inter,3,0.5,2,0,0,0,0.5,0,3,0
+,spont,0,0,0.5,0,0,1,0.5,0,1,0.5
+,imp,3,0,0,2,2,0,0.5,2,2,0
+,arg,0,0.5,0.5,0.5,0,3,2,2,0.5,3
+,inst,0,0,0,2,2,0.5,0,0,3,0
+,keer,0.5,1,1,0.5,2,0,1,2,2,1
+,subj,1,1,1,1,0.5,0.5,0.5,0.5,0.5,0.5
+www_lapsemure_ee.ela_140896.txt,abs,2,0.5,0,0.5,2,0,1,0,0,3
+,info,0.5,2,1,2,0.5,0.5,0.5,0.5,1,0.5
+,aeg,0,2,3,2,2,0.5,3,1,2,0.5
+,afek,3,2,3,3,2,2,3,2,3,2
+,form,1,1,1,0.5,0.5,0.5,0.5,1,1,0
+,inter,3,3,0,1,0,1,3,0,3,0
+,spont,2,3,3,3,3,3,3,3,3,3
+,imp,0,0,0,1,1,0.5,1,0.5,1,1
+,arg,1,0.5,0.5,0.5,1,0.5,1,1,2,1
+,inst,0,0,0,0.5,0.5,0.5,0.5,0,1,0.5
+,keer,2,0,0,2,0.5,0,0.5,0,0,0
+,subj,3,3,3,3,2,3,3,3,1,1
+et_wikipedia_org.ela_624820.txt,abs,0.5,0.5,1,0,0.5,2,0,1,0,2
+,info,2,1,3,2,2,2,2,1,0,3
+,aeg,0,0,0,0.5,0,0,0,0,0,0
+,afek,0,0,0,0,0,0,0,0,0,0.5
+,form,2,3,1,0,0.5,1,2,0.5,0.5,0
+,inter,1,0.5,0,0,0,0,0,0,0,0
+,spont,3,0,0,0,0.5,0,0,0,0,0
+,imp,3,2,3,0,2,3,3,0.5,3,3
+,arg,0.5,1,2,0,0,2,3,1,0.5,0
+,inst,0,0,0,0.5,0.5,3,0,0,3,0
+,keer,1,1,2,1,0,0,2,1,2,1
+,subj,0,1,0,0,0,0,0,0.5,0.5,0
+et_wikipedia_org.ela_519819.txt,abs,1,2,1,3,0.5,0.5,1,0,0,0.5
+,info,2,0.5,3,2,1,0.5,0.5,0,0,1
+,aeg,0,0.5,0.5,1,0,1,0,0,0,1
+,afek,0,0,0,0,0,1,1,0.5,1,1
+,form,0.5,2,0,0,2,1,2,2,2,2
+,inter,0,0.5,0,0,0,1,0.5,0.5,1,1
+,spont,0,0,0,0,0.5,0,0,0,0,1
+,imp,1,0,1,2,3,2,2,2,0.5,0.5
+,arg,1,0,0,0,1,2,2,2,2,2
+,inst,0,1,0,2,2,2,1,0,3,0
+,keer,0,0,0.5,0,1,0,2,0,2,0
+,subj,0,0,0,0,0,2,0,0,0,0
+blablabla_ee.ela_504829.txt,abs,0,0,1,0,0.5,0,1,0,0,0
+,info,1,0.5,1,1,1,0,0,0.5,0,0
+,aeg,1,2,0,2,1,0,2,0.5,0,1
+,afek,1,1,2,3,2,3,2,1,3,3
+,form,0,0,0,0,0,1,1,1,1,1
+,inter,2,3,0,1,2,0,2,0,3,0
+,spont,2,1,1,0.5,1,1,2,0,0.5,0.5
+,imp,0,0,0,2,0,0,1,0,0,0
+,arg,1,0.5,0,0.5,0,0,3,0,0,0
+,inst,0,0.5,0,0,0.5,0,0,0,1,0
+,keer,2,1,0,0.5,0,0,0,0,2,0
+,subj,2,2,2,2,2,3,1,0.5,1,1
+www_director_ee.ela_529643.txt,abs,2,1,0,2,0.5,0,0,0,1,1
+,info,0.5,0,2,2,2,1,0,2,0,1
+,aeg,1,0,1,2,0,1,0.5,2,0,0
+,afek,0,1,0,0,0,0.5,0,0.5,1,1
+,form,0,0,0,0,0,0,1,0,0,0
+,inter,2,2,2,0,0,1,0.5,0,3,0
+,spont,2,0,1,0,1,0,1,0,1,0
+,imp,1,1,1,0.5,1,0,0.5,0.5,0.5,0.5
+,arg,0,0,0,0,0,2,1,0.5,0.5,0.5
+,inst,1,2,0,1,2,1,0,0,2,0
+,keer,0.5,0,1,2,1,0,0.5,0.5,2,0
+,subj,0.5,0.5,0.5,0.5,0.5,2,2,1,2,1
+et_wikipedia_org.ela_219301.txt,abs,3,2,2,2,3,1,3,2,2,1
+,info,1,1,1,1,1,0.5,0.5,1,0,1
+,aeg,1,0.5,1,0.5,1,0,0.5,0,0,1
+,afek,0,0,0,0,0,0,0,0,0,0
+,form,0.5,1,0.5,0.5,0,0.5,1,1,1,0
+,inter,0,0,0,0,0,0,0,0,0,0
+,spont,0,0,0,0,0,0,0,0,0,0.5
+,imp,1,0,3,0.5,2,2,3,2,2,3
+,arg,0,0,3,0,1,0,0,1,2,0.5
+,inst,0,0,0,0.5,1,2,0,0,2,0
+,keer,0,0,1,1,1,0,0,0,0,1
+,subj,0,1,0,0,0,0.5,0,0,0,0
+www_politsei_ee.ela_40109.txt,abs,1,1,0,0.5,0,0,1,0.5,0.5,0
+,info,0.5,2,1,2,1,2,2,0,1,3
+,aeg,1,1,1,2,1,1,2,0,0,3
+,afek,0,0,0,0,0,1,0,0,0,0
+,form,1,2,1,2,2,2,3,0.5,3,1
+,inter,0,0,0,0,0,1,2,0,0,0
+,spont,0,0,0,0,0,0,0,0,0,0
+,imp,3,0,0,2,2,2,0,2,1,3
+,arg,0,0,0,0,0,0.5,1,0,1,0
+,inst,0,0,0,2,3,3,0,0,3,2
+,keer,0,1,0,0,0,0,1,0,0,0
+,subj,0,0,0,0,0,0,0,0,0,0
+www_lounaleht_ee.ela_576969.txt,abs,1,1,1,0,0,0,0,0.5,0,0
+,info,1,1,1,0.5,0,0.5,2,0,0,0.5
+,aeg,0,0,1,1,0.5,2,0,1,0,2
+,afek,0,0,0,0,0,1,1,1,1,0
+,form,2,0.5,1,0,0.5,0,0.5,0.5,1,1
+,inter,0,2,1,1,0,0,1,0,2,1
+,spont,0,0,0,0,0,0,1,0,0,0
+,imp,3,0,0,2,2,0.5,0.5,0.5,2,2
+,arg,2,0,0,0,0,0.5,0.5,0.5,0.5,0.5
+,inst,0,0,0,0.5,0,1,0,0,1,0
+,keer,0,0,1,1,0,0,0,0,0,0
+,subj,0.5,1,1,1,1,0,0,0,0,0
+rahvahaal_delfi_ee.ela_258274.txt,abs,0,0,0,0,0,0,1,2,0,1
+,info,0.5,0.5,0.5,0.5,1,2,0.5,1,0,2
+,aeg,1,1,1,2,1,0.5,1,0,0,0.5
+,afek,2,2,3,3,3,3,2,2,3,3
+,form,1,1,1,1,1,0,0.5,0,0,0
+,inter,0,0,1,0,0,0,0,0,1,0
+,spont,1,1,1,1,1,1,2,1,1,1
+,imp,0,0,0,3,2,1,1,1,1,1
+,arg,3,0.5,3,0.5,2,2,1,2,1,2
+,inst,0,1,0,2,1,1,0,0,0.5,0
+,keer,0,0,0,0,0,0,0,0,1,0.5
+,subj,2,3,3,3,3,1,1,2,0.5,3
+arvamusaed_ee.ela_274676.txt,abs,2,1,1,2,0,0,2,0.5,2,2
+,info,0,0.5,0.5,0.5,1,0,0.5,0,0,0.5
+,aeg,0,0,0,0,0,0,1,0,0,0.5
+,afek,1,2,3,2,3,0,0.5,2,1,2
+,form,0.5,0.5,0,0,0,0,0,0.5,0,0
+,inter,1,2,0.5,1,0,0,2,0,2,0
+,spont,0,0,2,1,0,1,1,1,0,1
+,imp,1,0,0,0.5,0.5,1,0,0.5,2,0
+,arg,1,2,2,2,1,2,2,1,2,0
+,inst,0,0.5,1,0,0.5,2,0,0,1,1
+,keer,0,0.5,0.5,1,1,0,0,0.5,0.5,0
+,subj,1,1,3,3,2,2,2,2,2,2
+www_ekspress_ee.ela_495829.txt,abs,2,1,1,0,1,0,0.5,2,0.5,0.5
+,info,0,2,2,0.5,3,1,2,0,0,2
+,aeg,0,0.5,0.5,0.5,1,1,3,1,0,2
+,afek,3,2,3,1,1,3,3,3,3,1
+,form,0,0,0,0,0,0,0,0,0,0
+,inter,3,3,3,3,3,2,3,3,1,2
+,spont,3,3,3,3,3,3,2,3,3,3
+,imp,1,0.5,0.5,0,1,0,1,0.5,0.5,3
+,arg,2,1,1,2,2,0.5,2,0.5,0.5,0
+,inst,0,2,0,1,2,1,2,0,0,0
+,keer,1,2,2,3,3,0,0,0,2,3
+,subj,3,3,1,1,0.5,3,3,3,3,2
+www_ekspress_ee.ela_177019.txt,abs,2,3,2,3,3,1,3,3,3,3
+,info,0.5,0.5,0.5,0.5,0.5,0,0,0.5,0,3
+,aeg,0,0,0.5,0.5,0,0,0.5,0,0,0.5
+,afek,1,2,2,1,2,1,3,0.5,1,0.5
+,form,1,1,1,1,1,0,0.5,0.5,0,0
+,inter,3,3,3,3,3,1,2,2,2,3
+,spont,3,3,3,3,2,3,1,3,2,2
+,imp,1,1,0.5,0.5,0.5,1,1,1,1,1
+,arg,2,3,3,2,3,0.5,3,2,1,0
+,inst,1,1,0.5,0.5,1,0.5,0,0,0.5,0.5
+,keer,2,2,2,3,3,0,0.5,0,0.5,2
+,subj,2,2,2,3,3,3,2,2,3,3
+www_aialeht_ee.ela_457123.txt,abs,0.5,1,0,0,1,0,1,1,1,1
+,info,1,0.5,1,0.5,1,1,0,2,0,1
+,aeg,1,0,0.5,0.5,0.5,1,2,1,0,2
+,afek,0,1,1,1,1,1,1,1,2,0
+,form,0,0.5,0.5,0,0.5,0,1,0,0.5,0
+,inter,3,3,3,2,3,2,3,3,3,2
+,spont,3,3,1,3,3,3,2,2,3,2
+,imp,0,0,0,0,0.5,1,1,2,1,1
+,arg,0,1,3,0,2,0.5,1,1,1,0.5
+,inst,3,3,2,2,3,2,3,2,2,2
+,keer,0.5,0.5,0.5,1,1,0,0,2,1,0.5
+,subj,0.5,0.5,0.5,1,1,1,0.5,0,1,0.5
+www_puuinfo_ee.ela_279876.txt,abs,1,3,1,1,1,2,0,0,0,2
+,info,2,2,3,2,3,0.5,3,1,1,1
+,aeg,1,0,0,0,1,0,0.5,0,0,1
+,afek,0.5,0,0,0,0,0.5,0.5,0,1,0
+,form,1,2,1,0,1,2,2,0,2,2
+,inter,0,0,0,0,0,0,0.5,0,1,0
+,spont,0,0,0,0,0,0,0,0,0,0
+,imp,3,0.5,2,2,2,2,0,0.5,3,3
+,arg,2,3,2,1,1,2,3,0,2,2
+,inst,1,1,0,3,1,0.5,2,0,0.5,1
+,keer,0,2,2,0.5,0,1,3,1,1,2
+,subj,0,0,0,0,0,0,0,1,1,0
+www_kv_ee.ela_199481.txt,abs,0.5,1,0,0,0,0.5,0,0,0,0.5
+,info,3,3,3,3,3,2,1,3,0,3
+,aeg,0,2,0,0.5,2,1,2,1,0,0
+,afek,0,0,0,0,0,0,0,0,0,0
+,form,1,3,0.5,0,0,2,2,0,1,0
+,inter,0.5,2,0,0,0,0,2,0,0.5,0
+,spont,0,1,0,2,2,0,0,0,1,2
+,imp,3,3,3,3,3,3,3,2,1,3
+,arg,1,1,0,0.5,1,0.5,0,0,0,0
+,inst,0,0,0,1,0,2,1,0,0,0
+,keer,1,0.5,0.5,2,1,0,0,0,0.5,0
+,subj,0,0,0,0,0,0.5,0.5,0.5,0.5,0.5
+www_snap_ee.ela_623342.txt,abs,0.5,0.5,0.5,0,1,2,0.5,0,0,2
+,info,3,3,3,2,3,2,3,2,1,3
+,aeg,0.5,0,0,0.5,0,0,0.5,0,0,0.5
+,afek,0,0,0,2,1,0,0.5,0.5,1,0.5
+,form,0.5,0,0.5,0.5,0.5,2,2,0,1,1
+,inter,1,1,0,0,0,0,1,0,0.5,0
+,spont,0,0,0,0,0.5,0,0,0,0,1
+,imp,1,2,3,2,2,3,0.5,0.5,3,3
+,arg,2,0,0,2,1,0.5,2,0,0,0.5
+,inst,0,0,0,0,0.5,0,2,0,1,0
+,keer,0,3,0.5,2,1,1,3,2,0,2
+,subj,0,0,0.5,0.5,0.5,0,0,0,0,0
+www_riigikogu_ee.ela_224866.txt,abs,2,1,1,1,0,0.5,2,1,0,0.5
+,info,0.5,0.5,1,0.5,0.5,0.5,1,0.5,0,1
+,aeg,0.5,0.5,1,0.5,0.5,1,2,0,0,2
+,afek,0.5,0,0.5,0.5,1,0,2,1,1,1
+,form,2,2,0,1,0,0.5,0,0.5,3,0.5
+,inter,3,3,1,3,2,2,3,3,3,2
+,spont,3,3,1,2,0.5,1,0.5,1,0,1
+,imp,2,0,0.5,1,0,0,0,0,2,2
+,arg,0.5,3,2,2,3,1,2,2,1,2
+,inst,1,0,1,1,2,0.5,0.5,2,1,1
+,keer,1,1,2,0.5,0,0,1,0,1,0
+,subj,1,1,2,2,2,3,2,0,1,2
+www_eestikirik_ee.ela_530609.txt,abs,3,1,3,3,3,2,3,3,2,3
+,info,0.5,0.5,1,0.5,1,1,0,0.5,0,0
+,aeg,0,0,0,1,0,0,0,0.5,0,0.5
+,afek,1,0.5,0.5,1,0,2,2,1,3,1
+,form,0,1,1,0,0,0.5,0.5,0,0.5,0.5
+,inter,1,1,1,0.5,1,0,2,0,3,0
+,spont,1,1,1,1,1,0.5,0.5,0,1,0
+,imp,0,0,0,2,2,0,0,0,0,2
+,arg,3,1,0,1,3,1,0.5,0,3,0.5
+,inst,2,3,2,0.5,2,2,2,0,1,0
+,keer,0,2,2,1,0,0,2,0,1,0
+,subj,2,1,2,2,2,1,1,0,1,1
+www_jeesusekristusekirik_ee.ela_65555.txt,abs,2,0,1,0,1,0.5,1,1,0.5,1
+,info,1,1,1,1,1,0,1,2,1,1
+,aeg,0,0.5,1,2,0.5,1,0,2,0,2
+,afek,0,0,0.5,1,0.5,1,1,1,1,0
+,form,0,1,1,1,0,0.5,0.5,0,0,1
+,inter,0.5,1,1,0,0.5,0,0.5,0,2,0
+,spont,0,0,0,0,0,0,0.5,0,2,2
+,imp,1,0,0,0.5,0.5,0,3,1,1,0
+,arg,0,0,0,0,0,0,1,0,0,0
+,inst,0.5,1,0.5,2,0.5,1,0,0,1,0.5
+,keer,0,0.5,0.5,3,1,0,0,0,1,0
+,subj,0.5,0,0.5,0.5,0.5,1,0,0,1,0
+www_nami-nami_ee.ela_456341.txt,abs,0.5,0.5,0,0,0,0,0,0,0,0.5
+,info,0,1,1,2,1,2,0.5,0.5,0,2
+,aeg,0,1,3,3,3,0,2,0.5,0.5,3
+,afek,1,1,0,1,1,1,1,0,1,1
+,form,0.5,0.5,0.5,0,0,0.5,0.5,0,0.5,0
+,inter,0.5,0.5,0.5,0,0,0,0,0,1,0
+,spont,0,1,0.5,1,1,1,2,1,2,1
+,imp,0.5,0,1,0,0.5,0,0.5,0.5,2,0
+,arg,0.5,0,0.5,0,0.5,0.5,0.5,0,0.5,0
+,inst,2,3,3,3,2,3,3,1,3,3
+,keer,0,0,0,1,0.5,0,0,0,0,0
+,subj,2,1,1,1,1,2,0,0.5,3,1
+www_vnl_ee.ela_670256.txt,abs,1,1,0,0,0,0,1,0,0,2
+,info,2,2,1,0.5,1,0.5,2,2,1,0.5
+,aeg,1,1,1,1,2,1,0.5,2,2,1
+,afek,0,0,0,0,0,1,0,0,2,2
+,form,2,2,2,0,1,0,0.5,2,0.5,0
+,inter,2,2,2,1,0,0,2,0,2,1
+,spont,0,0,0,1,1,0,0.5,0,0.5,0
+,imp,3,0,1,2,0.5,0,2,2,0.5,0
+,arg,1,0,1,1,0,2,2,0,2,1
+,inst,0.5,1,1,1,0.5,0.5,0,0,0.5,0
+,keer,1,1,1,0,2,0,0,0,0,0
+,subj,0.5,0,0,0,0,2,1,0,1,0
+www_maaleht_ee.ela_246360.txt,abs,2,0,0,0,0,0,1,0,0,0.5
+,info,1,0.5,1,0.5,1,0.5,0.5,0,0,1
+,aeg,2,2,2,2,2,2,1,0,0,2
+,afek,0,0,0,0.5,0,1,1,2,2,1
+,form,2,2,1,0,1,0,0.5,1,2,0
+,inter,0,1,0,1,0,1,1,0,2,0
+,spont,0,0,1,0,0,1,0.5,0,0.5,0
+,imp,1,1,1,0,1,0,0,0,2,1
+,arg,0,0,1,1,1,1,0,0,2,1
+,inst,0,0,0,0,0,0.5,0,1,2,0
+,keer,0.5,0,0.5,0,0.5,0,0.5,0.5,0.5,0.5
+,subj,0,1,0,0,0,1,2,0,0,0
+uuseesti_ee.ela_112397.txt,abs,1,1,0,1,0,1,0,0,0,2
+,info,0.5,0.5,1,2,0.5,2,2,1,0,3
+,aeg,1,1,0.5,0.5,2,0.5,0,1,1,0.5
+,afek,1,0.5,1,1,0.5,0,0,0,0,1
+,form,3,3,3,2,2,0.5,0.5,2,2,2
+,inter,1,1,1,0,0,0,1,0,1,0
+,spont,0,0,0,0,0,1,1,1,1,1
+,imp,1,1,0.5,0,2,2,3,2,3,3
+,arg,0,0,1,0,1,2,0,0,0.5,0
+,inst,0,0,0,1,0,0.5,0,0,2,0
+,keer,2,1,2,0,2,0,1,0,2,0
+,subj,0,0,0,0,0,1,0.5,0,1,0
+kalah_zzz_ee.ela_73709.txt,abs,1,2,1,0,2,0,3,2,2,0.5
+,info,0.5,2,1,0.5,2,0.5,1,2,0,0.5
+,aeg,0,0.5,0,0,0,0.5,0,0,0,0.5
+,afek,1,0.5,1,3,3,2,3,2,3,3
+,form,0,0,0,0,0,0,0.5,0.5,0,1
+,inter,1,1,1,1,1,0,1,0,2,0
+,spont,2,3,1,3,3,1,0.5,1,1,1
+,imp,0.5,0,1,0.5,0,0,3,2,2,1
+,arg,2,2,1,2,3,2,0.5,2,2,1
+,inst,0,1,0,0.5,1,0.5,1,0,2,0
+,keer,1,0,1,3,2,0,0,0,2,3
+,subj,3,3,1,3,3,3,3,2,3,3
+rahvahaal_delfi_ee.ela_388979.txt,abs,0,2,0,2,1,0,1,0.5,0.5,2
+,info,2,3,2,0.5,0,2,0,0.5,0,2
+,aeg,1,0,0,0.5,2,2,0,0,0,2
+,afek,3,2,3,2,3,2,3,2,3,3
+,form,0,0.5,0,0,0,0,0,0.5,0,0
+,inter,2,2,1,0,0,0,2,0,3,0
+,spont,0,0,2,0,1,2,1,1,1,1
+,imp,1,0,1,0.5,0.5,0,1,0.5,1,1
+,arg,3,3,3,2,1,2,3,3,1,0.5
+,inst,0,0,1,2,0,0,1,0,0,1
+,keer,0,1,0,1,0.5,0,0,0,0,0
+,subj,1,1,3,1,1,3,3,3,3,2
+www_med24_ee.ela_557549.txt,abs,3,3,3,2,3,2,2,3,2,3
+,info,0.5,0.5,1,0.5,0,0.5,1,3,0.5,2
+,aeg,0,0,0,0,0,0.5,1,1,0.5,0.5
+,afek,3,2,2,3,2,2,3,2,3,3
+,form,0,0.5,0,0,0,0,0.5,0,0,0
+,inter,0,3,1,2,0,1,3,0,2,1
+,spont,1,0,2,0,1,1,3,1,2,1
+,imp,0,0,0,0,0.5,0,0,0,0.5,0.5
+,arg,1,0.5,3,1,0,0.5,0,0.5,1,0
+,inst,0,0,0,0.5,0,0.5,0,0,0,0
+,keer,1,0.5,1,0,2,0,0,0,2,1
+,subj,3,2,3,2,1,0.5,2,0.5,2,0.5
+www_ilm_err_ee.ela_196894.txt,abs,0.5,0,0,0,0,0.5,0.5,1,0.5,1
+,info,2,2,3,2,2,2,3,1,2,0.5
+,aeg,2,2,3,2,2,2,3,3,2,2
+,afek,0,0,0,0,0,1,0.5,0,0,0
+,form,3,0.5,3,0.5,0.5,2,1,2,1,2
+,inter,0,0,1,0,0,0.5,1,1,1,0.5
+,spont,0,0,0,0,0,0,0,0,0,0
+,imp,1,1,1,0.5,1,0.5,1,0.5,3,1
+,arg,0,1,0,1,0,2,3,0,3,1
+,inst,0,0,0,2,1,0.5,0,0,0.5,0
+,keer,0,2,0,1,0.5,0,0,3,1,0.5
+,subj,1,0.5,1,0.5,0,0,0,0,0,0
+www_tootukassa_ee.ela_395777.txt,abs,1,0,0,1,2,2,0,0,0,3
+,info,3,2,3,3,3,2,2,2,0.5,3
+,aeg,0,0.5,1,0.5,0,2,0.5,0.5,0,2
+,afek,0,0.5,0.5,0,0.5,1,0.5,0,1,1
+,form,3,3,3,3,3,3,3,3,3,3
+,inter,1,1,1,1,1,0,0.5,0,1,0
+,spont,0,0,0,0,0,1,0,1,0.5,0.5
+,imp,0,3,3,3,2,3,3,3,3,3
+,arg,0,0,2,0,0,2,1,0.5,3,1
+,inst,1,2,2,2,2,3,1,3,3,0
+,keer,0.5,2,0,0,1,0,3,1,2,1
+,subj,0,0,0,0,0,0,0,0,0,0.5
+www_mod_gov_ee.ela_178680.txt,abs,0,0.5,0,0,0.5,0.5,0,0,0,1
+,info,2,0.5,3,2,0.5,0.5,0.5,0.5,2,1
+,aeg,1,2,1,1,1,0.5,2,2,0,0.5
+,afek,0,0,1,0,0,0.5,1,0.5,1,1
+,form,3,3,1,3,3,1,2,2,0,3
+,inter,1,2,0.5,0,0,0,0,0,0.5,0
+,spont,0,0,0,0,0,0,0,0,0,0
+,imp,1,0.5,1,3,1,0.5,1,2,2,3
+,arg,3,3,1,3,3,2,3,3,2,3
+,inst,0,0.5,0.5,0.5,0.5,0.5,0,1,3,0
+,keer,2,0.5,1,1,0,0.5,0,0.5,2,0
+,subj,0,0,0,0,0,1,2,0,0,0
+www_pealinn_ee.ela_132426.txt,abs,0.5,0,0,0,1,0,1,0.5,0,1
+,info,3,2,1,0.5,3,2,2,2,2,3
+,aeg,1,1,0.5,0.5,2,0,0.5,2,0,1
+,afek,3,2,2,1,1,0,1,2,2,2
+,form,1,1,0.5,1,0.5,1,2,1,0,0
+,inter,0.5,2,0,1,0,0,0,0,1,0
+,spont,1,0,0,1,1,0,0,0,1,2
+,imp,1,1,3,0.5,1,2,2,2,0.5,2
+,arg,3,3,0,0,3,2,0.5,1,2,2
+,inst,0,0,0.5,0,0,0.5,0.5,0,0.5,0
+,keer,2,3,2,2,1,1,3,2,2,0.5
+,subj,3,0.5,1,0.5,1,1,1,1,2,3
+www_advent_ee.ela_658698.txt,abs,2,2,1,2,2,1,3,2,0,3
+,info,1,0.5,1,0.5,1,0.5,0.5,0.5,0.5,1
+,aeg,1,1,2,2,0.5,1,2,0.5,0,3
+,afek,2,1,2,2,3,3,3,2,3,2
+,form,0.5,0.5,0,0,0,0.5,0,0.5,0,0
+,inter,1,1,3,1,0.5,0,0,1,3,1
+,spont,0,0,1,1,0,0,2,0,1,0
+,imp,1,1,1,0,0.5,0,0,0,0.5,0.5
+,arg,3,1,1,1,1,0,0.5,0.5,3,0.5
+,inst,0,1,2,0,1,1,0.5,0,3,0.5
+,keer,0.5,1,0.5,0.5,0,0,0,0,1,0
+,subj,1,2,3,2,0,2,3,2,2,1
+www_auto24_ee.ela_469677.txt,abs,0.5,0,1,0.5,2,0,1,1,0.5,0.5
+,info,2,1,0.5,0.5,0.5,0,0.5,0,0,3
+,aeg,0,0,0,0.5,0,0,2,0,0,2
+,afek,2,2,2,3,3,2,1,2,3,3
+,form,1,1,0.5,0.5,1,0,0,0,0,0
+,inter,2,0,1,3,0,0,2,0,1,0
+,spont,3,2,3,3,3,1,2,2,2,2
+,imp,1,0,1,0,0,1,1,0.5,0.5,1
+,arg,0.5,1,1,3,3,0.5,0.5,2,2,0
+,inst,0,0,0.5,0,2,0.5,1,0,1,1
+,keer,1,0,2,2,1,0,0,0,1,0
+,subj,3,3,3,3,3,3,3,2,3,3
+www_tuuleenergia_ee.ela_40373.txt,abs,1,0,0,0,0.5,1,0,0,2,2
+,info,2,0.5,2,2,0.5,1,2,1,0,1
+,aeg,1,0,0,0,0,1,0.5,0,0,0.5
+,afek,0,1,2,1,3,0.5,0.5,0,1,1
+,form,0,1,0,0,1,1,0,0,2,0
+,inter,1,2,0,0,0,0,0.5,0,1,0
+,spont,0.5,1,1,1,1,0,0,0,1,1
+,imp,1,0,0,3,3,1,0,0.5,1,1
+,arg,3,2,2,2,3,2,3,2,2,2
+,inst,0,1,2,1,0.5,2,2,0,3,2
+,keer,0,1,0.5,0.5,0,0,2,0,1,1
+,subj,1,1,1,1,1,1,1,1,3,3
+www_bsd_ee.ela_638246.txt,abs,2,3,0,0,0,2,0,0,0,3
+,info,3,2,3,2,3,0.5,3,2,2,1
+,aeg,0,0,2,2,2,1,0.5,0.5,0.5,1
+,afek,0,1,0,2,0,0,0,0,0.5,1
+,form,1,1,1,1,1,1,3,1,2,1
+,inter,1,1,0,0,1,0.5,1,1,1,0.5
+,spont,0,0,1,0,0.5,1,0,0,0,1
+,imp,3,3,3,2,2,1,2,1,1,1
+,arg,1,0.5,0,0.5,0.5,0.5,0.5,0,1,0
+,inst,0,0,0,0.5,2,2,0,0,2,0
+,keer,3,3,2,3,1,2,3,1,2,3
+,subj,0,1,0,1,0,1,1,0.5,1,1
+www_le_ee.ela_240831.txt,abs,0.5,0.5,0,0,0,0.5,0,0,0,1
+,info,2,2,3,2,2,2,1,0.5,0.5,3
+,aeg,3,3,3,3,3,3,2,2,2,3
+,afek,0,0.5,1,0,1,0.5,0,0,2,0
+,form,2,2,2,2,1,1,1,2,3,0
+,inter,0,0.5,0,1,0,1,0,0,1,0
+,spont,0,0,0,0,0,0,0,0,0,0
+,imp,0,1,1,1,0.5,0,2,2,2,3
+,arg,1,0,0.5,0,0,1,0.5,0.5,0,2
+,inst,0,0,0,2,0.5,1,0,1,1,0
+,keer,1,1,0.5,1,0,0,1,0,0.5,0
+,subj,0,0,0,0,0,1,0,0,0,2
+www_xn--eestimngula-q8a_ee.ela_40079.txt,abs,0.5,0,0,0,0.5,2,0,1,0,0
+,info,1,3,3,2,3,2,2,0.5,0,2
+,aeg,0.5,0,0,0.5,0,0.5,1,0.5,0,0.5
+,afek,1,1,1,1,1,0,0,0,1,0
+,form,0,1,0,0,0,1,1,1,0.5,1
+,inter,1,1,1,1,1,1,1,0,0,0
+,spont,1,1,1,1,1,1,1,1,1,1
+,imp,3,3,1,1,2,2,0,0,1,3
+,arg,1,0,0.5,0,0.5,2,0.5,0,0.5,0
+,inst,3,3,3,3,3,3,2,0.5,3,3
+,keer,0,0,0,1,1,0,0,0,0.5,0
+,subj,0.5,0,0,0.5,0,1,0.5,0.5,0.5,0.5
+www_vorumaateataja_ee.ela_241120.txt,abs,0,0,0,0,1,0.5,1,0,0,1
+,info,0.5,1,1,1,0,0.5,0.5,2,0,0.5
+,aeg,1,3,2,3,2,2,3,2,1,2
+,afek,0.5,0,0,1,0,2,2,2,3,2
+,form,0,1,0,0,0,0,0,0.5,0,0
+,inter,2,3,1,1,1,1,3,0,3,2
+,spont,0.5,1,0,1,1,1,0.5,0,0.5,0
+,imp,2,0,0,2,1,0,0,2,0,2
+,arg,0.5,0.5,0,0.5,1,1,1,0,1,1
+,inst,1,1,1,1,1,2,0,0,0.5,0
+,keer,0,1,0,0,0,0,0,0,0.5,1
+,subj,2,1,1,2,1,1,1,0.5,1,1
+www_mesindus_ee.ela_33384.txt,abs,0,1,0,0,0,0,0,0,0,0
+,info,0.5,0,1,1,2,0.5,0.5,1,0.5,3
+,aeg,1,1,1,1,1,0.5,1,3,0.5,3
+,afek,0,0,1,1,0,0,0,1,0.5,1
+,form,0,0.5,0,0,1,0,0,0,0,0
+,inter,0,0,0,0,0,0,0.5,0,1,0
+,spont,0,1,0.5,0,0,1,1,0,0,0
+,imp,0,0,0,2,0,1,0,0,2,1
+,arg,1,0,1,0.5,2,2,3,0,0,2
+,inst,2,3,3,3,3,2,2,2,2,3
+,keer,1,0,2,0.5,0,1,1,0,1,1
+,subj,2,1,1,1,1,0.5,0.5,0.5,1,1
+www_horsemarket_ee.ela_436247.txt,abs,0,0,0,0,1,1,0,0,0,0
+,info,2,2,3,2,3,2,2,3,2,1
+,aeg,3,3,3,2,3,2,3,1,2,1
+,afek,0.5,0.5,1,1,1,2,0,2,2,1
+,form,0,2,0,0,0,0,1,0,0,1
+,inter,1,0.5,1,0.5,0.5,0,1,0,0.5,0
+,spont,1,0,0,0,2,0.5,0.5,0,0.5,0.5
+,imp,1,0.5,1,0,0.5,0,0,0.5,0,0.5
+,arg,2,0,0.5,0,0,2,0.5,0.5,0.5,0
+,inst,0.5,1,1,1,1,1,0,0,1,0
+,keer,0,1,0.5,2,1,0,0.5,0,0.5,0
+,subj,0.5,0,0,0,0,1,1,2,2,1
+www_eestisport_ee.ela_196071.txt,abs,0,1,0,0,0,2,0,0,0,1
+,info,2,2,3,3,0.5,2,0.5,0.5,2,3
+,aeg,3,2,3,3,3,0,3,1,0,0.5
+,afek,0,0,0,0,0,1,0,0,0,0
+,form,0.5,0.5,0,1,2,1,1,1,0.5,1
+,inter,0,0,0,0,0,0,0,0,1,0
+,spont,0,0,0,0,0,0,0,0,0,0
+,imp,3,2,3,2,2,3,0.5,3,2,2
+,arg,0,0.5,0.5,0.5,1,0.5,0,0,1,0
+,inst,1,1,1,0.5,1,0.5,0,0,0.5,0
+,keer,0,1,0.5,1,1,1,0.5,0,0.5,1
+,subj,0,0,0.5,0,0,0.5,0,0,0,0
+forte_delfi_ee.ela_88079.txt,abs,0,0,0,0,0,0.5,0,1,0,0
+,info,2,2,2,2,3,0.5,2,2,0.5,1
+,aeg,0,0,0,0.5,0,1,1,0,0,2
+,afek,0.5,0,1,1,0.5,1,0.5,0.5,1,1
+,form,0,0,0,0,0,0,2,0,1,0
+,inter,0,0.5,0,0,0,1,1,0,0,0
+,spont,1,0,1,0,0,0.5,0.5,1,2,1
+,imp,1,1,1,2,2,2,1,2,2,2
+,arg,2,0,1,1,3,2,2,2,0.5,2
+,inst,3,3,3,2,3,2,3,1,1,2
+,keer,0,0,2,0,0,0,1,0.5,1,1
+,subj,1,1,2,1,1,0,2,0,1,2
+www_vm_ee.ela_81604.txt,abs,0,0,0,0,0,0.5,0,1,0,0.5
+,info,3,3,3,2,1,0.5,0.5,1,2,0.5
+,aeg,1,0,0,0,2,1,0.5,1,0.5,1
+,afek,0,0,0,1,0,0,0,0,3,1
+,form,3,0.5,2,0,0.5,1,2,2,3,0
+,inter,0,0,0,0,0,1,3,0,0.5,0
+,spont,0,0,0,0,1,0,0,0,0,1
+,imp,3,3,1,3,0.5,0.5,1,3,3,1
+,arg,0.5,0.5,0.5,0.5,0.5,3,2,2,3,3
+,inst,3,3,3,3,3,3,3,2,3,2
+,keer,0,1,0,0.5,0,0,1,0,0.5,0
+,subj,0,0,0,0,0,0,0.5,0,0.5,0.5
+et_wikipedia_org.ela_191506.txt,abs,0.5,0,0,0.5,0.5,2,0,0,0,2
+,info,3,3,3,3,3,2,2,3,0.5,2
+,aeg,3,3,3,3,3,3,2,3,2,3
+,afek,0,0,0,0,0,0,0,0,0,0.5
+,form,2,2,2,1,2,2,0,0.5,2,3
+,inter,0,0,1,0,0,0,0,0,0,0
+,spont,0,0,0,0,0.5,0,0,0,0,0
+,imp,1,1,0,2,0.5,3,0.5,0.5,0,2
+,arg,0,0,1,0,0,2,1,0,1,0
+,inst,1,1,1,1,1,0,0,0,1,0
+,keer,1,3,1,2,1,0,1,1,2,0
+,subj,0,0,0,0,0,0,0,0,1,0
+www_hambaarst_ee.ela_475731.txt,abs,3,3,0,0,0,2,0,0.5,0,0.5
+,info,0.5,0.5,3,2,3,2,2,0.5,0,1
+,aeg,0,0,0,0,0.5,0,0,0,0,2
+,afek,0,0,0,0,0,0,0,0,0.5,0.5
+,form,0,2,1,0,3,1,2,0.5,2,1
+,inter,0,0,0,0,0,0,0.5,0,0.5,0
+,spont,1,0,0,0,0,0,0,0,1,1
+,imp,3,2,3,1,3,3,1,0,0.5,3
+,arg,1,1,0,1,1,0.5,1,0,0,0.5
+,inst,0,0,0,0.5,1,2,1,0,1,0
+,keer,2,2,3,2,2,2,1,2,0.5,1
+,subj,0,0,0.5,0,0,0,0.5,0,0,0
+arhiiv_koolielu_ee.ela_481254.txt,abs,2,1,0,2,2,0.5,1,2,1,2
+,info,1,1,1,1,1,0.5,0.5,2,0,3
+,aeg,1,1,1,1,1,1,0,0,0,0.5
+,afek,1,0.5,1,1,1,1,0,0,1,2
+,form,0,1,0,0,1,0.5,1,2,0.5,1
+,inter,1,0,0.5,1,0,1,0,0,1,0
+,spont,0,0,1,0,0,1,1,0,1,0.5
+,imp,1,1,3,1,2,0,3,2,2,3
+,arg,2,2,2,2,2,2,0.5,2,1,0
+,inst,1,1,1,2,0,1,1,0.5,1,0.5
+,keer,0.5,0.5,1,0.5,0.5,0,0,0,2,0
+,subj,1,1,2,1,1,1,2,0,2,2
+mesindus_ee.ela_210638.txt,abs,0,0,0,0,0,0.5,0,2,0,1
+,info,0.5,2,0.5,0,0.5,0.5,0.5,0.5,0.5,1
+,aeg,1,0.5,0.5,0.5,2,0.5,2,0,0,2
+,afek,2,1,2,2,2,2,1,2,1,1
+,form,1,1,1,0.5,0.5,0,0,0,0,0
+,inter,2,1,1,1,0,0,1,0,2,0
+,spont,1,1,3,2,2,2,2,2,2,2
+,imp,0,0,0,0,0.5,0,0,0.5,1,0.5
+,arg,1,0,1,0,0,1,0,0,2,0
+,inst,0,1,1,0.5,1,1,0,0,0.5,0
+,keer,0.5,0.5,0.5,1,1,0,0,0,0,0
+,subj,2,2,3,2,2,2,1,2,2,1
+www_emta_ee.ela_522725.txt,abs,3,2,0,0,2,2,0,0.5,0,3
+,info,2,3,3,2,0,2,2,2,2,3
+,aeg,0,0.5,0,0.5,0,2,0.5,1,0,0.5
+,afek,0,0,0.5,0,0,0,0,0,0,0
+,form,3,3,3,3,3,2,2,3,3,3
+,inter,0,0.5,0,0,0,0,0,0,0.5,0
+,spont,3,0,0,0,0,0,0,0,0.5,0
+,imp,3,3,3,0.5,0.5,3,2,2,3,3
+,arg,0.5,0,0,0,1,3,0.5,0,1,0
+,inst,1,3,3,2,3,0.5,1,0,3,0.5
+,keer,2,2,2,3,3,1,3,2,3,3
+,subj,0.5,0.5,1,0.5,0.5,0,0.5,0,0,0.5
+www_alphagis_ee.ela_403490.txt,abs,3,0,1,0,0,3,0,0,0.5,0.5
+,info,3,3,3,0.5,3,2,3,3,2,3
+,aeg,1,0,0.5,0,0,0,0,0,0,0.5
+,afek,0,0,0,0,0,0,0,0,0.5,0
+,form,1,2,2,0,2,2,3,3,0,1
+,inter,1,1,1,0.5,1,0,2,0,0.5,0
+,spont,0,0,0,0,0,1,0.5,0.5,1,0.5
+,imp,1,3,3,1,1,3,3,0.5,3,3
+,arg,1,1,0,1,3,2,0,0,3,2
+,inst,0,0,1,2,3,1,1,0.5,1,1
+,keer,3,3,3,3,3,2,3,2,2,3
+,subj,0,0,1,0,0,0,0,0,0.5,0
+www_meiekirik_ee.ela_286284.txt,abs,2,1,1,2,1,1,0,1,2,2
+,info,0,1,1,1,0.5,0.5,1,1,0.5,1
+,aeg,0,0,0,0,0,0,0,0,0,2
+,afek,0,0,1,0,0,1,2,1,0.5,1
+,form,0.5,0.5,0.5,0.5,0,0,0,2,0,1
+,inter,2,2,1,1,1,1,0.5,0,2,1
+,spont,0,0,0,0,0.5,1,0,0,0,0
+,imp,1,0.5,0,2,0.5,0.5,1,0,0.5,1
+,arg,1,0.5,2,1,1,1,1,2,2,0
+,inst,0,1,0,0.5,1,3,1,0,1,0
+,keer,1,1,1,1,1,0,0.5,0,2,0
+,subj,0,1,0,0,0,3,1,0,0,0
+www_soudeliit_ee.ela_547578.txt,abs,0,0,0,0,0,0,0,0,0,0.5
+,info,0,0,2,2,0,0.5,1,0,1,2
+,aeg,3,3,1,2,2,2,1,2,0,2
+,afek,0,0,0,0,0,0,0,0,0.5,0
+,form,0.5,0.5,0.5,0,0.5,2,1,2,1,0
+,inter,0,0,0,0,0,0,0,0,1,0
+,spont,1,1,1,1,1,0,0,0,0,1
+,imp,3,2,2,1,3,1,2,2,0,0.5
+,arg,0.5,0,0,0.5,0.5,0.5,0,0,0,0
+,inst,0,0,0,0,1,0,0.5,0,0,0
+,keer,0,0,0,0.5,0,0,0,0,0.5,1
+,subj,0.5,0,0,0,0,1,1,1,1,0.5
+bhr_balanss_ee.ela_565106.txt,abs,2,1,1,2,0.5,0,1,1,1,2
+,info,1,0,3,0.5,0.5,2,0,1,0,0.5
+,aeg,0,0.5,1,0.5,0.5,0.5,0,0.5,0,0.5
+,afek,0,1,2,1,1,0.5,0.5,0.5,0.5,1
+,form,1,1,1,1,1,0,2,0,0,0
+,inter,0,2,0,0,0,0,0,0,0,0
+,spont,0,0,0,0,0.5,1,1,0,2,1
+,imp,1,0,0,0.5,2,1,0.5,0.5,1,1
+,arg,1,0,2,2,2,1,2,0,3,1
+,inst,0,1,0,0,0,1,0,0,0.5,0
+,keer,0,1,0,2,0,0,0,0,2,0.5
+,subj,2,0,0,0,1,2,1,0.5,3,0
+www_sirp_ee.ela_651305.txt,abs,0.5,0.5,0.5,0,0.5,0,1,0.5,0,1
+,info,1,2,3,2,2,0.5,0.5,2,0,3
+,aeg,1,0,2,1,2,2,0,0,0,2
+,afek,0,1,0,0,1,1,1,0.5,1,1
+,form,1,1,1,1,1,1,1,1,0,0
+,inter,0.5,0.5,1,0,0,0,0.5,0,0.5,0
+,spont,0,0,0,0,0,1,0,0,0,0
+,imp,1,0,2,1,1,0,2,2,1,2
+,arg,3,0,0,0,0,0.5,0.5,1,1,1
+,inst,1,1,1,1,1,0,0,0,2,0
+,keer,0,1,0,1,0,0,0,0,1,0
+,subj,0,0,0,0.5,0,0,0,2,1,0
+www_helen_ee.ela_520035.txt,abs,0.5,0,0,0.5,0,0,0,2,0,0
+,info,1,3,3,3,2,2,2,0.5,1,1
+,aeg,0,0,0,1,0,0.5,0,0,0,0.5
+,afek,1,1,1,3,1,0,0.5,0,2,0
+,form,0,1,0,0,0,0,1,0.5,0,0
+,inter,1,1,1,3,1,0,2,0,0.5,0
+,spont,0,0,1,1,2,1,0.5,1,1,1
+,imp,1,1,2,3,3,1,2,2,1,3
+,arg,0.5,0,0.5,0.5,1,2,1,1,1,0.5
+,inst,3,3,3,3,3,3,3,1,1,2
+,keer,0,0,0,0,0,0,0,0,1,0
+,subj,1,0,1,2,1,1,0,0,2,1
+www_europarl_ee.ela_36110.txt,abs,2,2,0,0,2,2,0,0,0,2
+,info,0.5,0,1,0.5,0.5,0.5,0.5,3,0,1
+,aeg,1,1,1,2,1,1,0.5,2,0,1
+,afek,1,0.5,0.5,0,0,1,0,1,1,2
+,form,3,3,2,3,2,0,0.5,2,2,1
+,inter,2,0.5,0,0,0,0,1,0,1,0
+,spont,0,0,0,0,0,1,0,0,0,0.5
+,imp,3,0.5,0.5,0.5,0.5,0.5,0.5,0.5,2,0.5
+,arg,1,1,0.5,0.5,2,0.5,2,0,0.5,0.5
+,inst,1,1,1,1,1,1,0,0,1,0
+,keer,2,1,2,1,1,0.5,0.5,0,0.5,2
+,subj,0,1,0,0,0,1,0,0,1,0
+nami-nami_ee.ela_372868.txt,abs,1,0,0,0,0,0.5,0,0,0,0.5
+,info,2,2,3,3,2,2,2,1,0,3
+,aeg,0,3,3,3,3,3,2,0.5,0,3
+,afek,0,0,0,0,0,0,0,0,0,0
+,form,1,0.5,1,1,0.5,0,0.5,0,1,0
+,inter,0,0,0,1,0,1,2,0,2,0
+,spont,0,0,1,0,1,0.5,0,0,1,0
+,imp,3,1,1,0,3,1,2,0,1,3
+,arg,0,0,0,0,1,0.5,0.5,0,0.5,0
+,inst,3,3,3,3,3,3,3,2,3,3
+,keer,0.5,0,0.5,0,0,0.5,1,0.5,0.5,1
+,subj,0,0,0,0,0,1,0,0,2,0
+video_usk_ee.ela_152445.txt,abs,1,0.5,1,3,1,0,2,0,1,2
+,info,0.5,0,0.5,0.5,2,0.5,0,1,0,0.5
+,aeg,1,0,0,0.5,0,0.5,1,0,0,1
+,afek,1,0,1,1,0,0,2,1,1,1
+,form,0,0,0,0,0,0,0,0,1,0
+,inter,0.5,0.5,0.5,0,0,0,1,0,1,0
+,spont,0,0,0,0.5,0.5,1,0,0,0,1
+,imp,1,1,1,1,1,0,2,2,2,2
+,arg,3,3,1,2,3,0.5,3,2,2,2
+,inst,0,0,0,0,0,0.5,0,0,1,0
+,keer,0,0,0,0,0,0,0,0,2,0
+,subj,3,2,3,2,3,2,2,2,2,2
+blog_maaleht_ee.ela_73268.txt,abs,0.5,0,0,0.5,2,0,0.5,1,0,0.5
+,info,0,0,1,2,2,2,1,3,0,2
+,aeg,1,2,0,2,2,2,3,0,0,3
+,afek,0.5,0.5,0.5,1,1,2,2,2,2,0
+,form,0,0,0,0,0,0,0.5,0,0,0
+,inter,1,0.5,1,0.5,0.5,0,1,0,1,0
+,spont,0.5,0.5,1,0.5,1,1,1,0,1,1
+,imp,1,0,0,2,0.5,0,0,0,0,0
+,arg,0,0,0,0,0.5,1,1,1,0,1
+,inst,0,0,0,0,0,0.5,1,0.5,1,0
+,keer,0,0,0,1,0,0,1,0,1,1
+,subj,1,0.5,1,0.5,1,1,2,2,3,0.5
+forte_delfi_ee.ela_222312.txt,abs,1,0,0,0,0,0.5,0,0,0,0
+,info,1,1,1,2,1,1,1,1,1,3
+,aeg,3,1,2,1,1,2,2,2,0,3
+,afek,0.5,0,1,0,0.5,1,1,1,2,1
+,form,2,2,0.5,0,1,0.5,1,1,1,0
+,inter,0.5,1,0,1,0,0,0.5,0,2,0
+,spont,0,0,0,0,0,0,0,0,0,1
+,imp,1,0.5,1,0.5,0.5,2,0.5,1,3,2
+,arg,1,2,2,2,3,2,3,2,3,2
+,inst,0,0,1,1,0,2,0,0,2,0
+,keer,0,0.5,0,1,0,0,2,0,2,0
+,subj,0,0,0,0,1,2,1,0,0,0
+www_eestigiid_ee.ela_530847.txt,abs,0.5,0,0,0,0.5,2,0,0,0,0
+,info,3,1,3,2,3,3,3,3,3,1
+,aeg,1,0,0,0.5,0.5,0.5,0.5,0.5,0,1
+,afek,0.5,0.5,0,0.5,0,0,0,0,0,0
+,form,2,2,1,2,2,0.5,1,1,1,1
+,inter,0,0,0,0,0,0,1,0,0,0
+,spont,0,0,0,0,0,0.5,0.5,0,0.5,0
+,imp,3,3,3,2,3,2,3,3,2,3
+,arg,0.5,0.5,0.5,0.5,0.5,0,0,0,0,0
+,inst,0,0,0,0,0,0.5,0,0,0,0
+,keer,1,2,1,3,1,1,1,0,0,2
+,subj,0,0,0,0,0,0.5,1,0.5,0.5,0
+www_dragon_ee.ela_303548.txt,abs,1,0.5,0,0,3,0,2,2,0,2
+,info,1,2,0.5,0,2,0.5,0.5,1,0,2
+,aeg,0,0,2,0.5,0,0,0,0,0,3
+,afek,3,2,2,3,2,1,2,0.5,1,2
+,form,0,0.5,0.5,0,0,0,0,0,0.5,0
+,inter,3,3,1,3,3,2,3,3,1,3
+,spont,3,3,3,3,3,3,3,3,2,3
+,imp,0,0,0,1,0.5,0.5,0,1,0,1
+,arg,1,2,1,2,0.5,0.5,0.5,1,1,0
+,inst,1,1,0,0,0.5,0,1,0,2,0
+,keer,3,2,0,2,2,0,0,1,0,2
+,subj,3,3,3,3,3,3,3,0.5,2,1
+arvamus_postimees_ee.ela_5946.txt,abs,2,2,1,0,0,0,0.5,0.5,0,0.5
+,info,0.5,0.5,1,0.5,0.5,2,2,3,1,0.5
+,aeg,1,1,1,1,1,1,0,0,0,1
+,afek,2,1,0,1,2,2,1,1,0.5,1
+,form,0.5,0.5,2,0,0,0,0,0.5,1,0
+,inter,2,0,1,0,0,0,1,0,3,0
+,spont,0,0,0.5,0,0,0,0,1,0,0
+,imp,0.5,0,0,2,0,0.5,2,0,1,0.5
+,arg,0,1,0,0,2,0.5,1,0.5,1,0.5
+,inst,0,0,1,1,2,0.5,0,0,3,0
+,keer,1,0.5,1,0.5,0.5,0,1,0,2,0
+,subj,1,1,1,1,1,3,0.5,2,1,1
+www_porterracing_ee.ela_609577.txt,abs,0,0,0,0,1,0,0.5,0.5,0,0.5
+,info,2,0.5,2,1,2,1,2,1,0,2
+,aeg,3,2,2,2,0.5,0,3,0.5,0,2
+,afek,2,2,1,2,1,0.5,3,0.5,3,3
+,form,0.5,0.5,0,0.5,0.5,0,0,0,0,0
+,inter,0,0,0,0,0,0,0,0,0.5,0
+,spont,0,0,2,0,1,2,2,0,2,1
+,imp,1,0.5,0.5,2,2,0.5,1,1,0.5,1
+,arg,0,0.5,0,0,0,1,1,0,0,0
+,inst,0.5,0.5,0.5,0.5,0.5,1,1,0,0,0
+,keer,1,0,0,1,0,0,0.5,0,0,0.5
+,subj,3,2,3,0.5,2,1,2,2,3,1
+www_naisteleht_ee.ela_355886.txt,abs,2,2,2,1,2,0,2,2,1,2
+,info,0,0.5,1,0.5,0.5,0,0.5,0,0,0.5
+,aeg,0,0,0.5,0,0.5,1,1,2,0,0.5
+,afek,2,1,3,3,2,3,3,2,3,3
+,form,0,0,0,0,0,0,0,0,0,0
+,inter,1,2,0,1,0,0,2,0,2,0
+,spont,1,1,1,1,1,2,2,0,0.5,0
+,imp,0,0,0,0,0.5,0.5,0,0.5,0.5,0.5
+,arg,1,0.5,1,0.5,0.5,0.5,0.5,0.5,2,0.5
+,inst,2,2,2,2,2,2,0.5,0,0,0
+,keer,0,0,0,0,0,0,0,0,2,0
+,subj,1,0.5,1,2,0.5,1,1,1,1,1
+toompark_pri_ee.ela_458650.txt,abs,2,1,0,0,3,0,2,2,2,1
+,info,1,0,1,1,0.5,0,0.5,1,0,0.5
+,aeg,1,0.5,0.5,0.5,0,0,1,0.5,0,0.5
+,afek,1,2,2,2,3,3,3,3,3,1
+,form,1,1,0.5,0,0.5,0,0,0,0,0
+,inter,1,2,0.5,0,0,0,0,0,3,0
+,spont,0,0,2,1,1,3,2,1,3,2
+,imp,1,0,0,0,0,0,2,0.5,0.5,0
+,arg,2,1,1,1,1,1,0.5,0.5,2,1
+,inst,1,0,1,1,0.5,3,0,1,3,0
+,keer,1,1,0,0,0,0,0.5,0,1,0
+,subj,3,3,3,3,3,3,3,2,3,3
+reisiajakiri_gomaailm_ee.ela_530539.txt,abs,0,0,0,0,0,0,0.5,0.5,0.5,0
+,info,2,1,1,1,1,1,2,3,0,2
+,aeg,1,1,1,1,0.5,1,3,2,0,2
+,afek,1,1,1,2,1,2,2,0,1,0
+,form,0.5,0.5,0,0,0,2,0.5,0,0,0
+,inter,1,0,1,0,0,0,1,0,1,0
+,spont,0,0,2,0,1,3,2,0,2,0
+,imp,2,0,0,0.5,0,0,0,0,0.5,0
+,arg,0,0,1,1,0.5,0,1,0,0.5,0
+,inst,0,1,0,0,2,2,0,0,1,0
+,keer,0,0,0,0,0,0,0,0,0.5,0
+,subj,1,1,1,1,1,1,2,0.5,3,0
+et_wikipedia_org.ela_467359.txt,abs,0,0,0,0,0,0.5,0.5,0,1,0
+,info,0.5,0.5,1,0.5,1,1,1,1,0,0.5
+,aeg,1,1,1,0.5,1,2,0.5,0.5,0,1
+,afek,0.5,0,0.5,0.5,0,0.5,0,0.5,0.5,0
+,form,0,2,1,0,0,1,0,0,0,0
+,inter,0,0.5,0,0,0,0,0,0,2,0
+,spont,0,1,0,1,2,0,0,0,1,0
+,imp,3,0.5,1,0.5,0.5,0,0.5,1,0.5,0
+,arg,0.5,0,0,0.5,0,0,1,0.5,0.5,2
+,inst,0,0,0,0.5,0.5,1,0.5,0,0,0
+,keer,2,0.5,0,0.5,0,0,1,0.5,1,0.5
+,subj,0,0,0,0,0,1,0,1,1,0
+www_horisont_ee.ela_455809.txt,abs,2,1,0,0,3,2,2,1,0,1
+,info,1,0.5,3,2,1,3,0,3,1,2
+,aeg,0,0,2,2,0.5,0.5,2,2,0,3
+,afek,0,0,0.5,1,0.5,1,0,0.5,0.5,0.5
+,form,0,2,0,0,1,0,0.5,0,1,1
+,inter,0,0.5,0,1,0,0,1,0,0,0
+,spont,0,0,0.5,0,0,0.5,0,0,0,0
+,imp,3,2,2,0.5,0.5,1,2,2,3,2
+,arg,1,2,1,1,1,2,0.5,2,0.5,0.5
+,inst,0,0,0,2,2,0,0,0,1,0
+,keer,0.5,2,1,2,1,0,2,0,1,2
+,subj,0,0,0,0,0,0,0.5,0.5,1,0
+untitled.txt,abs,2,2,2,1,3,1,3,0.5,0,1
+,info,1,1,1,0.5,1,0.5,0,1,0,1
+,aeg,2,1,1,2,0,0,0,0,0,2
+,afek,1,1,1,2,1,1,2,2,3,2
+,form,0.5,0.5,1,0,0.5,0.5,0.5,0,0,0
+,inter,0,0,1,0,0,0,0,0,2,0
+,spont,0,0,1,0.5,0.5,1,0,0,0,1
+,imp,1,0,1,1,2,1,1,0.5,0.5,1
+,arg,0,0,0,0,0,1,2,0,0.5,0
+,inst,1,0.5,1,2,0.5,0,1,0,2,0
+,keer,0,1,0,0.5,0.5,0,0,0,1,0
+,subj,0,0,0.5,0,0,0.5,0,0.5,0.5,0
+www_tallegg_ee.ela_33687.txt,abs,0,1,0,0,2,0,1,2,0,0
+,info,0.5,3,0.5,0.5,2,2,0,3,0,0
+,aeg,0,0,0,0.5,0,1,1,0,0,0.5
+,afek,1,2,0.5,1,0.5,2,1,1,3,3
+,form,0,0,0,0,0,0,0.5,0.5,0.5,0
+,inter,0.5,0.5,0,0.5,0,0,2,0,0.5,0
+,spont,1,1,0,0.5,2,2,3,0,2,0
+,imp,0.5,0,2,0,1,0,0,0,0,2
+,arg,2,1,0.5,0.5,1,1,0,0.5,0,1
+,inst,3,2,3,0.5,2,2,2,0.5,0,0
+,keer,0,0,1,2,2,0,0,0,0,1
+,subj,1,0,2,1,1,1,0.5,1,3,0.5
+eok_ee.ela_435890.txt,abs,0.5,0.5,0,0.5,0.5,1,1,1,1,1
+,info,3,2,3,2,3,2,2,2,2,1
+,aeg,3,3,0.5,0.5,2,2,1,1,3,3
+,afek,0,0,0,1,0,1,1,0.5,1,0.5
+,form,2,2,0,0,0.5,2,1,2,1,1
+,inter,0,0,1,0,0,0,1,0,1,0
+,spont,0,0,0.5,0,0,0,0,0,0,1
+,imp,3,0,0,0,0,1,2,1,0.5,0.5
+,arg,0.5,0,0,0,0,2,0,0,0,0
+,inst,0,0,0,0,2,1,0,0,1,0
+,keer,0.5,0.5,0.5,2,3,0,2,0,0,1
+,subj,0,0.5,0.5,0,1,1,1,0.5,1,1
+kalah_zzz_ee.ela_52237.txt,abs,3,2,3,1,3,3,3,3,3,3
+,info,2,0,2,2,0.5,0.5,0.5,0.5,0.5,3
+,aeg,0,0,0,2,0,0.5,0,0,1,1
+,afek,1,0.5,1,0.5,1,1,0.5,0,0,0
+,form,0,2,0,0,0,1,1,0,0,0
+,inter,1,1,1,1,1,0,0,0,0,0
+,spont,0,0,0,1,2,1,1,1,1,1
+,imp,3,2,1,0.5,2,3,3,2,3,3
+,arg,3,2,0.5,0,3,3,2,2,3,2
+,inst,0,0,0,1,0.5,1,0,0,3,0
+,keer,2,2,2,0.5,1,0,2,0,0.5,1
+,subj,0,2,2,0,3,1,3,0,0,1
+valitsus_ee.ela_480708.txt,abs,3,2,1,1,1,0,2,1,1,3
+,info,0,0.5,2,1,0.5,2,0,2,0,0.5
+,aeg,1,0,0.5,2,0,0.5,0.5,0,0,0.5
+,afek,1,2,3,1,3,3,0.5,2,3,0.5
+,form,0.5,0.5,0.5,0.5,0,1,1,1,2,0
+,inter,0,2,0,0,0,0.5,1,1,3,1
+,spont,0,0,0.5,0,0,1,1,0,0,0
+,imp,1,0,0,1,2,0,0.5,0.5,0.5,1
+,arg,3,2,1,0,0,0,2,2,1,0.5
+,inst,1,0,1,1,2,2,0,0,0,0
+,keer,0.5,2,1,0.5,0,0,0,0,0.5,0
+,subj,2,3,2,2,3,2,0.5,2,0.5,2
+www_kasutatudraamat_ee.ela_68759.txt,abs,1,0.5,1,0,2,0,0.5,0,0,1
+,info,0.5,1,1,0.5,0.5,0.5,0,0.5,1,2
+,aeg,0,0,0,2,0,2,2,1,0,2
+,afek,2,2,2,3,3,3,2,2,2,3
+,form,0,0,0,0,0,0.5,0.5,0.5,0.5,0.5
+,inter,3,2,3,2,2,2,3,0,3,2
+,spont,0,0,0,0,0,3,0,0,0,0
+,imp,0,0,0,1,0.5,0,0,0,0,0
+,arg,0,0,0,1,0,0,0,0,0,0
+,inst,0,0,0,0,0.5,0,0,0,0,0
+,keer,2,0.5,0,2,1,0,0,1,0,1
+,subj,0.5,1,0.5,0.5,1,3,0,2,0.5,0.5
+www_epl_ee.ela_685672.txt,abs,0,1,1,1,2,0,2,0.5,2,2
+,info,0.5,2,0.5,0.5,2,2,2,3,0,2
+,aeg,3,0,0,0,0,2,0,0,0,2
+,afek,2,2,3,3,3,2,2,1,3,3
+,form,0,0.5,0,0,0,0,0,0,0.5,0
+,inter,0,2,0,2,2,1,2,0,3,0
+,spont,2,1,2,2,2,2,2,1,2,2
+,imp,1,0.5,1,1,0.5,0,0,2,1,2
+,arg,3,3,3,2,3,0.5,2,2,2,1
+,inst,0,1,1,0,2,2,2,0,2,0
+,keer,0,0,1,2,1,0,0,0,1,2
+,subj,3,3,2,3,0.5,2,3,3,3,3
+unitedkiters_ee.ela_78733.txt,abs,3,0.5,0,0,2,0,0.5,2,0.5,0.5
+,info,0,3,1,1,0.5,0.5,0.5,1,0,0.5
+,aeg,0,1,1,2,1,0.5,1,1,1,0.5
+,afek,3,2,2,3,3,3,3,1,2,2
+,form,0.5,1,0.5,1,0.5,0.5,0.5,0.5,1,1
+,inter,0,0,1,0,0,0,0,0,1,0
+,spont,1,1,3,1,1,3,2,1,3,2
+,imp,0,0,0,1,2,0.5,1,0.5,0.5,1
+,arg,1,0,1,1,0.5,0.5,1,0,1,0.5
+,inst,0,0,0,1,0.5,0.5,1,0.5,0.5,0.5
+,keer,1,1,0,0.5,3,0,0,0.5,3,2
+,subj,1,1,0.5,1,2,3,2,1,3,2
+www_linnaleht_ee.ela_420357.txt,abs,0,0,0,1,0,0,1,1,0,0
+,info,0,0.5,0.5,0.5,0,0.5,1,2,0,1
+,aeg,1,1,1,1,0,0.5,1,0,0,0.5
+,afek,1,2,3,2,3,3,2,1,2,2
+,form,0,0.5,0,0,0,0,0,0,0,0
+,inter,3,2,3,1,1,0,1,0,2,0
+,spont,0.5,0,2,1,1,2,1,2,2,1
+,imp,1,1,1,0.5,1,0,0,0,0,0
+,arg,0,2,0.5,1,1,2,2,0,0,1
+,inst,1,1,1,1,1,0,0,0,2,0
+,keer,0,1,1,0,0,0,0.5,0,1,0.5
+,subj,2,3,2,2,3,3,2,2,3,1
+www_nami-nami_ee.ela_173054.txt,abs,0,0,0,0,0,0,0,0,0,0
+,info,2,1,3,3,0.5,2,3,0.5,0,3
+,aeg,0,3,3,3,3,2,3,0,0,2
+,afek,0,0,0,0,0,0,0,0,2,0
+,form,0,0.5,0,0,0,0,1,0,0,0
+,inter,0,2,0,1,0,1,2,0,0,0
+,spont,0,0,1,0,1,1,1,0,0,0
+,imp,1,3,1,0,2,1,0.5,0.5,3,1
+,arg,2,0,0,0,0,0.5,2,0,0,0
+,inst,3,3,3,3,3,3,3,2,3,3
+,keer,0,0,0,0,0,0,0,0.5,0.5,0
+,subj,0.5,1,0.5,0.5,1,0,0,0,2,0
+www_mulje_ee.ela_177932.txt,abs,3,0.5,0,1,2,0,2,1,0,2
+,info,0.5,2,1,0.5,0,0.5,0,2,0,2
+,aeg,1,2,2,3,0,0.5,2,2,0,2
+,afek,3,3,3,3,3,3,3,2,3,3
+,form,0,0,0,0,0,0,0.5,0.5,0.5,0.5
+,inter,3,3,3,3,3,3,2,2,3,3
+,spont,3,3,3,3,3,3,3,3,3,3
+,imp,0,0,0,0.5,0.5,0.5,0,0,0,1
+,arg,1,0,0,0,1,0.5,2,0,2,1
+,inst,0.5,1,0.5,0.5,1,0.5,0.5,0,3,0
+,keer,3,3,1,2,2,0,0.5,1,0,0
+,subj,1,2,3,1,0.5,3,3,0,3,0
+rahvahaal_delfi_ee.ela_135048.txt,abs,1,1,0,0,2,0,0.5,0,1,0.5
+,info,1,0.5,1,0.5,0.5,2,0,0.5,0,0.5
+,aeg,0.5,0,0.5,1,0,2,0.5,0.5,0,0.5
+,afek,3,2,3,2,3,2,3,2,3,2
+,form,0,0.5,0,0,0,0,0.5,0,0.5,0
+,inter,3,3,3,3,3,2,3,3,3,1
+,spont,3,3,3,3,3,3,3,3,3,3
+,imp,1,1,0,0,0.5,1,1,0.5,1,1
+,arg,3,1,2,1,2,1,0.5,0.5,1,0.5
+,inst,2,3,2,2,3,1,0.5,2,1,1
+,keer,1,1,0,0.5,0.5,0,0,0,2,1
+,subj,3,0.5,1,3,2,3,2,2,2,2
+valitsus_ee.ela_132104.txt,abs,0,0,0,2,0,2,0,0,0,2
+,info,3,3,3,0.5,3,0.5,1,1,2,1
+,aeg,0,0.5,0.5,0.5,0,0.5,1,0.5,0.5,1
+,afek,1,0.5,0.5,1,1,0,0,0,1,0
+,form,2,3,2,3,2,2,2,3,3,2
+,inter,0,0,0,0,0,0,1,0,1,0
+,spont,0,0,0,0,0,1,0.5,0,1,0.5
+,imp,3,3,1,2,3,2,3,2,2,3
+,arg,1,1,1,0,1,2,3,0,3,2
+,inst,1,0,0,1,1,2,2,1,2,0
+,keer,2,0.5,2,2,0.5,0,1,0.5,0.5,2
+,subj,0,0,1,0,0,0,0,0,0.5,1
+www_vsport_ee.ela_120496.txt,abs,0,0,0,0,0,0.5,0,0,0,0.5
+,info,0.5,3,3,3,0,2,3,3,0.5,3
+,aeg,3,3,3,3,2,2,3,2,2,3
+,afek,0,0,0,1,1,0.5,0.5,1,3,1
+,form,1,1,0,1,1,0.5,2,0,1,1
+,inter,3,0.5,2,0,0,0,0,1,0,0
+,spont,0,0,0,0,2,0,0,0,0,0
+,imp,3,0,0,2,0.5,2,0,0.5,0.5,1
+,arg,0,0,0.5,0.5,0.5,0.5,1,1,0.5,1
+,inst,0,0,0,3,3,0,0,0,2,0
+,keer,0.5,2,0.5,0.5,2,1,1,0,0.5,2
+,subj,0,0,0,1,0,0.5,0,2,1,0
+www_lemmik_ee.ela_519214.txt,abs,0,0,0,0,0,0,0,1,0,0.5
+,info,1,1,0.5,0.5,1,0.5,0.5,0.5,0,1
+,aeg,1,1,0,0.5,0.5,0,0.5,0,0,2
+,afek,0,0,0,0,0,1,1,1,2,1
+,form,0.5,2,0,0,1,0.5,0,0.5,0,0
+,inter,1,1,1,1,0,1,0,0,3,1
+,spont,0,0,1,0,0,0,1,0,0,0
+,imp,1,1,1,0.5,1,1,0.5,0.5,1,1
+,arg,1,0,0.5,1,0,0.5,1,0.5,0.5,0.5
+,inst,0,0.5,1,0.5,0,0,0.5,1,1,0.5
+,keer,0.5,1,0.5,0,0.5,0,1,0.5,1,0.5
+,subj,0,0,0,0,0,1,2,0,0,0
+no_spam_ee.ela_2227.txt,abs,2,0,0,0.5,0,1,0,0,0,2
+,info,3,3,3,2,3,2,2,2,1,3
+,aeg,0,0,0,1,0,1,2,1,0,0.5
+,afek,0,0,0,0,0,1,0,0,0,0
+,form,3,3,3,3,3,2,3,3,3,3
+,inter,2,2,0,1,0,1,0,0,1,0
+,spont,0,0,0,0,0,0,0,0,0,0
+,imp,1,2,2,2,2,1,0.5,0.5,3,0.5
+,arg,3,3,2,2,0.5,2,2,3,3,3
+,inst,1,2,3,2,1,0,1,1,3,0
+,keer,2,3,2,1,2,2,2,1,2,0.5
+,subj,0,0,0,0,0,0,0,0,0,0
+reform_ee.ela_24983.txt,abs,3,0,1,1,0,0.5,1,2,2,3
+,info,0.5,0.5,1,1,0.5,0.5,0.5,0.5,0.5,1
+,aeg,0,1,1,1,1,0.5,0,0.5,0,1
+,afek,1,1,2,0,1,1,0,1,1,0
+,form,0.5,0.5,0,0,0.5,0,2,0,3,0
+,inter,1,2,0,0,0,0,0.5,0,0.5,0
+,spont,0,0,1,0,0,0,0,0,0,0
+,imp,1,1,1,2,1,0.5,3,0.5,2,1
+,arg,3,3,1,2,2,0.5,2,0.5,2,0.5
+,inst,1,3,2,2,3,2,0,2,3,2
+,keer,0,0,0.5,0,0.5,0,2,0,2,0
+,subj,2,3,1,1,2,1,0,1,0,1
+www_admiralmarkets_ee.ela_333517.txt,abs,0,3,1,0,0,2,0,0.5,0.5,1
+,info,2,2,3,0.5,2,2,2,2,2,3
+,aeg,0,3,2,2,0.5,2,1,2,1,3
+,afek,0,0,0,0,0,0,0,1,0,0
+,form,1,2,0.5,1,2,2,2,0.5,0.5,0.5
+,inter,0,0,0,0,0,0,0,0,0,0
+,spont,0,0,0,0,0,0,0,0,0,0
+,imp,3,3,3,2,3,2,0,1,1,3
+,arg,0.5,0,1,0,1,1,0.5,0.5,1,1
+,inst,0,1,0.5,0.5,1,2,0,0,1,0
+,keer,0,1,2,1,2,0,1,0.5,0.5,0.5
+,subj,0.5,1,0,0,0.5,0,0,0,0,0
+www_post_ee.ela_149870.txt,abs,0,0,0,0,0,1,0,0,0,2
+,info,0.5,1,1,0.5,1,0.5,3,3,0.5,3
+,aeg,1,0.5,0.5,0.5,1,2,1,3,0,3
+,afek,0.5,0,0.5,0.5,0.5,1,0,0,0,0
+,form,3,3,3,2,2,2,3,2,1,0.5
+,inter,0.5,0,0,0,0,0,2,0,1,0
+,spont,0,0,0,0,0,0.5,0.5,0.5,0.5,0.5
+,imp,3,3,3,1,2,0,0,2,3,2
+,arg,1,0,0,0,0,0,1,0,0.5,0
+,inst,2,2,2,2,1,0,2,1,1,2
+,keer,0,0.5,1,0,0,0,1,0,0,0
+,subj,1,1,1,0.5,1,0.5,1,0.5,0.5,0
+www_reklaamitrikk_ee.ela_315713.txt,abs,0.5,3,1,0,1,0,0,1,0,0.5
+,info,3,1,3,0,2,2,1,1,2,1
+,aeg,3,2,2,2,1,0.5,3,1,0,1
+,afek,1,0.5,1,1,1,1,1,1,1,3
+,form,0,0,0,0,0,0,1,0,0,0
+,inter,0.5,0,1,0,0,0,1,0,1,0
+,spont,1,0,1,1,2,0.5,1,0,1,2
+,imp,1,0,1,0.5,0.5,0,3,0.5,1,2
+,arg,0.5,2,3,2,3,2,0.5,0,0,1
+,inst,0.5,0.5,0.5,0.5,0,0.5,0,0,0.5,0
+,keer,0,2,0,1,1,0.5,0.5,0.5,0.5,0.5
+,subj,3,3,3,2,3,0.5,2,2,2,3
+www_lillelapsed_ee.ela_607751.txt,abs,1,0,0,0.5,0,0,0,2,1,0.5
+,info,1,1,1,2,1,0.5,0.5,1,0,0.5
+,aeg,1,2,2,2,1,0.5,1,0.5,0,1
+,afek,0,0,1,0,0,1,0,1,3,0
+,form,0,0.5,0,0,1,0.5,0.5,1,1,0.5
+,inter,3,3,1,0,0,1,3,0,3,0
+,spont,1,0.5,1,1,1,1,1,0,1,1
+,imp,3,0,0,0,0,0.5,0,0.5,2,3
+,arg,2,3,0,1,1,2,2,0,2,1
+,inst,3,3,3,3,3,2,3,1,3,3
+,keer,0,0.5,0,0.5,0,0,0,0,0,0
+,subj,0.5,0,0,0,2,1,1,0.5,1,1
+kaja_ekstreem_ee.ela_71641.txt,abs,0.5,1,0,0,0.5,0,1,0.5,0,2
+,info,0.5,0.5,1,2,2,2,2,3,0,2
+,aeg,3,0.5,3,3,2,2,3,2,1,3
+,afek,2,1,1,1,1,1,2,1,2,0
+,form,0,0.5,0,0,0,0,0.5,0.5,0.5,0
+,inter,1,1,1,0,0,0,1,0,1,0
+,spont,0,0,0,0,0,0,1,0,1,1
+,imp,0,1,1,3,2,0.5,0,2,1,1
+,arg,0,0,0,0,1,0.5,1,0,0.5,0.5
+,inst,1,1,1,1,1,1,0,0,0,0
+,keer,0,2,0,2,1,0,1,0,1,0
+,subj,2,1,1,1,0.5,1,1,0.5,2,2
+herba_folklore_ee.ela_93408.txt,abs,1,2,0,0,0.5,0,0,0,0,0.5
+,info,1,1,3,3,2,2,2,3,0.5,3
+,aeg,1,0,0,0.5,0,0.5,0.5,0,0,1
+,afek,0,0,0.5,0,1,1,1,0,0.5,0.5
+,form,1,3,0,0,3,2,2,2,3,3
+,inter,0,0.5,0,0,0,0,0,0,0,0
+,spont,0,0,0,0,0,0,0,0,0,0
+,imp,3,3,3,0.5,3,3,1,2,3,3
+,arg,1,1,0,0.5,0.5,0.5,1,0.5,0.5,0.5
+,inst,0,0,0,1,0,0.5,1,0.5,1,0.5
+,keer,0,0.5,0,2,2,0,0.5,0,0.5,0
+,subj,0,0,0,0,0,0,0,0,0,0
+www_employers_ee.ela_617415.txt,abs,0,2,0,0,0.5,0,0,0,0,2
+,info,2,3,3,2,2,0.5,0.5,1,2,1
+,aeg,1,1,1,0.5,1,2,2,1,0,3
+,afek,0,0,0,0,0,1,0.5,0.5,0.5,1
+,form,1,2,0,0,2,2,2,2,2,2
+,inter,0,0,0,0,0,0.5,1,0,1,0.5
+,spont,0,0,0,0,0,0,0,0,0,1
+,imp,3,1,1,0,2,3,2,2,0.5,2
+,arg,2,0,1,1,1,2,1,0.5,0.5,3
+,inst,0,0,0,0,0,2,0,0,2,0
+,keer,0,2,1,0.5,0.5,0,2,0,1,1
+,subj,0,1,0,0,0,0.5,0,0,0,0
