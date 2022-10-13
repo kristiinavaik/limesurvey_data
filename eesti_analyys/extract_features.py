@@ -15,9 +15,10 @@ lexicon_dir = './lexicons'
 
 # lexicons
 core_verbs = [line.strip() for line in open(f"{lexicon_dir}/core_verbs")]
+yneemid = [line.strip() for line in open(f"{lexicon_dir}/yneemid")] # võtsin siit: https://www.cl.ut.ee/suuline/Transk.php (saaks alati täiendada)
+emoticons = [line.strip() for line in open(f"{lexicon_dir}/wikipedia_emoticons_list.txt")]
 
 constant = 1
-
 
 @dataclass
 class WordInfo:
@@ -365,6 +366,14 @@ class Text:
     def get_cc(self) -> float:
         return (len([w for w in self.words_info if re.match(w.dep, 'cc')]) + constant) / self.get_text_length()
 
+    # lexicons
+
+    def get_yneemid(self) -> float:
+        return (len([w for w in self.raw_text if w in yneemid]) + constant) / self.get_text_length()
+
+    def get_emoticons(self) -> float:
+        return (len([word for word in self.raw_text if word in emoticons]) + constant) / self.get_text_length()
+
     def get_feature_mapping(self):
         return {
             'file_id': self.file_id,
@@ -444,141 +453,14 @@ class Text:
             'voc': self.get_vocative(),
             'cop': self.get_cop(),
             'conj': self.get_conj(),
-            'cc': self.get_cc()
+            'cc': self.get_cc(),
+            'yneemid': self.get_yneemid(),
+            'emoticons': self.get_emoticons(),
         }
 
 
 def main():
-    # input_text = [
-    #     "www_le_ee.ela_240831", 14,
-    #     [
-    #         ["Eile", "eile", "ADV", "_", "advmod"], ["öösel", "öösel", "ADV", "_", "advmod"],
-    #         ["hävis", "hävima", "VERB", "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act", "root"],
-    #         ["suur", "suur", "ADJ", "Case=Nom|Degree=Pos|Number=Sing", "amod"],
-    #         ["osa", "osa", "NOUN", "Case=Nom|Number=Sing", "nsubj"],
-    #         ["Tokoi", "Tokoi", "PROPN", "Case=Gen|Number=Sing", "nmod"],
-    #         ["pansionaadi", "pansionaat", "NOUN", "Case=Gen|Number=Sing", "nmod"],
-    #         ["sisemusest", "sisemus", "NOUN", "Case=Ela|Number=Sing", "nmod"],
-    #         [",", ",", "PUNCT", "_", "punct"],
-    #         ["külvatud", "külva=tud", "VERB", "Tense=Past|VerbForm=Part|Voice=Pass", "acl:relcl"],
-    #         ["ajaloolises", "aja_looline", "ADJ", "Case=Ine|Degree=Pos|Number=Sing", "amod"],
-    #         ["majas", "maja", "NOUN", "Case=Ine|Number=Sing", "conj"],
-    #         ["Suur–Lossi", "Suur–Loss", "PROPN", "Case=Gen|Number=Sing", "nmod"],
-    #         ["tänaval", "tänav", "NOUN", "Case=Ade|Number=Sing", "nmod"],
-    #         ["põlengu", "põleng", "NOUN", "Case=Gen|Number=Sing", "obl"],
-    #         ["ajal", "ajal", "ADP", "AdpType=Post", "case"],
-    #         ["inimesi", "inimene", "NOUN", "Case=Par|Number=Plur", "nsubj:cop"],
-    #         ["polnud", "olema", "AUX", "Mood=Ind|Polarity=Neg|Tense=Past|VerbForm=Fin|Voice=Act", "cop"],
-    #         ["ja", "ja", "CCONJ", "_", "cc"],
-    #         ["keegi", "keegi", "PRON", "Case=Nom|Number=Sing|PronType=Ind", "nsubj"],
-    #         ["vigastada", "vigastama", "VERB", "VerbForm=Inf", "conj"],
-    #         ["ei", "ei", "AUX", "Polarity=Neg", "aux"],
-    #         ["saanud", "saama", "AUX", "Connegative=Yes|Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Act", "aux"],
-    #         [".", ".", "PUNCT", "_", "punct"],
-    #         ["Päästekeskus", "pääste_keskus", "NOUN", "Case=Nom|Number=Sing", "nsubj"],
-    #         ["sai", "saama", "VERB", "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act", "root"],
-    #         ["Suur–Lossi", "Suur–Loss", "PROPN", "Case=Gen|Number=Sing", "obl"],
-    #         ["24", "24", "NUM", "Case=Gen|NumForm=Digit|NumType=Card|Number=Sing", "nummod"],
-    #         ["asuva", "asuv", "ADJ", "Case=Gen|Degree=Pos|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Act", "acl"],
-    #         ["maja", "maja", "NOUN", "Case=Gen|Number=Sing", "nmod"],
-    #         ["põlengust", "põleng", "NOUN", "Case=Ela|Number=Sing", "obl"],
-    #         ["teate", "teade", "NOUN", "Case=Gen|Number=Plur", "obj"],
-    #         ["kell", "kell", "NOUN", "Case=Nom|Number=Sing", "obl"],
-    #         ["5.06", "5.06", "NUM", "NumForm=Digit|NumType=Card", "nummod"],
-    #         [".", ".", "PUNCT", "_", "punct"],
-    #         ["Kohale", "kohale", "ADV", "_", "compound:prt"],
-    #         ["sõitsid", "sõitma", "VERB", "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act", "root"],
-    #         ["kaks", "kaks", "NUM", "Case=Nom|NumForm=Word|NumType=Card|Number=Sing", "nummod"],
-    #         ["Haapsalu", "Haap_salu", "PROPN", "Case=Par|Number=Sing", "nsubj"],
-    #         [",", ",", "PUNCT", "_", "punct"],
-    #         ["kaks", "kaks", "NUM", "Case=Nom|NumForm=Word|NumType=Card|Number=Sing", "nummod"],
-    #         ["Risti", "Rist", "PROPN", "Case=Par|Number=Sing", "conj"],
-    #         ["ja", "ja", "CCONJ", "_", "cc"],
-    #         ["üks", "üks", "DET", "Case=Nom|Number=Sing|PronType=Ind", "det"],
-    #         ["Pürksi", "Pürksi", "PROPN", "Case=Gen|Number=Sing", "nmod"],
-    #         ["päästekomando", "pääste_komando", "NOUN", "Case=Gen|Number=Sing", "nmod"],
-    #         ["ekipaaž", "ekipaaž", "NOUN", "Case=Nom|Number=Sing", "conj"],
-    #         [".", ".", "PUNCT", "_", "punct"],
-    #         ["Päästjad", "päästja", "NOUN", "Case=Nom|Number=Plur", "nsubj"],
-    #         ["said", "saama", "VERB", "Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin|Voice=Act", "root"],
-    #         ["tulele", "tuli", "NOUN", "Case=All|Number=Sing", "obl"],
-    #         ["piiri", "piir", "NOUN", "Case=Gen|Number=Sing", "obj"],
-    #         ["kl", "kl", "NOUN", "Abbr=Yes", "appos"],
-    #         ["5.58", "5.58", "NUM", "NumForm=Digit|NumType=Card", "flat"],
-    #         ["ja", "ja", "CCONJ", "_", "cc"],
-    #         ["kustutustöö", "kustutus_töö", "NOUN", "Case=Nom|Number=Sing", "obj"],
-    #         ["lõpetati", "lõpetama", "VERB", "Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass", "conj"],
-    #         ["kl", "kl", "NOUN", "Abbr=Yes", "obl"],
-    #         ["9.39", "9.39", "NUM", "NumForm=Digit|NumType=Card", "nummod"],
-    #         [".", ".", "PUNCT", "_", "punct"],
-    #         ["Kella", "kell", "NOUN", "Case=Gen|Number=Sing", "obl"],
-    #         ["kaheksa", "kaheksa", "NUM", "Case=Gen|NumForm=Word|NumType=Card|Number=Sing", "obl"],
-    #         ["ajal", "ajal", "ADP", "AdpType=Post", "case"],
-    #         ["põlengupaika", "põlengu_paik", "NOUN", "Case=Gen|Number=Sing", "obj"],
-    #         ["jõudnud", "jõud=nud", "ADJ", "Degree=Pos|Tense=Past|VerbForm=Part|Voice=Act", "acl"],
-    #         ["päästeteenistuse", "pääste_teenistus", "NOUN", "Case=Gen|Number=Sing", "nmod"],
-    #         ["Haapsalu", "Haap_salu", "PROPN", "Case=Gen|Number=Sing", "nmod"],
-    #         ["komando", "komando", "NOUN", "Case=Gen|Number=Sing", "nmod"],
-    #         ["operatiivkorrapidaja", "operatiiv_korra_pidaja", "NOUN", "Case=Nom|Number=Sing", "nsubj"],
-    #         ["Hannes", "Hannes", "PROPN", "Case=Nom|Number=Sing", "appos"],
-    #         ["Kliss", "Kliss", "PROPN", "Case=Nom|Number=Sing", "flat"],
-    #         ["ütles", "ütlema", "VERB", "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act", "root"],
-    #         [",", ",", "PUNCT", "_", "punct"],
-    #         ["et", "et", "SCONJ", "_", "mark"],
-    #         ["maja", "maja", "NOUN", "Case=Gen|Number=Sing", "nmod"],
-    #         ["sisustus", "sisustus", "NOUN", "Case=Nom|Number=Sing", "nsubj"],
-    #         ["on", "olema", "AUX", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act", "aux"],
-    #         ["hävinud", "hävima", "VERB", "Tense=Past|VerbForm=Part|Voice=Act", "ccomp"],
-    #         [".", ".", "PUNCT", "_", "punct"], ["„", "\"", "PUNCT", "_", "punct"],
-    #         ["Õhtul", "õhtu", "NOUN", "Case=Ade|Number=Sing", "obl"],
-    #         ["oli", "olema", "AUX", "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act", "aux"],
-    #         ["keegi", "keegi", "PRON", "Case=Nom|Number=Sing|PronType=Ind", "nsubj"],
-    #         ["seal", "seal", "ADV", "_", "advmod"],
-    #         ["kütmas", "kütma", "VERB", "Case=Ine|VerbForm=Sup|Voice=Act", "xcomp"],
-    #         ["käinud", "käima", "VERB", "Tense=Past|VerbForm=Part|Voice=Act", "root"],
-    #         ["ja", "ja", "CCONJ", "_", "cc"],
-    #         ["oli", "olema", "AUX", "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act", "aux"],
-    #         ["katlale", "katlas", "NOUN", "Case=All|Number=Sing", "obl"],
-    #         ["pilgu", "pilk", "NOUN", "Case=Gen|Number=Sing", "obj"],
-    #         ["peale", "peale", "ADP", "AdpType=Post", "case"],
-    #         ["heitnud", "heitma", "VERB", "Tense=Past|VerbForm=Part|Voice=Act", "conj"],
-    #         [".", ".", "PUNCT", "_", "punct"],
-    #         ["Kõik", "kõik", "DET", "Case=Nom|Number=Plur|PronType=Tot", "det"],
-    #         ["märgid", "märk", "NOUN", "Case=Nom|Number=Plur", "nsubj"],
-    #         ["näitavad", "näitama", "VERB", "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act", "root"],
-    #         ["seda", "see", "PRON", "Case=Par|Number=Sing|PronType=Dem", "obj"],
-    #         [",", ",", "PUNCT", "_", "punct"], ["kuid", "kuid", "CCONJ", "_", "cc"],
-    #         ["see", "see", "PRON", "Case=Nom|Number=Sing|PronType=Dem", "nsubj:cop"],
-    #         ["on", "olema", "AUX", "Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act", "cop"],
-    #         ["minu", "mina", "PRON", "Case=Gen|Number=Sing|Person=1|PronType=Prs", "nmod"],
-    #         ["isiklik", "isiklik", "ADJ", "Case=Nom|Degree=Pos|Number=Sing", "amod"],
-    #         ["arvamus", "arvamus", "NOUN", "Case=Nom|Number=Sing", "conj"],
-    #         [",", ",", "PUNCT", "_", "punct"], ["et", "et", "SCONJ", "_", "mark"],
-    #         ["tuli", "tulema", "VERB", "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act", "acl"],
-    #         ["sai", "saama", "VERB", "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act", "csubj"],
-    #         ["alguse", "algus", "NOUN", "Case=Gen|Number=Sing", "obj"],
-    #         ["katlaruumist", "katla_ruum", "NOUN", "Case=Ela|Number=Sing", "obl"],
-    #         ["ja", "ja", "CCONJ", "_", "cc"],
-    #         ["kütmisest", "kütmine", "NOUN", "Case=Ela|Number=Sing", "conj"],
-    #         [",", ",", "PUNCT", "_", "punct"],
-    #         ["”", "”", "PUNCT", "_", "punct"],
-    #         ["ütles", "ütlema", "VERB", "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act", "parataxis"],
-    #         ["ta", "tema", "PRON", "Case=Nom|Number=Sing|Person=3|PronType=Prs", "nsubj"],
-    #         ["ja", "ja", "CCONJ", "_", "cc"],
-    #         ["toonitas", "toonitama", "VERB", "Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act", "conj"],
-    #         [",", ",", "PUNCT", "_", "punct"],
-    #         ["et", "et", "SCONJ", "_", "mark"],
-    #         ["lõpliku", "lõplik", "ADJ", "Case=Gen|Degree=Pos|Number=Sing", "amod"],
-    #         ["hinnangu", "hinnang", "NOUN", "Case=Gen|Number=Sing", "obj"],
-    #         ["annavad", "andma", "VERB", "Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act", "ccomp"],
-    #         ["eksperdid", "ekspert", "NOUN", "Case=Nom|Number=Plur", "nsubj"],
-    #         ["uurimise", "uurimine", "NOUN", "Case=Gen|Number=Sing", "obl"],
-    #         ["järel", "järel", "ADP", "AdpType=Post", "case"],
-    #         [".", ".", "PUNCT", "_", "punct"]
-    #     ]]
-    #
-
-    f = 'limesrurvey_tekstid_morfiga_vol2.json'
+    f = 'limesurvey_tekstid_morfiga_vol2.json'
     texts = []
     with jsonlines.open(f) as reader:
         for obj in reader:
@@ -592,9 +474,9 @@ def main():
     'ind_mood', 'cond_mood', 'imp_mood', 'quot_mood', 'neg_polarity', 'nom_case', 'gen_case', 'part_case', 'ill_case',
     'ine_case', 'ela_case', 'alla_case', 'ade_case', 'abl_case', 'tra_case', 'ter_case', 'ess_case', 'abe_case',
     'com_case', 'nsubj', 'nsubj_cop', 'modal', 'acl:relc', 'csubj', 'csubj_cop', 'obj', 'ccomp', 'xcomp', 'obl', 'nmod',
-    'appos', 'nummod', 'amod', 'advcl', 'voc', 'cop', 'conj', 'cc',)
+    'appos', 'nummod', 'amod', 'advcl', 'voc', 'cop', 'conj', 'cc', 'yneemid', 'emoticons')
 
-    with open('limesurvey_feature_results.csv', 'w') as csvfile:
+    with open('limesurvey_feature_results2.csv', 'w') as csvfile:
         w = csv.DictWriter(csvfile, feature_names, delimiter=';')
         w.writeheader()
 
