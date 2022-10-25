@@ -3,6 +3,7 @@ from __future__ import annotations
 import csv
 import re
 from collections import Counter
+import collections
 from dataclasses import dataclass
 from typing import Tuple, Iterator, Sequence
 
@@ -104,8 +105,8 @@ class Text:
     def get_symbols(self) -> float:
         return (sum(pos == 'SYM' for pos in self.pos_tags) + constant) / self.get_text_length()
 
-    def get_particles(self) -> float:
-        return (sum(pos == 'PART' for pos in self.pos_tags) + constant) / self.get_text_length()
+    # def get_particles(self) -> float:
+    #     return (len([pos for pos in self.pos_tags if pos == 'PART']) + constant) / self.get_text_length()
 
     def get_prons(self) -> float:
         return (sum(pos == 'PRON' for pos in self.pos_tags) + constant) / self.get_text_length()
@@ -358,6 +359,7 @@ class Text:
         return (len([w for w in self.words_info if re.match(w.dep, 'cop')]) + constant) / self.get_text_length()
 
     def get_discourse(self) -> float:
+        # print(len([w for w in self.words_info if re.match(w.dep, 'discourse')]))
         return (len([w for w in self.words_info if re.match(w.dep, 'discourse')]) + constant) / self.get_text_length()
 
     def get_conj(self) -> float:
@@ -389,7 +391,8 @@ class Text:
             'num': self.get_num(),
             'punct': self.get_punct(),
             'symbol': self.get_symbols(),
-            'particle': self.get_particles(),
+            # 'particle': self.get_particles(),
+            'discourse': self.get_discourse(),
             'pron': self.get_prons(),
             'abbr': self.get_abbriviations(),
             # 'txt_len': # text.get_text_length
@@ -466,15 +469,24 @@ def main():
         for obj in reader:
             texts.append(obj)
 
+    # for t in texts:
+    #     text = Text.from_input(t)
+    #     d = {}
+    #     d[text.file_id] = text.get_discourse()
+    #
+    #     for k,v in sorted(d.items()):
+    #         print(f'{k} === {v}')
+
     feature_names = (
     'file_id', 'noun', 'adj', 'propn', 'adv', 'intj', 'cconj', 'sconj', 'adp', 'det', 'num', 'punct', 'symbol',
-    'particle', 'pron', 'abbr', 'TTR', 'avg_word_len', 'avr_sent_len', 'hapax_legomena', 'coref', 'see_pron', 'see_det',
+    'pron', 'abbr', 'TTR', 'avg_word_len', 'avr_sent_len', 'hapax_legomena', 'coref', 'see_pron', 'see_det',
     '1st_pron', '2nd_pron', '3rd_pron', 'active_voice', 'passive_voice', '1st_prs_verb', '2nd_prs_verb', '3rd_prs_verb',
-    'core_verb', 'verbtype_ratio', 'da_inf', 'gerund', 'supine', 'verb_particle', 'pres_tense', 'past_tense',
+    'core_verb', 'verbtype_ratio', 'da_inf', 'gerund', 'supine', 'verb_particle', 'discourse' , 'pres_tense', 'past_tense',
     'ind_mood', 'cond_mood', 'imp_mood', 'quot_mood', 'neg_polarity', 'nom_case', 'gen_case', 'part_case', 'ill_case',
     'ine_case', 'ela_case', 'alla_case', 'ade_case', 'abl_case', 'tra_case', 'ter_case', 'ess_case', 'abe_case',
     'com_case', 'nsubj', 'nsubj_cop', 'modal', 'acl:relc', 'csubj', 'csubj_cop', 'obj', 'ccomp', 'xcomp', 'obl', 'nmod',
     'appos', 'nummod', 'amod', 'advcl', 'voc', 'cop', 'conj', 'cc', 'yneemid', 'emoticons')
+
 
     with open('limesurvey_feature_results2.csv', 'w') as csvfile:
         w = csv.DictWriter(csvfile, feature_names, delimiter=';')
