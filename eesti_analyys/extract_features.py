@@ -361,7 +361,6 @@ class Text:
             'num': self.get_num(),
             'punct': self.get_punct(),
             'symbol': self.get_symbols(),
-            # 'particle': self.get_particles(),
             'discourse': self.get_discourse(),
             'pron': self.get_prons(),
             'abbr': self.get_abbriviations(),
