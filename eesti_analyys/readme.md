@@ -26,7 +26,7 @@ uus andmestik on 'limesurvey_result3.csv' ja 'limesurvey_feature_results_w_dims_
 ### IMP
 
 | Hinnang | Grupp I | Grupp II| (Grupp I + Grupp II)/2|
-| ------------- |----------------------------------------------|-----------------------------|
+| ------------- |----------|----------|--|
 | Tugev/mõõdukas (hinnang >= 2)| 35| 36 | 40|
 | Nõrk (hinnang <2 ja >= 1) | 18 | 19| 30|
 | Puudub (hinnang <=0.9 ja >=0)| 19| 18| 30|
@@ -35,7 +35,7 @@ uus andmestik on 'limesurvey_result3.csv' ja 'limesurvey_feature_results_w_dims_
 ### ARG
 
 | Hinnang | Grupp I | Grupp II| (Grupp I + Grupp II)/2|
-| ------------- |----------------------------------------------|-----------------------------|
+| ------------- |----------|----------|--|
 | Tugev/mõõdukas (hinnang >= 2)| 24| 22 | 25|
 | Nõrk (hinnang <2 ja >= 1) | 23 | 33| 42|
 | Puudub (hinnang <=0.9 ja >=0)| 28| 17|33|
@@ -44,7 +44,7 @@ uus andmestik on 'limesurvey_result3.csv' ja 'limesurvey_feature_results_w_dims_
 ### AFEK
 
 | Hinnang | Grupp I | Grupp II| (Grupp I + Grupp II)/2|
-| ------------- |----------------------------------------------|-----------------------------|
+| ------------- |----------|----------|--|
 | Tugev/mõõdukas (hinnang >= 2)| 22| 29 |30|
 | Nõrk (hinnang <2 ja >= 1) | 16 | 17|23|
 | Puudub (hinnang <=0.9 ja >=0)| 42| 24|50|
@@ -53,7 +53,7 @@ uus andmestik on 'limesurvey_result3.csv' ja 'limesurvey_feature_results_w_dims_
 ### KEER
 
 | Hinnang | Grupp I | Grupp II| (Grupp I + Grupp II)/2|
-| ------------- |----------------------------------------------|-----------------------------|
+| ------------- |----------|----------|--|
 | Tugev/mõõdukas (hinnang >= 2)| 16| 7 | 9|
 | Nõrk (hinnang <2 ja >= 1) |31| 22| 36|
 | Puudub (hinnang <=0.9 ja >=0)| 25| 61| 63|
@@ -63,7 +63,7 @@ uus andmestik on 'limesurvey_result3.csv' ja 'limesurvey_feature_results_w_dims_
 ### INTER
 
 | Hinnang | Grupp I | Grupp II| (Grupp I + Grupp II)/2|
-| ------------- |----------------------------------------------|-----------------------------|
+| ------------- |----------|----------|--|
 | Tugev/mõõdukas (hinnang >= 2)| 13| 9 | 10|
 | Nõrk (hinnang <2 ja >= 1) | 20 | 14| 19|
 | Puudub (hinnang <=0.9 ja >=0)| 52| 71| 85|
@@ -72,7 +72,7 @@ uus andmestik on 'limesurvey_result3.csv' ja 'limesurvey_feature_results_w_dims_
 ### FORM
 
 | Hinnang | Grupp I | Grupp II| (Grupp I + Grupp II)/2|
-| ------------- |----------------------------------------------|-----------------------------|
+| ------------- |----------|----------|--|
 | Tugev/mõõdukas (hinnang >= 2)| 15| 17 | 18|
 | Nõrk (hinnang <2 ja >= 1) | 25 | 26| 34|
 | Puudub (hinnang <=0.9 ja >=0)|42| 34| 54|
@@ -83,7 +83,7 @@ uus andmestik on 'limesurvey_result3.csv' ja 'limesurvey_feature_results_w_dims_
 ### ABS
 
 | Hinnang | Grupp I | Grupp II| (Grupp I + Grupp II)/2|
-| ------------- |----------------------------------------------|-----------------------------|
+| ------------- |----------|----------|--|
 | Tugev/mõõdukas (hinnang >= 2)| 8| 7 | 7|
 | Nõrk (hinnang <2 ja >= 1) | 35 | 33| 42|
 | Puudub (hinnang <=0.9 ja >=0)| 41| 52| 62|
