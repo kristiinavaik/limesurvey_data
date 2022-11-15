@@ -367,8 +367,18 @@ def get_dicts(input_f, ex_urls):
 
 def get_scores(dim_lst, aggregated_answers):
     for participant in aggregated_answers:
-        dim1, dim2, dim3, dim4, dim5, dim6, dim7, dim8, dim9, dim10, dim11, dim12 = \
-            [], [], [], [], [], [], [], [], [], [], [], []
+        dim1, dim1_scores = [], []
+        dim2, dim2_scores = [], []
+        dim3, dim3_scores = [], []
+        dim4, dim4_scores = [], []
+        dim5, dim5_scores = [], []
+        dim6, dim6_scores = [], []
+        dim7, dim7_scores = [], []
+        dim8, dim8_scores = [], []
+        dim9, dim9_scores = [], []
+        dim10, dim10_scores = [], []
+        dim11, dim11_scores = [], []
+        dim12, dim12_scores = [], []
         vastaja_nr = list(participant.keys())[0]
         print(f'vastaja nr: {vastaja_nr}')
         for line in participant.values():
@@ -385,55 +395,97 @@ def get_scores(dim_lst, aggregated_answers):
                     score_id = text_and_score[1]
                     text_url_first = text_urls[0]
                     text_url_second = text_urls[1]
-                    # print([dimension, text_url_first, text_url_second, text_id, score_id])
                     if text_id == 'T1':
-                        score = 1
-                    elif text_id == 'T2':
-                        score = -1
-                    else:
-                        score = 0
+                        texts = [text_url_first, text_url_second]
+                        scores = [score_mapping[score_id], -1]
 
-                    final_pair = (text_url_first, text_url_second, score)
+                    elif text_id == 'T2':
+                        texts = [text_url_second, text_url_first]
+                        scores = [score_mapping[score_id], -1]
+                    elif text_id == 'T3':
+                        texts = [text_url_first, text_url_second]
+                        scores = [0, 0]
+                        # first = [text_url_first, 0]
+                        # second = [text_url_second, 0]
 
                     # neid peab käsitsi sättima, vastavalt sellele, mis see konkreetne mapping on konkreetses sessioonis
                     if dimension == 'abs':
-                        dim1.append(final_pair)
+                        dim1.append(texts)
+                        dim1_scores.append(scores)
                     elif dimension == 'info':
-                        dim2.append(final_pair)
+                        dim2.append(texts)
+                        dim2_scores.append(scores)
                     elif dimension == 'aeg':
-                        dim3.append(final_pair)
+                        dim3.append(texts)
+                        dim3_scores.append(scores)
                     elif dimension == 'afek':
-                        dim4.append(final_pair)
+                        dim4.append(texts)
+                        dim4_scores.append(scores)
                     elif dimension == 'form':
-                        dim5.append(final_pair)
+                        dim5.append(texts)
+                        dim5_scores.append(scores)
                     elif dimension == 'inter':
-                        dim6.append(final_pair)
+                        dim6.append(texts)
+                        dim6_scores.append(scores)
                     elif dimension == 'inst':
-                        dim7.append(final_pair)
+                        dim7.append(texts)
+                        dim7_scores.append(scores)
                     elif dimension == 'keer':
-                        dim8.append(final_pair)
+                        dim8.append(texts)
+                        dim8_scores.append(scores)
                     elif dimension == 'subj':
-                        dim9.append(final_pair)
+                        dim9.append(texts)
+                        dim9_scores.append(scores)
                     elif dimension == 'spont':
-                        dim10.append(final_pair)
+                        dim10.append(texts)
+                        dim10_scores.append(scores)
                     elif dimension == 'imp':
-                        dim11.append(final_pair)
+                        dim11.append(texts)
+                        dim11_scores.append(scores)
                     elif dimension == 'arg':
-                        dim12.append(final_pair)
+                        dim12.append(texts)
+                        dim12_scores.append(scores)
 
 
-        print(f'abs;{dim1}')
-        print(f'info;{dim2}')
-        print(f'aeg;{dim3}')
-        print(f'afek;{dim4}')
-        print(f'form;{dim5}')
-        print(f'inter;{dim6}')
-        print(f'inst;{dim7}')
-        print(f'keer;{dim8}')
-        print(f'subj;{dim9}')
-        print(f'spont;{dim10}')
-        print(f'imp;{dim11}')
-        print(f'arg;{dim12}')
+        # abs = '; '.join([str(d) for dim in dim1 for d in dim])
+        # abs_scores = '; '.join([str(d) for dim in dim1_scores for d in dim])
+        # print(f'abs; {abs}; {abs_scores}')
+        # info = '; '.join([str(d) for dim in dim2 for d in dim])
+        # info_scores = '; '.join([str(d) for dim in dim2_scores for d in dim])
+        # print(f'info; {info}; {info_scores}')
+        # aeg = '; '.join([str(d) for dim in dim3 for d in dim])
+        # aeg_scores = '; '.join([str(d) for dim in dim3_scores for d in dim])
+        # print(f'aeg; {aeg}; {aeg_scores}')
+
+        # afek = '; '.join([str(d) for dim in dim4 for d in dim])
+        # afek_scores = '; '.join([str(d) for dim in dim4_scores for d in dim])
+        # print(f'afek; {afek}; {afek_scores}')
+        # form = '; '.join([str(d) for dim in dim5 for d in dim])
+        # form_scores = '; '.join([str(d) for dim in dim5_scores for d in dim])
+        # print(f'form; {form}; {form_scores}')
+        # inter = '; '.join([str(d) for dim in dim6 for d in dim])
+        # inter_scores = '; '.join([str(d) for dim in dim6_scores for d in dim])
+        # print(f'inter; {inter}; {inter_scores}')
+
+        # inst = '; '.join([str(d) for dim in dim7 for d in dim])
+        # inst_scores = '; '.join([str(d) for dim in dim7_scores for d in dim])
+        # print(f'inst; {inst}; {inst_scores}')
+        # keer = '; '.join([str(d) for dim in dim8 for d in dim])
+        # keer_scores = '; '.join([str(d) for dim in dim8_scores for d in dim])
+        # print(f'keer; {keer}; {keer_scores}')
+        # subj = '; '.join([str(d) for dim in dim9 for d in dim])
+        # subj_scores = '; '.join([str(d) for dim in dim9_scores for d in dim])
+        # print(f'subj; {subj}; {subj_scores}')
+        #
+        spont = '; '.join([str(d) for dim in dim10 for d in dim])
+        spont_scores = '; '.join([str(d) for dim in dim10_scores for d in dim])
+        print(f'spont; {spont}; {spont_scores}')
+        imp = '; '.join([str(d) for dim in dim11 for d in dim])
+        imp_scores = '; '.join([str(d) for dim in dim11_scores for d in dim])
+        print(f'imp; {imp}; {imp_scores}')
+        arg = '; '.join([str(d) for dim in dim12 for d in dim])
+        arg_scores = '; '.join([str(d) for dim in dim12_scores for d in dim])
+        print(f'arg; {arg}; {arg_scores}')
 
 
 if __name__ == "__main__":
