@@ -4,7 +4,7 @@ uus andmestik on 'limesurvey_result3.csv' ja 'limesurvey_feature_results_w_dims_
 
 |Hinnang|Grupp I|Grupp II|(Grupp I + Grupp II)/2|Grupp I & II ühisosa|(Grupp I või II) == ##|
 |-------|-------|-----|-----|-----|-----|
-|Tugev/mõõdukas (hinnang >= 2)          |26|28|31|21|8|
+|Tugev/mõõdukas (hinnang >= 2)          |26|28|31|21|9|
 |Nõrk (hinnang <2 ja >= 1)              |13|14|19| 6|9|
 |Mitteeksisteeriv (hinnang <=0.9 ja >=0)|40|36|53|21|31|
 |Pole teada                             |41|42|17|17|-|
