@@ -159,7 +159,7 @@ Need 16 on: [0.0, 1.0], [0.25, 1.333333333], [1.8, 2.0], [0.6, 1.2], [0.6, 1.4],
 |Hinnang|Grupp I|Grupp II|(Grupp I + Grupp II)/2|Grupp I & II ühisosa|(Grupp I või II) == ##|
 |-------|-------|-----|-----|-----|-----|
 | Tugev/mõõdukas (hinnang >= 2)          |23|14|19|12|4|
-| Nõrk (hinnang <2 ja >= 1)              |30|40|48|24|24|
+| Nõrk (hinnang <2 ja >= 1)              |30|40|48|15|24|
 | Mitteeksisteeriv (hinnang <=0.9 ja >=0)| 7|20|23| 1|18|
 | Pole teada                             |60|46|30|30|-|
 |Kokku                                   |120|120|120|58|46|
