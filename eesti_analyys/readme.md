@@ -4,7 +4,7 @@ uus andmestik on 'limesurvey_result3.csv' ja 'limesurvey_feature_results_w_dims_
 
 |Hinnang|Grupp I|Grupp II|(Grupp I + Grupp II)/2|Grupp I & II ühisosa|(Grupp I või II) == ##|
 |-------|-------|-----|-----|-----|-----|
-|Tugev/mõõdukas (hinnang >= 2)          |26|28|31|21|8|
+|Tugev/mõõdukas (hinnang >= 2)          |26|28|31|21|9|
 |Nõrk (hinnang <2 ja >= 1)              |13|14|19| 6|9|
 |Mitteeksisteeriv (hinnang <=0.9 ja >=0)|40|36|53|21|31|
 |Pole teada                             |41|42|17|17|-|
@@ -53,7 +53,7 @@ Need 14:
 
 |Hinnang|Grupp I|Grupp II|(Grupp I + Grupp II)/2|Grupp I & II ühisosa|(Grupp I või II) == ##|
 |-------|-------|-----|-----|-----|-----|
-| Tugev/mõõdukas (hinnang >= 2)          |24|22|25|10|14|
+| Tugev/mõõdukas (hinnang >= 2)          |24|22|25|10|11|
 | Nõrk (hinnang <2 ja >= 1)              |23|33|42|10|17|
 | Mitteeksisteeriv (hinnang <=0.9 ja >=0)|28|17|33|6|25|
 | Pole teada                             |45|48|20|20|-|
@@ -159,7 +159,7 @@ Need 16 on: [0.0, 1.0], [0.25, 1.333333333], [1.8, 2.0], [0.6, 1.2], [0.6, 1.4],
 |Hinnang|Grupp I|Grupp II|(Grupp I + Grupp II)/2|Grupp I & II ühisosa|(Grupp I või II) == ##|
 |-------|-------|-----|-----|-----|-----|
 | Tugev/mõõdukas (hinnang >= 2)          |23|14|19|12|4|
-| Nõrk (hinnang <2 ja >= 1)              |30|40|48|24|
+| Nõrk (hinnang <2 ja >= 1)              |30|40|48|15|24|
 | Mitteeksisteeriv (hinnang <=0.9 ja >=0)| 7|20|23| 1|18|
 | Pole teada                             |60|46|30|30|-|
 |Kokku                                   |120|120|120|58|46|
