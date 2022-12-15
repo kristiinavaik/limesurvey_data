@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import csv
+import pathlib
 import re
 from collections import Counter
 from dataclasses import dataclass
@@ -427,7 +428,7 @@ class Text:
             'conj': self.get_conj(),
             'cc': self.get_cc(),
             'yneemid': self.get_yneemid(),
-            'emoticons': self.get_emoticons(),
+            'emoticons': self.get_emoticons()
         }
 
 
@@ -437,14 +438,6 @@ def main():
     with jsonlines.open(f) as reader:
         for obj in reader:
             texts.append(obj)
-
-    # for t in texts:
-    #     text = Text.from_input(t)
-    #     d = {}
-    #     d[text.file_id] = text.get_discourse()
-    #
-    #     for k,v in sorted(d.items()):
-    #         print(f'{k} === {v}')
 
     feature_names = (
     'file_id', 'noun', 'adj', 'propn', 'adv', 'intj', 'cconj', 'sconj', 'adp', 'det', 'num', 'punct', 'symbol',
@@ -456,14 +449,17 @@ def main():
     'com_case', 'nsubj', 'nsubj_cop', 'modal', 'acl:relc', 'csubj', 'csubj_cop', 'obj', 'ccomp', 'xcomp', 'obl', 'nmod',
     'appos', 'nummod', 'amod', 'advcl', 'voc', 'cop', 'conj', 'cc', 'yneemid', 'emoticons')
 
-    with open('limesurvey_feature_results3.csv', 'w') as csvfile:
+    f = '' # sisend vaja panna
+
+    with open(f, 'w') as csvfile:
         w = csv.DictWriter(csvfile, feature_names, delimiter=';')
+
         w.writeheader()
 
         for t in texts:
             text = Text.from_input(t)
-            feature_mapping = text.get_feature_mapping()
 
+            feature_mapping = text.get_feature_mapping()
             w.writerow(feature_mapping)
 
 
