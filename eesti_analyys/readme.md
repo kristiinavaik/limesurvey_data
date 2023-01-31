@@ -1,3 +1,6 @@
+
+## Limesurvey hinnangute kokkuvõte
+
 uus andmestik on 'limesurvey_result3.csv' ja 'limesurvey_feature_results_w_dims_uus.csv'
 
 ### SUBJ
@@ -185,3 +188,859 @@ Need 11 on: [2.0, 1.6], [2.4, 1.75], [2.0, 1.4], **[2.0, 0.8]**, [2.333333333, 1
 
 Siin kaks juhust, kus üks grupp andis keskmiseks 3, teine grupp #, nt (3, 3, 3, #, 3) vs (#, #, 2, #, #) JA (#, #, #, #, #) vs (#, 3, #, 3, 3)
 ***
+
+
+## get_statistic.ipynb väljund:
+
+## taustainfo:
+| klassid                | INST | ABS | AFEK | AEG | ARG   | FORM  | IMP   | INFO   | INTER | KEER   | SPONT   | SUBJ |
+|------------------------|------|-----|------|-----|-------|-------|-------|--------|-------|--------|---------|------|
+| tugev/mõõdukas         | 15   | 6   | 28   | 16  | 21    | 14    | 37    | 45     | 10    | 9      | 12      | 30   |
+| nõrk                   | 18   | 35  | 18   | 39  | 27    | 28    | 21    | 26     | 15    | 25     | 6       | 15   |
+| mitteeksisteeriv       | 58   | 56  | 45   | 19  | 31    | 49    | 28    | 5      | 75    | 53     | 79      | 52   |
+| relevantseid tunnuseid | 5    | 1   | 27   | 6   | 5     | 20    | 18    | 12      | 11    | 5      | 17      | 26   |
+
+**Grupp 1**: tugev/mõõdukas vs nõrk
+
+**Grupp 2**: tugev/mõõdukas vs mitteeksisteeriv
+
+**Grupp 3**: nõrk vs mitteeksisteeriv
+
+
+### INST:
+
+relevantsed tunnused: ['2nd_prs_verb', '3rd_prs_verb', 'pres_tense', 'past_tense', 'imp_mood']
+
+----
+**TUNNUS: 2nd_prs_verb**
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): **0.0429**
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **0.0091** 
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.0303; mediaan: 0.0042
+NÕRK -> keskmine: 0.003; mediaan: 0.0
+MITTEEKSISTEERIV -> keskmine: 0.0017; mediaan: 0.0
+```
+
+1. järeldus: selles grupis on keskmiste järgi mõju t/m suunal (ehk 2. isiku verbe on t/m tekstides rohkem)
+2. järeldus: ütleb, et selles grupis kasutatakse 2. isiku verbe t/m tekstides? või noh, mida suuremaks läheb selle dimensiooni 
+olemasolu tunnetus, seda rohkem on 2. isiku verbe.
+
+**TUNNUS: 3rd_prs_verb**
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): 0.001 
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.052; mediaan: 0.0544
+NÕRK -> keskmine: 0.0727; mediaan: 0.0708
+MITTEEKSISTEERIV -> keskmine: 0.0804; mediaan: 0.0779
+```
+3. järeldus: ainult üht gruppi eristati: siit saab öelda, et mida rohkem instrueeriv tekst,
+seda vähem 3. isiku verbe? (tegelt nii ei saa ö€lda, et mdia rohkem, sest puudub kontiinum)
+
+**TUNNUS: pres_tense**
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): 0.001 
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): 0.0018
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.1151; mediaan: 0.1156
+NÕRK -> keskmine: 0.1059; mediaan: 0.1084
+MITTEEKSISTEERIV -> keskmine: 0.0714; mediaan: 0.0707
+```
+4. järeldus: tekib t/m -> mitte ja nõrk -> mitte, siis saab öelda, et 
+olevikku on vähem sellistes tekstides, kus dimensiooni nö 
+olemasolu hakkab vähenema?
+
+**TUNNUS: past_tense**
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **0.0037** 
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.0312; mediaan: 0.0204
+NÕRK -> keskmine: 0.0407; mediaan: 0.03
+MITTEEKSISTEERIV -> keskmine: 0.0673; mediaan: 0.0783
+```
+
+5. järeldus: minevikku on vähem t/m tekstides.
+
+**TUNNUS: imp_mood**
+
+GRUPP 2 (tugev/mõõdukas vs puudu): 0.0453 
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.027; mediaan: 0.0
+NÕRK -> keskmine: 0.0018; mediaan: 0.0
+MITTEEKSISTEERIV -> keskmine: 0.0009; mediaan: 0.0
+```
+6. järeldus: impi rohkem t/m tekstides.
+
+### ABSTRAKTSUS:
+
+relevantsed tunnused: ['obl']
+
+**TUNNUS: obliikva**
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): **0.0118** 
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **0.0003** 
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): **0.037**
+
+```
+NÕRK -> keskmine: 0.0934; mediaan: 0.0898
+MITTEEKSISTEERIV -> keskmine: 0.1058; mediaan: 0.1048
+```
+
+7. järeldus: obliikvat on rohkem tekstides, kus dimensiooni ei esine
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+## AFEKTIIVSUS
+
+relevantsed tunnused: ['noun', 'propn', 'adv', 'intj', 'sconj', 'pron', 'abbr',
+'avg_word_len', 'coref', 'see_pron', '1st_pron', '2nd_pron', '3rd_pron', 'active_voice',
+'passive_voice', 'core_verb', 'supine', 'discourse', 'ind_mood', 'neg_polarity', 'gen_case',
+'ade_case', 'modal', 'xcomp', 'obl', 'nmod', 'nummod']
+
+
+**TUNNUS: noun**
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **0.07**
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): **0.0004**
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.2091; mediaan: 0.2195
+NÕRK -> keskmine: 0.2463; mediaan: 0.2414
+MITTEEKSISTEERIV -> keskmine: 0.3163; mediaan: 0.3083
+```
+
+järeldus: tugev/mõõdukas ja esineb vähem
+
+7. järeldus: obliikva on omane tekstidele, kus dimensiooni ei esine
+
+**TUNNUS: propn**: **0.0001**
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.024; mediaan: 0.0136
+NÕRK -> keskmine: 0.0603; mediaan: 0.0376
+MITTEEKSISTEERIV -> keskmine: 0.0896; mediaan: 0.0789
+```
+
+järeldus: pärisnimesid on t/m tekstides vähem 
+
+
+**TUNNUS: adv**
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **0.0** 
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): **0.0004**
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.1303; mediaan: 0.1259
+NÕRK -> keskmine: 0.1077; mediaan: 0.1134
+MITTEEKSISTEERIV -> keskmine: 0.0646; mediaan: 0.0602
+```
+järeldus: mitteeksisteerivates tekstided on adverbe vähem
+
+
+**TUNNUS: intj**
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): **0.0101** 
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **0.0001** 
+
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.0019; mediaan: 0.0
+NÕRK -> keskmine: 0.0002; mediaan: 0.0
+MITTEEKSISTEERIV -> keskmine: 0.0; mediaan: 0.0
+```
+
+järeldus: mõlemas grupis sama trend, mitteeksisteerivates tekstide son hüüdsõnu vähem
+
+
+**TUNNUS: SCONJ**
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **0.0001** 
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): **0.0**
+
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.0306; mediaan: 0.029
+NÕRK -> keskmine: 0.034; mediaan: 0.0322
+MITTEEKSISTEERIV -> keskmine: 0.015; mediaan: 0.0145
+```
+
+järeldus: sama trend, mis hüüdsõnadegagi
+
+
+
+**TUNNUS: pron**
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **0.0** 
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): **0.0015**
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.0885; mediaan: 0.0889
+NÕRK -> keskmine: 0.0666; mediaan: 0.0596
+MITTEEKSISTEERIV -> keskmine: 0.0326; mediaan: 0.0263
+```
+
+järeldus: dimensiooni olemasolu vähendes on ka vähem pronoomeneid.
+
+
+**TUNNUS: abbr**
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **0.0443** 
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): **0.0168**
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.006; mediaan: 0.0045
+NÕRK -> keskmine: 0.0058; mediaan: 0.0
+MITTEEKSISTEERIV -> keskmine: 0.0197; mediaan: 0.0112
+```
+
+järeldus: lühendid pigem tekstides, kus pole afektiivsus kõrge.
+
+
+**TUNNUS: AVG_WORD_LEN**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): **0.0152**
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **0.0**
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): **0.0152**
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 4.8848; mediaan: 4.9568
+NÕRK -> keskmine: 5.5085; mediaan: 5.4162
+MITTEEKSISTEERIV -> keskmine: 6.0689; mediaan: 5.9915
+```
+
+järeldus: ma ei saa aru, mis siin toimub
+
+
+**TUNNUS: coref**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): **0.0476** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **0.0** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): **0.0007**
+
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.4987; mediaan: 0.3857
+NÕRK -> keskmine: 0.3148; mediaan: 0.2462
+MITTEEKSISTEERIV -> keskmine: 0.1094; mediaan: 0.087
+```
+
+järeldus: rohkem tekstides, kus dimensiooni ei esine?
+
+
+**TUNNUS: see pronoomenina**
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **0.0013** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): **0.0013**
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.0143; mediaan: 0.0142
+NÕRK -> keskmine: 0.0162; mediaan: 0.0173
+MITTEEKSISTEERIV -> keskmine: 0.0068; mediaan: 0.
+```
+
+järeldus:  kus dimensiooni vähem, seda vähem ka see kui pronoomen
+
+
+**TUNNUS: 1ST_PRON**
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **0.0** 
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): **0.0007**
+
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.0198; mediaan: 0.0103
+NÕRK -> keskmine: 0.0177; mediaan: 0.0094
+MITTEEKSISTEERIV -> keskmine: 0.0011; mediaan: 0.0
+```
+
+järeldus: kus dimensiooni vähem, seal ka 1. isiku prnoomeneid vähem
+
+**TUNNUS: 2nd_pron**
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): **0.0014** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **0.0** 
+
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.0056; mediaan: 0.0042
+NÕRK -> keskmine: 0.001; mediaan: 0.0
+MITTEEKSISTEERIV -> keskmine: 0.0005; mediaan: 0.0
+```
+
+järeldus: 2. isiku pronoomenite kasutus väheneb, kui dimensiooni olemasolu väheneb.
+
+
+**TUNNUS: 3rd_pron**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): **0.0164** 
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **0.0** 
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.0172; mediaan: 0.0154
+NÕRK -> keskmine: 0.0071; mediaan: 0.003
+MITTEEKSISTEERIV -> keskmine: 0.0054; mediaan: 0.0
+```
+
+järeldus: t/m tekstides on rohkem 3. isiku pronoomeneid, seega dimensiooni olemasolu vähenedes, väheneb ka 3. isiku pronoomenite kasutus.
+
+
+**TUNNUS: active voice**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): **** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **3.11097e-05** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.152; mediaan: 0.15
+NÕRK -> keskmine: 0.1372; mediaan: 0.1334
+MITTEEKSISTEERIV -> keskmine: 0.1188; mediaan: 0.1118
+```
+
+järeldus: ?
+
+
+**TUNNUS: passive voice**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **0.0001570591** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.0086; mediaan: 0.0075
+NÕRK -> keskmine: 0.0157; mediaan: 0.0115
+MITTEEKSISTEERIV -> keskmine: 0.0229; mediaan: 0.018
+```
+
+järeldus: rohkem t/m tekstidele omane
+
+
+
+**TUNNUS: core verb**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **2.1575e-06** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.0837; mediaan: 0.0806
+NÕRK -> keskmine: 0.07; mediaan: 0.0676
+MITTEEKSISTEERIV -> keskmine: 0.0525; mediaan: 0.0529
+```
+
+järeldus: väga napikas....aga pmst siis t/m tekstides esineb tuumverbe rohkem?
+
+
+**TUNNUS: supiin**
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): **0.0126089272** 
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **6.2184e-05** 
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.0137; mediaan: 0.0122
+NÕRK -> keskmine: 0.0075; mediaan: 0.0056
+MITTEEKSISTEERIV -> keskmine: 0.0053; mediaan: 0.004
+```
+järeldus: supiini kasutus väheneb, kui dimensiooni olemasolu väheneb?
+
+**TUNNUS: discourse**
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): **0.0101356266** 
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): **6.64695e-05** 
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+```
+TUGEV/MÕÕDUKAS -> keskmine: 0.0019; mediaan: 0.0
+NÕRK -> keskmine: 0.0002; mediaan: 0.0
+MITTEEKSISTEERIV -> keskmine: 0.0; mediaan: 0.0
+```
+järeldus: tunnust on rohkem t/m tekstides.
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+**TUNNUS: x**
+
+
+GRUPP 1 (tugev/mõõdukas vs nõrk): ** ** 
+
+
+GRUPP 2 (tugev/mõõdukas vs MITTEEKSISTEERIV): ** ** 
+
+
+GRUPP 3 (nõrk vs MITTEEKSISTEERIV): ** **
+
+
+```
+
+```
+
+
+järeldus: 
+
+
+
+
