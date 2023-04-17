@@ -93,6 +93,9 @@ class Text:
         return sum(pos == 'ADP' for pos in self.pos_tags) / self.get_text_length()
 
     def get_det(self) -> float:
+        # print(self.file_id)
+        # c = [pos for pos in zip(self.pos_tags, self.words_info) if pos[0] == 'DET']
+        # print(c)
         return sum(pos == 'DET' for pos in self.pos_tags) / self.get_text_length()
 
     def get_num(self) -> float:
@@ -112,6 +115,12 @@ class Text:
 
     def get_abbriviations(self) -> float:
         return len([w for w in self.words_info if re.match(w.morf_analysis, 'Abbr=Yes')]) / self.get_text_length()
+
+    def get_nominals(self) -> int:
+        return sum([self.get_nouns(), self.get_adjectives(), self.get_num(), self.get_prons()])
+
+    def get_verbs(self) -> int:
+        return sum(pos == 'VERB' for pos in self.pos_tags)
 
     # TEKSTILISED TUNNUSED
 
@@ -134,7 +143,7 @@ class Text:
 
     # VARIA
 
-    def get_coreference(self) -> float:
+    def get_pron_noun_ratio(self) -> float:
         return self.get_prons() / self.get_nouns()
 
     def get_see_as_pronoun(self) -> float:
@@ -178,17 +187,25 @@ class Text:
         return len(ls) / self.get_text_length()
 
     def get_core_verbs(self) -> float:
-        return len([lemma for lemma in self.lemmas if lemma in core_verbs]) / self.get_text_length()
+        return len([lemma[0] for lemma in zip(self.lemmas, self.pos_tags) if lemma[0] in core_verbs and lemma[1] == 'VERB']) / self.get_text_length()
 
     # läheb vaja ainult get_verbtype_ratio arvutamises
     def get_finite_verbs(self) -> float:
         return len([w for w in self.words_info if re.match(w.morf_analysis, 'VerbForm=Fin')])
+
+    def get_finite_verbs_norm(self) -> float:
+        return len([w for w in self.words_info if re.match(w.morf_analysis, 'VerbForm=Fin')]) / self.get_text_length()
 
     # läheb vaja ainult get_verbtype_ratio arvutamises
     def get_infinite_verbs(self) -> float:
         infinite_pattern = re.compile('VerbForm=(Sup|Conv|Part|Inf)')
         matches = [w for w in self.words_info if infinite_pattern.search(w.morf_analysis)]
         return len(matches)
+
+    def get_infinite_verbs_norm(self) -> float:
+        infinite_pattern = re.compile('VerbForm=(Sup|Conv|Part|Inf)')
+        matches = [w for w in self.words_info if infinite_pattern.search(w.morf_analysis)]
+        return len(matches) /  self.get_text_length()
 
     def get_verbtype_ratio(self) -> float:
         """ EI PEA NORMALISEERIMA"""
@@ -202,6 +219,8 @@ class Text:
         return len([w for w in self.words_info if re.match(w.morf_analysis, 'VerbForm=Conv')]) / self.get_text_length()
 
     def get_supine(self) -> float:
+        # print(self.file_id)
+        # print(len([w for w in self.words_info if re.match(w.morf_analysis, 'VerbForm=Sup')]))
         return len([w for w in self.words_info if re.match(w.morf_analysis, 'VerbForm=Sup')]) / self.get_text_length()
 
     def get_verb_particles(self) -> float:
@@ -283,7 +302,7 @@ class Text:
         return len([w for w in self.words_info if cop_patt.search(w.dep)]) / self.get_text_length()
 
     def get_modals(self) -> float:
-        return len([w for w in self.words_info if w.dep == 'aux']) / self.get_text_length()
+        return len([w[0] for w in zip(self.words_info, self.lemmas) if w[0].dep == 'aux' and w[1] != 'olema']) / self.get_text_length()
 
     def get_relative_clause_modifier(self) -> float:
         cop_patt = re.compile('acl:relcl$')
@@ -370,7 +389,8 @@ class Text:
             'avg_word_len': self.get_average_word_length(),
             'avr_sent_len': self.avg_sent_len,
             'hapax_legomena': self.get_hapax_legomena(),
-            'coref': self.get_coreference(),
+            'pron/noun_ratio': self.get_pron_noun_ratio(),
+            'nominals': self.get_nominals(),
             'see_pron': self.get_see_as_pronoun(),
             'see_det': self.get_see_as_determinant(),
             '1st_pron': self.get_first_pron(),
@@ -383,6 +403,8 @@ class Text:
             '3rd_prs_verb': self.get_third_person_verbs(),
             'core_verb': self.get_core_verbs(),
             'verbtype_ratio': self.get_verbtype_ratio(),
+            'finite_verb': self.get_finite_verbs_norm(),
+            'inf_verb': self.get_infinite_verbs_norm(),
             'da_inf': self.get_da_infinitive(),
             'gerund': self.get_gerunds(),
             'supine': self.get_supine(),
@@ -441,15 +463,15 @@ def main():
 
     feature_names = (
     'file_id', 'noun', 'adj', 'propn', 'adv', 'intj', 'cconj', 'sconj', 'adp', 'det', 'num', 'punct', 'symbol',
-    'pron', 'abbr', 'TTR', 'avg_word_len', 'avr_sent_len', 'hapax_legomena', 'coref', 'see_pron', 'see_det',
+    'pron', 'abbr', 'nominals', 'TTR', 'avg_word_len', 'avr_sent_len', 'hapax_legomena', 'pron/noun_ratio', 'see_pron', 'see_det',
     '1st_pron', '2nd_pron', '3rd_pron', 'active_voice', 'passive_voice', '1st_prs_verb', '2nd_prs_verb', '3rd_prs_verb',
-    'core_verb', 'verbtype_ratio', 'da_inf', 'gerund', 'supine', 'verb_particle', 'discourse', 'pres_tense', 'past_tense',
+    'core_verb', 'verbtype_ratio', 'da_inf', 'inf_verb', 'finite_verb' ,'gerund', 'supine', 'verb_particle', 'discourse', 'pres_tense', 'past_tense',
     'ind_mood', 'cond_mood', 'imp_mood', 'quot_mood', 'neg_polarity', 'nom_case', 'gen_case', 'part_case', 'ill_case',
     'ine_case', 'ela_case', 'alla_case', 'ade_case', 'abl_case', 'tra_case', 'ter_case', 'ess_case', 'abe_case',
     'com_case', 'nsubj', 'nsubj_cop', 'modal', 'acl:relc', 'csubj', 'csubj_cop', 'obj', 'ccomp', 'xcomp', 'obl', 'nmod',
     'appos', 'nummod', 'amod', 'advcl', 'voc', 'cop', 'conj', 'cc', 'yneemid', 'emoticons')
 
-    f = '' # sisend vaja panna
+    f = ''  # sisend vaja panna
 
     with open(f, 'w') as csvfile:
         w = csv.DictWriter(csvfile, feature_names, delimiter=';')
@@ -457,6 +479,7 @@ def main():
         w.writeheader()
 
         for t in texts:
+            # print(t)
             text = Text.from_input(t)
 
             feature_mapping = text.get_feature_mapping()
