@@ -450,7 +450,7 @@ class Text:
             'conj': self.get_conj(),
             'cc': self.get_cc(),
             'yneemid': self.get_yneemid(),
-            'emoticons': self.get_emoticons()
+            # 'emoticons': self.get_emoticons()
         }
 
 
@@ -469,9 +469,9 @@ def main():
     'ind_mood', 'cond_mood', 'imp_mood', 'quot_mood', 'neg_polarity', 'nom_case', 'gen_case', 'part_case', 'ill_case',
     'ine_case', 'ela_case', 'alla_case', 'ade_case', 'abl_case', 'tra_case', 'ter_case', 'ess_case', 'abe_case',
     'com_case', 'nsubj', 'nsubj_cop', 'modal', 'acl:relc', 'csubj', 'csubj_cop', 'obj', 'ccomp', 'xcomp', 'obl', 'nmod',
-    'appos', 'nummod', 'amod', 'advcl', 'voc', 'cop', 'conj', 'cc', 'yneemid', 'emoticons')
+    'appos', 'nummod', 'amod', 'advcl', 'voc', 'cop', 'conj', 'cc', 'yneemid') #, 'emoticons')
 
-    f = ''  # sisend vaja panna
+    f = 'limesurvey_results4.csv'  # sisend vaja panna
 
     with open(f, 'w') as csvfile:
         w = csv.DictWriter(csvfile, feature_names, delimiter=';')
