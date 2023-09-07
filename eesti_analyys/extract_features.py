@@ -30,15 +30,18 @@ class WordInfo:
 
 
 class Text:
-    def __init__(self, file_id: str, avg_sent_len: float, words_info: Sequence[WordInfo]):
+    def __init__(self, file_id: str, avg_sent_len: float, word_counter: float, words_info: Sequence[WordInfo], lemma_dict, lemma_counter):
         self.file_id = file_id
         self.avg_sent_len = avg_sent_len
+        self.word_count = word_counter
         self.words_info = words_info
+        self.lemma_dict = lemma_dict
+        self.lemma_count = lemma_counter
 
     @classmethod
-    def from_input(cls, input_text: Tuple[str, int, Tuple[str, str, str, str, str]]) -> Text:
-        file_id, sent, words_analysis = input_text
-        return cls(file_id, sent, [WordInfo(*si) for si in words_analysis])
+    def from_input(cls, input_text: Tuple[str, int, int, Tuple[str, str, str, str, str]]) -> Text:
+        file_id, avg_sent, word_counter, words_analysis, lemma_dict, lemma_counter = input_text
+        return cls(file_id, avg_sent, word_counter, [WordInfo(*si) for si in words_analysis], lemma_dict, lemma_counter)
 
     @property
     def normalize(cls) -> float:
@@ -165,6 +168,10 @@ class Text:
     def get_third_pron(self) -> float:
         ls = [w for w in self.words_info if w.pos_tag == 'PRON' and re.match(w.morf_analysis, 'Person=3')]
         return len(ls) / self.get_text_length()
+
+    def get_nominalisation(self) -> float:
+        nom_counter = [w for w in self.words_info if w.lemma.endswith('ioon') and w.pos_tag == 'NOUN']
+        return len(nom_counter) / self.get_text_length()
 
     # VERBS
 
@@ -396,6 +403,7 @@ class Text:
             '1st_pron': self.get_first_pron(),
             '2nd_pron': self.get_second_pron(),
             '3rd_pron': self.get_third_pron(),
+            'nominalisation': self.get_nominalisation(),
             'active_voice': self.get_active_voice(),
             'passive_voice': self.get_passive_voice(),
             '1st_prs_verb': self.get_first_person_verbs(),
@@ -455,7 +463,7 @@ class Text:
 
 
 def main():
-    f = 'limesurvey_tekstid_morfiga_vol2.json'
+    f = 'limesrurvey_tekstid_morfiga_vol_aug21.json'
     texts = []
     with jsonlines.open(f) as reader:
         for obj in reader:
@@ -464,16 +472,16 @@ def main():
     feature_names = (
     'file_id', 'noun', 'adj', 'propn', 'adv', 'intj', 'cconj', 'sconj', 'adp', 'det', 'num', 'punct', 'symbol',
     'pron', 'abbr', 'nominals', 'TTR', 'avg_word_len', 'avr_sent_len', 'hapax_legomena', 'pron/noun_ratio', 'see_pron', 'see_det',
-    '1st_pron', '2nd_pron', '3rd_pron', 'active_voice', 'passive_voice', '1st_prs_verb', '2nd_prs_verb', '3rd_prs_verb',
+    '1st_pron', '2nd_pron', '3rd_pron', 'nominalisation', 'active_voice', 'passive_voice', '1st_prs_verb', '2nd_prs_verb', '3rd_prs_verb',
     'core_verb', 'verbtype_ratio', 'da_inf', 'inf_verb', 'finite_verb' ,'gerund', 'supine', 'verb_particle', 'discourse', 'pres_tense', 'past_tense',
     'ind_mood', 'cond_mood', 'imp_mood', 'quot_mood', 'neg_polarity', 'nom_case', 'gen_case', 'part_case', 'ill_case',
     'ine_case', 'ela_case', 'alla_case', 'ade_case', 'abl_case', 'tra_case', 'ter_case', 'ess_case', 'abe_case',
     'com_case', 'nsubj', 'nsubj_cop', 'modal', 'acl:relc', 'csubj', 'csubj_cop', 'obj', 'ccomp', 'xcomp', 'obl', 'nmod',
     'appos', 'nummod', 'amod', 'advcl', 'voc', 'cop', 'conj', 'cc', 'yneemid') #, 'emoticons')
 
-    f = 'limesurvey_results4.csv'  # sisend vaja panna
-
-    with open(f, 'w') as csvfile:
+    # output = 'limesurvey_tunnuste_skoorid_070923.csv'  # sisend vaja panna
+    output = ''
+    with open(output, 'w') as csvfile:
         w = csv.DictWriter(csvfile, feature_names, delimiter=';')
 
         w.writeheader()

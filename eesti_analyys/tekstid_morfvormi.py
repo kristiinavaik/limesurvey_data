@@ -3,6 +3,7 @@ Viib Limesurvey tekstid Stanzaga sobivasse vormi.
 Eesmärk: tunnuste eraldamiseks on vaja, et sisend oleks sobival kujul.
 Väljund -> üks tekst per rida -> [faili_id, [[sõne1, sõne1_lemma, sõne1_ POS, sõne_morf], [repeat], ...]]
 """
+from collections import Counter
 from pathlib import Path
 import stanza
 import jsonlines
@@ -10,6 +11,7 @@ import torch
 torch.set_num_threads(2)
 nlp = stanza.Pipeline('et', verbose=False, use_gpu=False)
 
+lemma_counter_general = Counter()
 
 def get_sent_len(txt):
     sentences = [sent for sent in txt.sentences]
@@ -26,11 +28,15 @@ def analyysi(doc):
     doc_lst = []
     txt = nlp(doc)
     avg_sent_len = get_sent_len(txt)
+    wordinfo_counter = 0
+    lemma_counter = Counter()
     for sent in txt.sentences:
         sent_words = [w for w in sent.words]
         for w in sent_words:
             token = w.text
             lemma = w.lemma
+            lemma_counter[lemma] += 1
+            lemma_counter_general[lemma] += 1
             pos = w.upos
             dep = w.deprel
             if w.feats is None:
@@ -39,25 +45,29 @@ def analyysi(doc):
                 morf = w.feats
 
             word_info = [token, lemma, pos, morf, dep]
+            wordinfo_counter += 1
 
             doc_lst.append(word_info)
-    return avg_sent_len, doc_lst
+    return avg_sent_len, doc_lst, wordinfo_counter, lemma_counter
+
 
 def main():
-    docs = []
-    dir = '/home/kristiina/Desktop/DOK_TOO/eesti_analyys/limesurvey_data/tekstid/'
-
+    # dir = '/home/kristiina/Desktop/DOK_TOO/eesti_data/limesurvey_data/tekstid/'
+    dir = '/home/kristiina/Desktop/dok/eesti_data/limesurvey_data/tekstid'
     paths = [p for p in Path(dir).glob('*.txt')]
-    with jsonlines.open('limesrurvey_tekstid_morfiga_vol3.json', mode='w') as writer:
+    with jsonlines.open('limesrurvey_tekstid_morfiga_vol_X', mode='w') as writer:
         for path in paths:
             filename = path.stem
-            print(filename)
             with open(path) as fod:
                 doc = ' '.join([line for line in fod.readlines()])
                 analyys = analyysi(doc)
-                writer.write([filename, analyys[0], analyys[1]])
+                print(filename, analyys[0], analyys[2], len(analyys[3]))#, analyys[3])
+                # per rida: failinimi, keskmine lausete pikkus, sõnede arv, sõnede analüüsid, lemmade counter, lemmade arv
+                # writer.write([filename, analyys[0], analyys[2], analyys[1], analyys[3], len(analyys[3])])
+
+    # print(lemma_counter_general)
 
 
 if __name__ == '__main__':
-    # main()
-    print('Boo')
+    main()
+    # print('Boo')

@@ -1,9 +1,13 @@
 import pathlib
 from typing import Generator, Tuple, Dict
 
+"""
+See skript genereerib igale dimensioonile ja igale dimensiooni tasemele (S/M, W ja NE) eraldi csv-failid.
+Selle sisend on tunnuste eraldamise skripti väljund ja selle skripti tulemus on get_statistics.py sisendiks!
+"""
 
 def read_results() -> Tuple[str, Dict[str, str]]:
-    with open('limesurvey_results4.csv') as f:
+    with open('limesurvey_tunnuste_skoorid_070923.csv') as f:
         header = f.readline()
         results = {line.split(';', maxsplit=1)[0]: line for line in f}
     return header, results
