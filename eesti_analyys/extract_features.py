@@ -129,9 +129,9 @@ class Text:
 
     def get_TTR(self) -> float:
         """type-token ratio, seda EI peaks normaliseerima"""
-        words_count = len([w for w in self.words_info])
-        unique_tokens = set([word_info.word for word_info in self.words_info if word_info.pos_tag != 'PUNCT'])
-        return len(unique_tokens) / words_count
+        words_count = len([w.lemma for w in self.words_info])
+        unique_tokens_count = len(set([wi.lemma for wi in self.words_info if wi.pos_tag != 'PUNCT']))
+        return unique_tokens_count / words_count
 
     def get_average_word_length(self) -> float:
         """seda EI peaks normaliseerima"""
@@ -157,21 +157,37 @@ class Text:
         matches = [w for w in self.words_info if w.lemma == 'see' and w.pos_tag == 'DET']
         return len(matches) / self.get_text_length()
 
-    def get_first_pron(self) -> float:
-        ls = [w for w in self.words_info if w.pos_tag == 'PRON' and re.match(w.morf_analysis, 'Person=1')]
+    def get_first_pron_sg(self) -> float:
+        ls = [w for w in self.words_info if w.pos_tag == 'PRON' and re.match(w.morf_analysis, 'Person=1') and re.match(w.morf_analysis, 'Number=Sing')]
         return len(ls) / self.get_text_length()
 
-    def get_second_pron(self) -> float:
-        ls = [w for w in self.words_info if w.pos_tag == 'PRON' and re.match(w.morf_analysis, 'Person=2')]
+    def get_first_pron_pl(self) -> float:
+        ls = [w for w in self.words_info if w.pos_tag == 'PRON' and re.match(w.morf_analysis, 'Person=1') and re.match(w.morf_analysis, 'Number=Plur')]
         return len(ls) / self.get_text_length()
 
-    def get_third_pron(self) -> float:
-        ls = [w for w in self.words_info if w.pos_tag == 'PRON' and re.match(w.morf_analysis, 'Person=3')]
+    def get_second_pron_sg(self) -> float:
+        ls = [w for w in self.words_info if w.pos_tag == 'PRON' and re.match(w.morf_analysis, 'Person=2') and re.match(w.morf_analysis, 'Number=Sing')]
+        return len(ls) / self.get_text_length()
+
+    def get_second_pron_pl(self) -> float:
+        ls = [w for w in self.words_info if w.pos_tag == 'PRON' and re.match(w.morf_analysis, 'Person=2') and re.match(w.morf_analysis, 'Number=Plur')]
+        return len(ls) / self.get_text_length()
+
+    def get_third_pron_sg(self) -> float:
+        ls = [w for w in self.words_info if w.pos_tag == 'PRON' and re.match(w.morf_analysis, 'Person=3') and re.match(w.morf_analysis, 'Number=Sing')]
+        return len(ls) / self.get_text_length()
+
+    def get_third_pron_pl(self) -> float:
+        ls = [w for w in self.words_info if w.pos_tag == 'PRON' and re.match(w.morf_analysis, 'Person=3') and re.match(w.morf_analysis, 'Number=Plur')]
         return len(ls) / self.get_text_length()
 
     def get_nominalisation(self) -> float:
         nom_counter = [w for w in self.words_info if w.lemma.endswith('ioon') and w.pos_tag == 'NOUN']
         return len(nom_counter) / self.get_text_length()
+
+    def get_mine_nouns(self) -> float:
+        mine_counter = [w for w in self.words_info if w.lemma.endswith('mine') and w.pos_tag == 'NOUN']
+        return len(mine_counter) / self.get_text_length()
 
     # VERBS
 
@@ -400,10 +416,14 @@ class Text:
             'nominals': self.get_nominals(),
             'see_pron': self.get_see_as_pronoun(),
             'see_det': self.get_see_as_determinant(),
-            '1st_pron': self.get_first_pron(),
-            '2nd_pron': self.get_second_pron(),
-            '3rd_pron': self.get_third_pron(),
+            '1st_pron_sg': self.get_first_pron_sg(),
+            '2nd_pron_sg': self.get_second_pron_sg(),
+            '3rd_pron_sg': self.get_third_pron_sg(),
+            '1st_pron_pl': self.get_first_pron_pl(),
+            '2nd_pron_pl': self.get_second_pron_pl(),
+            '3rd_pron_pl': self.get_third_pron_pl(),
             'nominalisation': self.get_nominalisation(),
+            'mine_derivation': self.get_mine_nouns(),
             'active_voice': self.get_active_voice(),
             'passive_voice': self.get_passive_voice(),
             '1st_prs_verb': self.get_first_person_verbs(),
@@ -472,15 +492,16 @@ def main():
     feature_names = (
     'file_id', 'noun', 'adj', 'propn', 'adv', 'intj', 'cconj', 'sconj', 'adp', 'det', 'num', 'punct', 'symbol',
     'pron', 'abbr', 'nominals', 'TTR', 'avg_word_len', 'avr_sent_len', 'hapax_legomena', 'pron/noun_ratio', 'see_pron', 'see_det',
-    '1st_pron', '2nd_pron', '3rd_pron', 'nominalisation', 'active_voice', 'passive_voice', '1st_prs_verb', '2nd_prs_verb', '3rd_prs_verb',
-    'core_verb', 'verbtype_ratio', 'da_inf', 'inf_verb', 'finite_verb' ,'gerund', 'supine', 'verb_particle', 'discourse', 'pres_tense', 'past_tense',
+    '1st_pron_sg', '2nd_pron_sg', '3rd_pron_sg', '1st_pron_pl', '2nd_pron_pl', '3rd_pron_pl', 'nominalisation', 'mine_derivation',
+    'active_voice', 'passive_voice', '1st_prs_verb', '2nd_prs_verb', '3rd_prs_verb', 'core_verb', 'verbtype_ratio', 'da_inf',
+    'inf_verb', 'finite_verb' ,'gerund', 'supine', 'verb_particle', 'discourse', 'pres_tense', 'past_tense',
     'ind_mood', 'cond_mood', 'imp_mood', 'quot_mood', 'neg_polarity', 'nom_case', 'gen_case', 'part_case', 'ill_case',
     'ine_case', 'ela_case', 'alla_case', 'ade_case', 'abl_case', 'tra_case', 'ter_case', 'ess_case', 'abe_case',
     'com_case', 'nsubj', 'nsubj_cop', 'modal', 'acl:relc', 'csubj', 'csubj_cop', 'obj', 'ccomp', 'xcomp', 'obl', 'nmod',
     'appos', 'nummod', 'amod', 'advcl', 'voc', 'cop', 'conj', 'cc', 'yneemid') #, 'emoticons')
 
-    # output = 'limesurvey_tunnuste_skoorid_070923.csv'  # sisend vaja panna
-    output = ''
+    output = 'limesurvey_tunnuste_skoorid_250923.csv'  # sisend vaja panna
+    # output = ''
     with open(output, 'w') as csvfile:
         w = csv.DictWriter(csvfile, feature_names, delimiter=';')
 

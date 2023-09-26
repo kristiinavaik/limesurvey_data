@@ -6,8 +6,9 @@ See skript genereerib igale dimensioonile ja igale dimensiooni tasemele (S/M, W 
 Selle sisend on tunnuste eraldamise skripti väljund ja selle skripti tulemus on get_statistics.py sisendiks!
 """
 
-def read_results() -> Tuple[str, Dict[str, str]]:
-    with open('limesurvey_tunnuste_skoorid_070923.csv') as f:
+
+def read_results(filename) -> Tuple[str, Dict[str, str]]:
+    with open(filename) as f:
         header = f.readline()
         results = {line.split(';', maxsplit=1)[0]: line for line in f}
     return header, results
@@ -30,7 +31,8 @@ def process_ls_file(ls_file: pathlib.Path, header: str, results: Dict[str, str])
 
 
 def main():
-    header, limesurvey_results = read_results()
+    f = 'limesurvey_tunnuste_skoorid_250923.csv'
+    header, limesurvey_results = read_results(f)
     for ls_file in iter_dim_groups_files():
         print(ls_file, '=>', end=' ')
         csv_path = process_ls_file(ls_file, header, limesurvey_results)
